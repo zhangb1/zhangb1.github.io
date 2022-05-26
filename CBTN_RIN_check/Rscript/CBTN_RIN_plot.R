@@ -42,7 +42,11 @@ df <- data.frame(x = cbtn_umap$layout[,1],
                  Group = RIN,
                  Cancer_type =Cancer_type)
 write.csv(df,"/Users/zhangb1/Documents/D3b-project/D3b-CBTN-RNA-check/umap_bo_check.csv",quote=FALSE)
-ggplot(df, aes(x, y, colour = Cancer_type, shape= Group)) +
+#ggplot(df, aes(x, y, colour = Cancer_type, shape= Group)) +
+
+level_order <- c('BadRin', 'LowRin', 'GoodRin')
+
+ggplot(df, aes(x, y, colour = Group,shape= Group)) +
   geom_point(size = 3.5)+
   scale_shape_manual(values = 0:3) +
   ggtitle("Umap plot") +
@@ -83,4 +87,21 @@ level_order <- c('BadRin', 'LowRin', 'GoodRin')
 
 p <- ggplot(steps,aes(x = factor(RINstatus,level = level_order),Mapping_rate))
 
+p + geom_boxplot() +geom_jitter(width = 0.2) + xlab("RINstatus")
+
+
+p <- ggplot(steps,aes(x = factor(RINstatus,level = level_order),Mismatch_rate))
+p + geom_boxplot() +geom_jitter(width = 0.2) + xlab("RINstatus")
+
+
+p <- ggplot(steps,aes(x = factor(RINstatus,level = level_order),Chimeric_reads_mapping))
+p + geom_boxplot() +geom_jitter(width = 0.2) + xlab("RINstatus")
+
+p <- ggplot(steps,aes(x = factor(RINstatus,level = level_order),Mapped_multiple_loci))
+p + geom_boxplot() +geom_jitter(width = 0.2) + xlab("RINstatus")
+
+p <- ggplot(steps,aes(x = factor(RINstatus,level = level_order),Mapped_too_many_loci))
+p + geom_boxplot() +geom_jitter(width = 0.2) + xlab("RINstatus")
+
+p <- ggplot(steps,aes(x = factor(RINstatus,level = level_order),Reads_unmapped))
 p + geom_boxplot() +geom_jitter(width = 0.2) + xlab("RINstatus")
