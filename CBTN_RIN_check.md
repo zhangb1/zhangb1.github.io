@@ -1,6 +1,6 @@
-##Data Summary
+## Data Summary
 
-Total of 918 RNAseq samples in CBTN datasets
+Total of 918 RNAseq samples in CBTN datasets can be found
 
 Source RIN from [link](https://chop365-my.sharepoint.com/:x:/g/personal/sullivanca_chop_edu/EZUZbpJOsmRDrI_o97k68MIB_VFw5ijByrEoFBbCc0-UHw?e=Uureko)
 
