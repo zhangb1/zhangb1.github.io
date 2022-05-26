@@ -20,3 +20,10 @@ numbers  | RIN
 
 ## Stats Figures
 
+### Umap plot
+
+1. use all TPM value from RSEM results 
+2. remove TPM sum is 0 
+3. use log2(TPM+1) in the Umap
+
+![Umap](./images/Umap_Rplot.pdf)
