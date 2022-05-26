@@ -14,8 +14,8 @@ RIN>5.5 as GoodRin
 numbers  | RIN
 ------------- | -------------
 40  | BadRin
-790  | LowRin
-88 |GoodRin
+88  | LowRin
+790 |GoodRin
 
 
 ## Stats Figures
