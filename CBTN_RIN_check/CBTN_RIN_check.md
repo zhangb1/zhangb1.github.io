@@ -26,4 +26,8 @@ numbers  | RIN
 2. remove TPM sum is 0 
 3. use log2(TPM+1) in the Umap
 
-![Umap](./images/Umap_Rplot.pdf)
+<img width="636" alt="image" src="https://user-images.githubusercontent.com/14929845/170528820-49e13994-a6bd-4f46-a595-de33d0e32e0a.png">
+
+### Box plot
+
+
