@@ -1,0 +1,919 @@
+Sdg_ID	Aliquot	Rin	BS_ID	RINstatus	cancer_type	Mapping_rate	rsem_name	Mismatch_rate	Chimeric_reads_mapping	Mapped_multiple_loci	Mapped_too_many_loci	Reads_unmapped
+7316-10	717108	4.2	BS_GDHH6T5A	LowRin	Neurofibroma/Plexiform	77.70	cae75655-bec6-4ab6-af6f-e286f4cae404.rsem.genes.results.gz	0.65	0.09	19.70	0.03	0.41
+7316-100	601598	8.4	BS_BHR08WGW	GoodRin	Craniopharyngioma	84.20	a4aba99d-7974-4fa7-a2b2-a2b6b893273f.rsem.genes.results.gz	0.81	0.14	13.37	0.06	0.48
+7316-101	588338	6.5	BS_QV51J756	GoodRin	Ganglioglioma	86.05	f52e9f4d-6f98-41e6-872f-107137f59980.rsem.genes.results.gz	0.50	0.27	12.31	0.04	0.21
+7316-1038	711661	6.6	BS_VPBMDMQX	GoodRin	Medulloblastoma	84.56	70a1ddf8-f9a4-483c-a557-4420719f33de.rsem.genes.results.gz	0.37	0.37	13.21	0.10	0.31
+7316-104	717154	5.7	BS_Y08D5P8N	GoodRin	Teratoma	80.28	c821f81c-816b-43b9-805b-fc346f215b13.rsem.genes.results.gz	0.48	0.07	17.62	0.04	0.23
+7316-1052	577728	8.8	BS_TGS109T3	GoodRin	High-grade glioma/astrocytoma	89.51	5f3a05c6-5f30-4539-b1a3-4eb48bf44b7a.rsem.genes.results.gz	0.66	0.30	9.43	0.07	0.15
+7316-1055	577725	8.3	BS_H1ZS5FMZ	GoodRin	High-grade glioma/astrocytoma	85.63	ab989d00-1709-476e-b424-669aa9162bfe.rsem.genes.results.gz	0.55	0.24	12.54	0.12	0.16
+7316-1059	577727	6.3	BS_C41DJZ1F	GoodRin	High-grade glioma/astrocytoma	86.46	3f1422df-19ea-4803-81d4-fadcc027d2ee.rsem.genes.results.gz	0.56	0.21	11.93	0.13	0.18
+7316-1060	577726	8.1	BS_Z8F3GM85	GoodRin	High-grade glioma/astrocytoma	82.37	15b3b9b6-2a7a-4b61-b7a5-16fcdb985010.rsem.genes.results.gz	0.51	0.17	16.10	0.12	0.15
+7316-1062	574555	6.1	BS_T1YHK6B7	GoodRin	High-grade glioma/astrocytoma	84.43	4b232a4d-ce85-4a6b-9efd-880f0aae7f2a.rsem.genes.results.gz	0.62	0.22	13.79	0.12	0.27
+7316-1064	739974	2.3	BS_JVW2JJ39	BadRin	High-grade glioma/astrocytoma	80.67	f622214f-78ca-417d-9402-4705e0f2a63e.rsem.genes.results.gz	0.46	0.12	15.93	0.09	0.21
+7316-1068	574556	7.5	BS_ZV1P6W9C	GoodRin	High-grade glioma/astrocytoma	85.14	20b5959c-3f71-47ba-a8e0-11610feb94b3.rsem.genes.results.gz	0.56	0.21	13.14	0.05	0.22
+7316-1070	717137	3.8	BS_YK6VQ9SJ	LowRin	Dysembryoplastic neuroepithelial tumor	82.55	1e7db636-0e2b-4025-a131-2b22b6c7c9da.rsem.genes.results.gz	0.64	0.11	14.10	0.08	0.38
+7316-1071	731919	5.9	BS_W97QQYKQ	GoodRin	Ganglioglioma	88.53	7d5938f1-6e82-4702-88fb-0b48e68c0e1a.rsem.genes.results.gz	0.36	0.19	9.71	0.04	0.14
+7316-1073	549566	8	BS_PGHK1JRW	GoodRin	Atypical Teratoid Rhabdoid Tumor	82.49	16441f2d-baa7-401e-8120-e412949555ac.rsem.genes.results.gz	0.44	0.23	15.99	0.09	0.15
+7316-1075	588351	7.4	BS_JCPKYHKY	GoodRin	Craniopharyngioma	86.71	f1ea5df0-95b3-436a-9168-036e482cb76f.rsem.genes.results.gz	0.48	0.24	11.52	0.06	0.35
+7316-1076	571410	8.2	BS_SBFNFZ8B	GoodRin	NA	86.91	b20683ad-a874-4cec-bf45-7c8bf9888dd8.rsem.genes.results.gz	0.48	0.18	11.20	0.08	0.22
+7316-1077	731885	5.4	BS_AKRHBPNZ	LowRin	Ganglioglioma	85.04	5a8eb07f-4d9b-437f-a44b-432e5dc6b1f8.rsem.genes.results.gz	0.47	0.24	11.73	0.09	0.25
+7316-1078	588352	8.5	BS_0BXY0F9N	GoodRin	Ependymoma	83.64	b38b70ba-1b14-49a8-9386-007bcb0ef2aa.rsem.genes.results.gz	0.41	0.18	14.66	0.03	0.18
+7316-1079	731888	8.7	BS_R4Y180DM	GoodRin	Ewing sarcoma	71.74	ab09b600-1ac8-499d-b438-57f70c1a0271.rsem.genes.results.gz	0.41	0.15	24.87	0.19	0.29
+7316-1080	731870	8.9	BS_D0BGESQF	GoodRin	Adenoma	76.90	6256cd22-6a3e-4866-92c8-c0bcafa5103b.rsem.genes.results.gz	0.46	0.25	19.67	0.06	0.32
+7316-1081	731897	8.4	BS_HSHN8PBB	GoodRin	Low-grade glioma/astrocytoma	79.12	1da1eb0c-f54d-4bce-8f02-55899fc8761f.rsem.genes.results.gz	0.34	0.10	16.97	0.04	0.28
+7316-1082	728285	4.3	BS_E054DFJN	LowRin	Craniopharyngioma	75.51	f22d1fdf-64c6-456c-89e4-95a741ae455e.rsem.genes.results.gz	0.33	0.08	20.49	0.05	0.21
+7316-1083	588302	7.8	BS_BSV07M7Z	GoodRin	Medulloblastoma	87.95	2f9ae1ba-fa5d-43f0-8ffb-4dc01fd80ec6.rsem.genes.results.gz	0.41	0.26	9.83	0.07	0.17
+7316-1084	731871	8.4	BS_HC5M8JTC	GoodRin	Low-grade glioma/astrocytoma	83.24	c8554fc6-c569-4056-a92c-358a9a6ec4a0.rsem.genes.results.gz	0.43	0.29	14.40	0.07	0.29
+7316-1085	711673	8.6	BS_2A5R9MEJ	GoodRin	Diffuse midline glioma	85.92	81e4d4a8-5deb-4108-bc99-a8011e54b460.rsem.genes.results.gz	0.78	0.28	11.33	0.05	0.42
+7316-1086	711674	6.8	BS_QC3XCE6X	GoodRin	Low-grade glioma/astrocytoma	87.30	a14fb94e-0f5c-477b-af35-10fa2e6f2003.rsem.genes.results.gz	0.76	0.30	10.06	0.05	0.41
+7316-1087	711721	8.6	BS_EYYMKWB7	GoodRin	Low-grade glioma/astrocytoma	83.17	1c8d2182-cfa2-49c8-9a5b-d9ec2dc3d6bc.rsem.genes.results.gz	0.26	0.15	15.30	0.03	0.22
+7316-1088	717180	5.2	BS_3P20Q2C3	LowRin	Low-grade glioma/astrocytoma	90.82	7945fa17-4040-4a8a-96ee-5db14d3cf94b.rsem.genes.results.gz	0.73	0.35	7.24	0.08	0.36
+7316-1089	717173	4.5	BS_3T6X4BPC	LowRin	Dysembryoplastic neuroepithelial tumor	81.19	407e5e21-b867-4edb-b66b-7e62b3058fca.rsem.genes.results.gz	0.60	0.10	16.29	0.04	0.36
+7316-1090	717127	5.5	BS_0J9SHHSC	LowRin	Low-grade glioma/astrocytoma	87.54	b75638c2-fdc0-4321-8320-b7b3b7b6940e.rsem.genes.results.gz	0.48	0.19	10.52	0.06	0.24
+7316-1093	654179	7.6	BS_TDEFAPNH	GoodRin	Dysembryoplastic neuroepithelial tumor	81.25	59f3d156-d786-481c-b3a4-a69f653041db.rsem.genes.results.gz	0.30	0.23	16.17	0.06	0.25
+7316-1094	731855	6.5	BS_H3Y8FWHV	GoodRin	Schwannoma	85.67	4be60a66-9a75-4821-bffe-55ed7abbe693.rsem.genes.results.gz	0.46	0.25	12.21	0.06	0.22
+7316-1095	588303	8.4	BS_T55Y4Z0Y	GoodRin	Low-grade glioma/astrocytoma	82.51	24574fa8-71db-45a9-b364-095caa1689f7.rsem.genes.results.gz	0.46	0.19	14.94	0.02	0.39
+7316-1096	731908	9.4	BS_DY9NTFQR	GoodRin	Adenoma	73.72	3433f6b8-55f8-44e4-8b19-5320d4db7d46.rsem.genes.results.gz	0.36	0.18	21.27	0.07	0.44
+7316-1101	654189	6.4	BS_P4D8Y3S8	GoodRin	Chordoma	76.24	ba1b91b4-0bcc-4ee5-be8d-4940c0225e4b.rsem.genes.results.gz	0.31	0.13	20.83	0.11	0.40
+7316-1103	588353	8.7	BS_AGS1HHGF	GoodRin	Choroid plexus papilloma	82.67	3a1417e2-6d46-4f25-9328-fc5946126a60.rsem.genes.results.gz	0.44	0.25	15.06	0.04	0.26
+7316-1104	564479	8.5	BS_VT6C6N6K	GoodRin	Medulloblastoma	83.31	2607125b-4a61-477b-8de7-ab0c88b61ccb.rsem.genes.results.gz	0.95	0.21	14.61	0.14	0.35
+7316-1106	549575	8.6	BS_H1XPVS9A	GoodRin	Pleomorphic xanthoastrocytoma	87.93	f56b99be-3e66-4c1e-8338-950dbdc70a7a.rsem.genes.results.gz	0.37	0.23	10.96	0.05	0.08
+7316-1107	588441	7.4	BS_WFD0GE5X	GoodRin	Ependymoma	84.66	cd48b0f1-ddbf-4174-b066-c1973b55d846.rsem.genes.results.gz	0.30	0.18	13.66	0.04	0.24
+7316-1108	654212	8.1	BS_M4NVX721	GoodRin	Ganglioglioma	86.50	53791492-fadd-4b74-9b71-8d68bb167649.rsem.genes.results.gz	0.31	0.25	12.24	0.03	0.13
+7316-1109	571411	8.1	BS_WVS02TZK	GoodRin	Rosette-forming glioneuronal tumor	79.29	8e32e88b-15c3-4569-a3f9-9b6724982b48.rsem.genes.results.gz	0.52	0.17	17.24	0.16	0.25
+7316-1111	717118	5.5	BS_Z6MC4N8D	LowRin	NA	85.65	5f56eded-0767-454e-b899-0ebf649d5f2b.rsem.genes.results.gz	0.51	0.09	12.19	0.10	0.30
+7316-1113	571406	6.6	BS_A46RDWGM	GoodRin	Low-grade glioma/astrocytoma	79.30	3e2f5316-b843-4f23-bc1a-3e09fe9f9a03.rsem.genes.results.gz	0.41	0.17	17.13	0.09	0.24
+7316-1114	717121	5.9	BS_MF47B9ZW	GoodRin	Ganglioglioma	84.58	619ab9e1-ad1c-4763-ae0a-057e3e839c91.rsem.genes.results.gz	0.51	0.09	13.56	0.05	0.23
+7316-1115	717122	5.4	BS_46BZ2NNN	LowRin	Teratoma	79.12	420a1048-c282-470a-baec-239967aca13f.rsem.genes.results.gz	0.47	0.06	17.90	0.04	0.26
+7316-1116	571419	6.5	BS_KND4B5CW	GoodRin	Craniopharyngioma	82.21	feac84dc-755d-4ec4-b760-02ee5a75b586.rsem.genes.results.gz	0.95	0.17	14.47	0.31	0.34
+7316-1117	588354	7	BS_KXH37MPN	GoodRin	Dysembryoplastic neuroepithelial tumor	86.80	25b716a5-0aaa-4b90-b495-ac991aa4affb.rsem.genes.results.gz	0.45	0.21	11.61	0.05	0.23
+7316-1118	564480	8.4	BS_A14Z8BBK	GoodRin	Medulloblastoma	90.88	826ace4a-69c1-4136-bfc5-0a5d914ca087.rsem.genes.results.gz	0.87	0.27	7.87	0.08	0.27
+7316-1134	588313	8.3	BS_SDA4RMMG	GoodRin	Low-grade glioma/astrocytoma	85.00	b8fb24af-4bb4-4f9f-96cc-9814a5bc8dff.rsem.genes.results.gz	0.45	0.26	12.92	0.03	0.33
+7316-1137	746100	4.1	BS_GAGRGSSX	LowRin	Atypical Teratoid Rhabdoid Tumor	80.92	64053f63-20bf-4adf-9317-44ce93d92d9e.rsem.genes.results.gz	0.55	0.14	16.77	0.13	0.20
+7316-114	577714	7.9	BS_23QW0BBA	GoodRin	High-grade glioma/astrocytoma	85.50	b1273711-b971-4874-9417-c25f22df1aa4.rsem.genes.results.gz	0.58	0.24	12.98	0.08	0.15
+7316-116	588297	6.6	BS_RXN5T5YT	GoodRin	Diffuse midline glioma	81.81	3eaeb4a6-3219-4786-bfc4-b8faaf13107a.rsem.genes.results.gz	0.44	0.34	15.55	0.05	0.32
+7316-117	570116	6.7	BS_DPF1CX0G	GoodRin	Low-grade glioma/astrocytoma	84.79	e7cfb39a-64da-44ae-ac1c-26ed282c4662.rsem.genes.results.gz	0.62	0.22	12.49	0.11	0.26
+7316-1187	577723	7.7	BS_FYRDYBMZ	GoodRin	High-grade glioma/astrocytoma	84.27	434893d2-b69c-4d16-a2d2-4ec6f935edff.rsem.genes.results.gz	0.47	0.19	14.16	0.09	0.13
+7316-119	573170	8.2	BS_0SCXXM6N	GoodRin	Low-grade glioma/astrocytoma	88.36	7c3615b2-d371-409c-9795-5fa090802298.rsem.genes.results.gz	0.61	0.29	9.89	0.13	0.15
+7316-120	571417	7.5	BS_B7X8VXQ3	GoodRin	Ganglioglioma	82.72	0854d2ff-ce64-4d89-a50f-2fff41980bc4.rsem.genes.results.gz	1.01	0.20	13.55	0.14	0.43
+7316-121	571416	7.8	BS_66ABA973	GoodRin	Low-grade glioma/astrocytoma	82.34	13ea9703-58d0-4adb-a12c-224295c1d67d.rsem.genes.results.gz	0.66	0.16	14.41	0.12	0.31
+7316-122	549561	8	BS_DHA5FMVW	GoodRin	Atypical Teratoid Rhabdoid Tumor	86.58	5b92dac6-3357-4ecc-9a99-05f7527cc68a.rsem.genes.results.gz	0.48	0.22	11.88	0.15	0.10
+7316-1226	731856	5.6	BS_Z7Y2466H	GoodRin	Low-grade glioma/astrocytoma	83.82	e934d1fb-6068-4061-a360-576aadda53fe.rsem.genes.results.gz	0.48	0.40	13.60	0.07	0.31
+7316-123	717120	5.6	BS_AMQGM1V9	GoodRin	NA	89.63	820dfe68-b3d0-4c87-acf4-0c3c3992b71c.rsem.genes.results.gz	0.52	0.31	8.88	0.03	0.20
+7316-124	573169	9	BS_PRR8K9GE	GoodRin	Craniopharyngioma	85.16	98278bbf-5394-4843-ac3f-a494c02d5150.rsem.genes.results.gz	0.61	0.24	12.90	0.19	0.14
+7316-125	739982	5	BS_G1Y281HX	LowRin	Neuroblastoma	80.91	4696d073-fccc-4077-b4fa-dc95f9f173a9.rsem.genes.results.gz	0.26	0.12	16.70	0.06	0.12
+7316-126	746063	6.4	BS_A7Q8G0Y1	GoodRin	Diffuse midline glioma	89.45	c6342ba3-7f1c-424e-9b27-d6ccd0ae4c4f.rsem.genes.results.gz	0.68	0.17	9.71	0.08	0.18
+7316-127	588296	7	BS_NQB91P48	GoodRin	Low-grade glioma/astrocytoma	89.38	9ae080a8-929d-4fbf-92f6-cb8db6c379c4.rsem.genes.results.gz	0.45	0.28	9.30	0.06	0.17
+7316-128	571418	8.6	BS_PSNBFWQV	GoodRin	Ewing sarcoma	85.67	2eb50d8c-fb18-45a3-ae63-f4535b1977d6.rsem.genes.results.gz	1.00	0.20	11.87	0.32	0.32
+7316-13	717149	3.8	BS_FRM9TG02	LowRin	Neurofibroma/Plexiform	80.83	00d202e7-8c8b-4696-9d4b-8221e6251421.rsem.genes.results.gz	0.52	0.12	17.08	0.06	0.27
+7316-1312	739930	8.2	BS_PQVTB6BB	GoodRin	High-grade glioma/astrocytoma	89.60	90210dec-726b-40d9-870d-68121756e1eb.rsem.genes.results.gz	0.48	0.22	8.97	0.11	0.17
+7316-133	717143	8.3	BS_BKR4E30C	GoodRin	Oligodendroglioma	84.75	416a820b-4023-4fe9-8aaa-594f97e90586.rsem.genes.results.gz	0.48	0.15	13.25	0.03	0.23
+7316-134	570120	7.7	BS_HQ5BJ6MW	GoodRin	Low-grade glioma/astrocytoma	85.64	fbc740ef-f730-4eda-96bc-ac43cc644105.rsem.genes.results.gz	0.68	0.23	12.40	0.09	0.22
+7316-136	717145	4	BS_B0SVFK4P	LowRin	Low-grade glioma/astrocytoma	84.93	069e5689-058a-4c3f-80f8-9a00228baa38.rsem.genes.results.gz	0.55	0.09	13.13	0.06	0.26
+7316-14	654201	8.5	BS_QEYPFYHD	GoodRin	Medulloblastoma	91.37	d404bb25-d161-435b-bdac-ba3349309f54.rsem.genes.results.gz	0.30	0.37	7.39	0.08	0.10
+7316-1456	717123	5.5	BS_KK0JWATQ	LowRin	Reactive connective tissue	79.40	238168e8-46c2-4d57-84a8-941f6658df6f.rsem.genes.results.gz	0.47	0.07	16.58	0.03	0.24
+7316-1459	746101	5.9	BS_3J85TTZM	GoodRin	Malignant peripheral nerve sheath tumor	75.42	3bfae6ca-d908-49cf-b5ce-1fed6d4b35c9.rsem.genes.results.gz	0.55	0.11	22.26	0.11	0.23
+7316-146	717187	7.8	BS_Z0AVVB1V	GoodRin	Low-grade glioma/astrocytoma	84.45	5095e851-7ca4-4efb-884c-55a0aa2189b0.rsem.genes.results.gz	0.74	0.27	12.87	0.04	0.49
+7316-1461	731879	2.6	BS_E2Z940S4	BadRin	Meningioma	79.61	e3f455ba-e329-4d2b-bb38-0019c63a73ad.rsem.genes.results.gz	0.50	0.12	16.51	0.09	0.24
+7316-1462	588355	8.2	BS_9G69F50J	GoodRin	NA	87.77	5d2099bd-7338-410e-b783-2996407fe3cd.rsem.genes.results.gz	0.48	0.19	10.85	0.04	0.20
+7316-1463	571407	7.6	BS_2HN96129	GoodRin	Schwannoma	82.11	0baadd75-e7df-4359-82aa-27c8bfe302ef.rsem.genes.results.gz	0.42	0.21	15.39	0.16	0.22
+7316-1463	574547	7.3	BS_RR12T74P	GoodRin	Schwannoma	84.44	b24f13ce-9c41-4044-82e3-684c9b550e1a.rsem.genes.results.gz	0.63	0.18	13.89	0.08	0.20
+7316-147	564462	8.5	BS_NR9FRY5T	GoodRin	Schwannoma	87.12	9f3e8238-5423-42cc-a5c3-fa7c3c53ef5e.rsem.genes.results.gz	1.01	0.18	10.91	0.06	0.39
+7316-1476	588298	8.1	BS_KR4MP5ET	GoodRin	Meningioma	88.20	ba36c35b-fb91-4556-ae43-58c6973079bb.rsem.genes.results.gz	0.42	0.19	10.52	0.05	0.19
+7316-148	564460	8.3	BS_13CGKADW	GoodRin	Low-grade glioma/astrocytoma	89.20	4e3701d7-33da-4ce7-ac8f-f78a0cf2780a.rsem.genes.results.gz	0.45	0.27	9.35	0.07	0.09
+7316-152	717113	5.7	BS_WCRKYV0T	GoodRin	Low-grade glioma/astrocytoma	88.14	51ea86bf-4cd1-4d0c-969a-2f07526b1cd0.rsem.genes.results.gz	0.69	0.31	10.06	0.03	0.35
+7316-153	549583	8.9	BS_FKDQJJB5	GoodRin	Medulloblastoma	84.58	3476fc4f-293d-4e2a-87a6-5702de6e9657.rsem.genes.results.gz	0.38	0.25	14.28	0.11	0.06
+7316-154	588334	8.7	BS_06AMMCXR	GoodRin	Low-grade glioma/astrocytoma	89.26	ad4166df-eb20-4403-9e62-a434fc023946.rsem.genes.results.gz	0.45	0.19	9.37	0.05	0.19
+7316-156	588333	7.3	BS_PQ6QEVE8	GoodRin	Ganglioglioma	85.08	2a1dcfeb-7dba-45b5-936f-7d44acbc9feb.rsem.genes.results.gz	0.43	0.25	12.96	0.03	0.22
+7316-158	746061	9.2	BS_5P1TN10Z	GoodRin	High-grade glioma/astrocytoma	80.63	e53e0920-4e6f-4fbe-9faf-8a0e5871dd00.rsem.genes.results.gz	0.64	0.19	17.66	0.11	0.18
+7316-16	588306	6.5	BS_QNAQGAV6	GoodRin	Metastatic secondary tumors	87.00	00a72866-565d-4e01-a666-e13ea722e7e3.rsem.genes.results.gz	0.42	0.28	11.54	0.04	0.19
+7316-160	549587	8.2	BS_4FZS7TX4	GoodRin	Ependymoma	83.20	99eea2f3-57bc-4b96-b010-d220fae7dcd6.rsem.genes.results.gz	0.34	0.26	15.22	0.04	0.09
+7316-162	564459	7.6	BS_GCA4GET3	GoodRin	Low-grade glioma/astrocytoma	89.86	a8acdf65-4360-43d1-a9b9-0daab5da11af.rsem.genes.results.gz	0.51	0.29	8.71	0.09	0.11
+7316-1635	731920	8.4	BS_C51RB0YR	GoodRin	Low-grade glioma/astrocytoma	78.17	6580ace0-549e-4851-be36-54bdc7ef3238.rsem.genes.results.gz	0.36	0.11	17.95	0.04	0.43
+7316-1636	731857	5.1	BS_DMZP9G1H	LowRin	Ganglioglioma	85.22	c80c2d1c-32fe-41c9-9585-53cc512f0145.rsem.genes.results.gz	0.46	0.30	12.57	0.06	0.26
+7316-1637	654208	7.5	BS_5PEFNDCY	GoodRin	Glial-neuronal tumor NOS	87.74	b6276343-2100-44c2-afc7-23a45ba141cf.rsem.genes.results.gz	0.34	0.35	10.53	0.06	0.18
+7316-164	734523	6	BS_C0XFDP38	GoodRin	Craniopharyngioma	85.67	d6036676-0463-427c-8028-5269b9e59197.rsem.genes.results.gz	0.36	0.13	12.46	0.04	0.17
+7316-1641	711695	7.8	BS_N8J1DP02	GoodRin	Ependymoma	85.76	0ab8e3e7-563a-4e4a-80d9-45da71b91612.rsem.genes.results.gz	0.36	0.26	12.44	0.02	0.17
+7316-1643	601593	8.2	BS_ET8CJXSF	GoodRin	Low-grade glioma/astrocytoma	86.75	22bc39ee-24a0-42aa-9673-987fabd300b8.rsem.genes.results.gz	0.81	0.26	10.91	0.04	0.41
+7316-1646	711669	8	BS_063ERW0R	GoodRin	Low-grade glioma/astrocytoma	84.35	8a5b98a9-7eac-4dd3-93a6-6957457977da.rsem.genes.results.gz	0.79	0.23	12.78	0.05	0.53
+7316-1648	711722	8.4	BS_CB6VK7PB	GoodRin	Low-grade glioma/astrocytoma	85.89	c698e475-1894-4a59-864f-11b9db72f1ad.rsem.genes.results.gz	0.28	0.23	12.44	0.05	0.18
+7316-1649	717181	3.2	BS_49F4RAA4	BadRin	Rosai-Dorfman disease	80.97	12320a20-dabf-457e-9f45-36de83e16447.rsem.genes.results.gz	0.74	0.13	16.54	0.07	0.45
+7316-1650	608926	8.4	BS_RD4D5F9F	GoodRin	Medulloblastoma	87.72	419a05eb-9c24-4043-b391-bb3e72411c61.rsem.genes.results.gz	0.82	0.22	10.41	0.06	0.40
+7316-1651	608927	8	BS_JZRM1S3T	GoodRin	Medulloblastoma	87.48	c2b07ca7-e77d-4d7e-88fe-87a8212ab451.rsem.genes.results.gz	0.80	0.18	10.38	0.07	0.44
+7316-1652	654184	8.7	BS_HX0S30NE	GoodRin	Low-grade glioma/astrocytoma	85.88	1dc24c0a-8091-42cf-9124-f97b769ddbfe.rsem.genes.results.gz	0.28	0.23	12.25	0.07	0.20
+7316-1653	717103	8.1	BS_ZWR9W4FX	GoodRin	Craniopharyngioma	84.98	146efc59-77b4-433e-a6ce-5fda02c5c4d6.rsem.genes.results.gz	0.65	0.19	12.95	0.06	0.35
+7316-1654	573145	9.1	BS_WE3Q8A73	GoodRin	Atypical choroid plexus papilloma	78.21	8884f51d-bb09-4e34-a0c6-da7ad9a2b6fd.rsem.genes.results.gz	0.43	0.15	18.94	0.15	0.23
+7316-1655	588454	9.3	BS_EFE4YEK3	GoodRin	Medulloblastoma	87.77	0235d2e9-4cb3-490c-a395-8149378ba52c.rsem.genes.results.gz	0.34	0.27	10.70	0.07	0.15
+7316-1656	711676	8	BS_X23724NJ	GoodRin	High-grade glioma/astrocytoma	84.09	9b33bded-0e99-4cc0-be28-3891f64d4ea1.rsem.genes.results.gz	0.31	0.24	14.26	0.05	0.17
+7316-1658	601589	9	BS_AG3D3435	GoodRin	Low-grade glioma/astrocytoma	82.27	1571bc2c-ddfd-496e-a80b-0b93d280e4d1.rsem.genes.results.gz	0.80	0.21	14.94	0.03	0.54
+7316-1659	731889	7.4	BS_X91K8KMG	GoodRin	Low-grade glioma/astrocytoma	80.34	a2957322-a70e-4e7d-a81f-84b8d26cc166.rsem.genes.results.gz	0.40	0.22	16.85	0.06	0.39
+7316-166	573166	8.5	BS_GMJBGBWB	GoodRin	Craniopharyngioma	87.49	77a966f5-f67d-423b-83ae-46ba1464db9d.rsem.genes.results.gz	0.46	0.17	11.10	0.14	0.11
+7316-1660	711653	8.4	BS_4NF35AF6	GoodRin	Low-grade glioma/astrocytoma	72.00	1d846191-bcd4-4af2-90fc-2645b4e9c137.rsem.genes.results.gz	0.41	0.35	23.74	0.04	0.44
+7316-1661	711709	8.7	BS_YA8RBGD8	GoodRin	Low-grade glioma/astrocytoma	80.73	1a7f26f3-05b6-4634-a516-aa38aa1149f4.rsem.genes.results.gz	0.34	0.18	16.60	0.04	0.45
+7316-1664	731890	8.1	BS_K7MVS0Z7	GoodRin	Low-grade glioma/astrocytoma	87.96	347a764f-e7d5-4101-aa80-e7f2f1bb2a20.rsem.genes.results.gz	0.35	0.26	10.33	0.06	0.19
+7316-1666	731858	2.9	BS_44A3ES23	BadRin	Medulloblastoma	81.91	a843de33-50a9-4d0f-90ad-ac3ed8a5451e.rsem.genes.results.gz	0.50	0.15	15.43	0.09	0.24
+7316-1668	717160	8.8	BS_55P8HPYD	GoodRin	Low-grade glioma/astrocytoma	89.64	d1b45e7a-82a4-45fe-819d-cecd48b946cf.rsem.genes.results.gz	0.50	0.20	9.05	0.05	0.19
+7316-1669	654209	9.1	BS_AM70R8RG	GoodRin	Medulloblastoma	86.27	f570fccd-62bf-4b2a-89d3-b4c48c22bf87.rsem.genes.results.gz	0.32	0.24	12.31	0.10	0.15
+7316-167	734512	6.7	BS_E4QK839R	GoodRin	Low-grade glioma/astrocytoma	79.70	0c6057c3-2342-4491-9c56-f4e255077381.rsem.genes.results.gz	0.37	0.12	17.64	0.05	0.23
+7316-1670	654193	7.8	BS_ERWT0ZWE	GoodRin	Medulloblastoma	88.63	f0a6e1a7-039c-494a-bece-3f3efcec90d5.rsem.genes.results.gz	0.28	0.29	9.82	0.16	0.15
+7316-1671	654203	8.7	BS_03FT4S8B	GoodRin	Craniopharyngioma	87.83	3c7afa28-ed64-4bf6-be1d-68e2d1b9dd7e.rsem.genes.results.gz	0.31	0.27	10.15	0.11	0.17
+7316-1674	717182	5.5	BS_ZH1FBX50	LowRin	NA	86.84	bf28f3bc-6a62-45c0-b9f9-d69046e95dfc.rsem.genes.results.gz	0.71	0.24	11.06	0.05	0.39
+7316-1675	717184	5.6	BS_39CGACC7	GoodRin	NA	83.60	73fcf5f1-e515-439c-a899-7ef6d4874b3e.rsem.genes.results.gz	0.70	0.25	13.89	0.05	0.41
+7316-1676	711755	7.3	BS_3V3KE3VT	GoodRin	Medulloblastoma	85.32	96db8fe0-5d63-4f40-9c0d-9380a5929ff3.rsem.genes.results.gz	0.51	0.18	12.59	0.10	0.28
+7316-1678	711654	8.2	BS_4Z2F4P9N	GoodRin	Low-grade glioma/astrocytoma	84.39	87a37598-c672-4ae1-915b-8666772466cc.rsem.genes.results.gz	0.35	0.29	13.83	0.05	0.22
+7316-1679	654185	8	BS_N6NE6B3W	GoodRin	Low-grade glioma/astrocytoma	90.02	ad013e1c-d902-43a4-b327-f47fab23f876.rsem.genes.results.gz	0.29	0.61	8.20	0.08	0.11
+7316-168	564463	7.9	BS_SDZY6RZ3	GoodRin	Low-grade glioma/astrocytoma	88.69	3d5a9028-7aab-4221-a2eb-629301451fcd.rsem.genes.results.gz	0.96	0.18	9.77	0.06	0.34
+7316-1680	588455	8.5	BS_AMZ70B6F	GoodRin	Medulloblastoma	86.37	c77f1487-8ad1-494b-848e-683bb6f29d65.rsem.genes.results.gz	0.36	0.19	12.14	0.09	0.18
+7316-1681	731875	8.5	BS_R634WKN7	GoodRin	Low-grade glioma/astrocytoma	85.98	e30249e0-9774-4f60-aafe-0229f94e3c6c.rsem.genes.results.gz	0.46	0.20	12.38	0.05	0.21
+7316-1683	588456	7.8	BS_Z6BWR941	GoodRin	Low-grade glioma/astrocytoma	87.07	e299730f-c844-4e9d-9f16-0fd2dc7f5967.rsem.genes.results.gz	0.36	0.24	11.32	0.04	0.20
+7316-1693	731859	6.8	BS_F6Z5HFWH	GoodRin	Choroid plexus papilloma	86.90	857266ea-4ccc-4f6c-89e8-64b5c8a5b4eb.rsem.genes.results.gz	0.45	0.30	11.33	0.07	0.20
+7316-1695	549605	8.1	BS_1D6PZNKN	GoodRin	Diffuse intrinsic pontine glioma	81.39	0a5f2a31-e396-46cc-8265-6cb6da4a7b04.rsem.genes.results.gz	0.44	0.21	16.91	0.11	0.16
+7316-170	717109	3	BS_D4PJYHZ2	BadRin	Neurofibroma/Plexiform	76.77	adc29438-8481-40d9-95a6-49e24d73646e.rsem.genes.results.gz	0.67	0.07	20.46	0.04	0.46
+7316-1700	564490	8.8	BS_TE0GVDNG	GoodRin	Medulloblastoma	89.77	1a0a596e-411b-4c3a-ba8f-6385eca2f819.rsem.genes.results.gz	0.98	0.27	8.80	0.10	0.31
+7316-1702	654191	7.1	BS_5AF6ZNJF	GoodRin	Meningioma	85.76	8d5d4af5-26af-4ed4-a164-aee11e769fa4.rsem.genes.results.gz	0.30	0.19	13.00	0.09	0.17
+7316-1703	654192	8.5	BS_8NY9J9NQ	GoodRin	Meningioma	85.41	d8db14e4-8c75-4b79-8960-1287986c0f6d.rsem.genes.results.gz	0.28	0.26	13.15	0.07	0.16
+7316-1704	564456	7.1	BS_W41S7B55	GoodRin	Hemangioblastoma	83.11	c25a466b-da36-42f6-8b30-bd80cdeeb934.rsem.genes.results.gz	0.35	0.16	15.32	0.15	0.09
+7316-1705	588310	7.2	BS_D9GEXXHX	GoodRin	Meningioma	81.39	db79c43f-f381-4eef-9b4b-2452948de723.rsem.genes.results.gz	0.46	0.17	16.31	0.08	0.29
+7316-1706	731909	9.2	BS_S0175QKX	GoodRin	Ependymoma	84.82	6780260d-1976-4759-b820-580c856b5aec.rsem.genes.results.gz	0.33	0.18	13.22	0.05	0.21
+7316-1708	746064	5.3	BS_Q13FQ8FV	LowRin	Diffuse midline glioma	82.91	6c37714d-e692-4982-a817-67818765a241.rsem.genes.results.gz	0.58	0.12	15.79	0.15	0.19
+7316-171	564465	7.8	BS_Z7G68ZS2	GoodRin	NA	84.76	335dab00-f132-4ede-9714-a27da02fee03.rsem.genes.results.gz	1.05	0.21	12.96	0.08	0.45
+7316-1710	728274	6.2	BS_42Y3YANN	GoodRin	Low-grade glioma/astrocytoma	84.71	3e59f569-7b33-4cf2-86a7-bb0ede3a24a6.rsem.genes.results.gz	0.33	0.31	13.39	0.07	0.22
+7316-1711	739945	5.7	BS_NPQJ20KX	GoodRin	Low-grade glioma/astrocytoma	83.22	738e70ce-8da4-44fb-9458-1f3d11b2a9ed.rsem.genes.results.gz	0.51	0.10	14.28	0.09	0.23
+7316-1714	711680	7.8	BS_09Z7TC35	GoodRin	Medulloblastoma	84.08	d9ca7b8d-f475-4800-98a7-287ed682dc79.rsem.genes.results.gz	0.36	0.28	14.02	0.10	0.18
+7316-1715	711662	7.7	BS_QRDT19KS	GoodRin	Medulloblastoma	90.77	70f62a7d-ad4e-4c81-ba8b-aa85e9052267.rsem.genes.results.gz	0.36	0.50	7.59	0.12	0.15
+7316-172	564464	7.5	BS_NVKGSMXS	GoodRin	NA	89.00	e3e3f2dd-66a2-44e3-85a3-2e07d6f26b2e.rsem.genes.results.gz	0.96	0.24	9.59	0.04	0.33
+7316-173	549618	7.8	BS_W3R88RFP	GoodRin	Low-grade glioma/astrocytoma	90.61	76d9b259-6eb6-4104-b2b9-35da793c12de.rsem.genes.results.gz	0.45	0.27	8.40	0.06	0.09
+7316-1744	717174	2.6	BS_0X9EGHY2	BadRin	Low-grade glioma/astrocytoma	86.40	e2adde1d-d753-4aad-af28-92bcb226b773.rsem.genes.results.gz	0.54	0.15	11.69	0.07	0.25
+7316-1745	549619	8.3	BS_02NZT8CE	GoodRin	Low-grade glioma/astrocytoma	88.04	2d2652bb-fc06-47a0-bff7-5d3d81a6f6bd.rsem.genes.results.gz	0.46	0.25	10.90	0.06	0.11
+7316-1746	574552	7.9	BS_R5SNFB5B	GoodRin	High-grade glioma/astrocytoma	84.68	72eec5f1-9bfd-4736-870f-708898532ea8.rsem.genes.results.gz	0.56	0.21	13.56	0.20	0.15
+7316-1746	739941	9.4	BS_PNYN0AYD	GoodRin	High-grade glioma/astrocytoma	85.02	79a3c5a8-2fb1-41ef-b1c9-f4df02f7bfc1.rsem.genes.results.gz	0.47	0.21	12.93	0.10	0.19
+7316-1746	739942	9.6	BS_0RQ4P069	GoodRin	High-grade glioma/astrocytoma	82.66	b688ca55-1f4c-41f6-a5ef-ec635c9384c5.rsem.genes.results.gz	0.43	0.15	15.36	0.05	0.18
+7316-1747	588447	7.2	BS_9GJ23RHH	GoodRin	Sarcoma	84.86	880eff24-ec96-4881-ab93-48f7e2c4a9dd.rsem.genes.results.gz	0.36	0.20	13.41	0.09	0.25
+7316-1748	573141	8.2	BS_B53Z0T1Q	GoodRin	Craniopharyngioma	86.35	df0ff28b-5d45-4107-bc19-bdfd3ce5544f.rsem.genes.results.gz	0.51	0.21	11.53	0.27	0.16
+7316-175	564466	8.6	BS_HV8PFRBR	GoodRin	Low-grade glioma/astrocytoma	83.26	2f85907b-95a6-4c9c-b218-1a7597617546.rsem.genes.results.gz	0.92	0.15	14.06	0.18	0.40
+7316-1750	717128	5.1	BS_CQSAJ7BF	LowRin	Dysembryoplastic neuroepithelial tumor	89.29	ff78d2e9-5d3a-478e-b9f7-11e6cb17b076.rsem.genes.results.gz	0.53	0.26	9.29	0.06	0.22
+7316-1751	588446	9	BS_D2K9C7XR	GoodRin	Craniopharyngioma	86.78	d7f05bc6-83d2-4ee5-89ea-e16135ee1ab3.rsem.genes.results.gz	0.36	0.19	11.97	0.06	0.14
+7316-1757	717183	6.6	BS_NDC69214	GoodRin	Neurofibroma/Plexiform	85.13	5a98628e-e6bf-4b46-b1b2-8fca290cf34b.rsem.genes.results.gz	0.67	0.09	12.85	0.04	0.36
+7316-176	573167	7.9	BS_E1CGF3KV	GoodRin	Low-grade glioma/astrocytoma	85.10	e4d8b253-1a8e-433b-bf36-952b08335a63.rsem.genes.results.gz	0.59	0.24	12.82	0.17	0.17
+7316-1760	588344	9	BS_B3M5SGPA	GoodRin	Low-grade glioma/astrocytoma	84.04	97efecca-b14c-4126-8a03-4ef358b91393.rsem.genes.results.gz	0.44	0.29	13.87	0.04	0.19
+7316-1763	549574	8.5	BS_6WP1FHTE	GoodRin	Diffuse midline glioma	82.88	3262a4fe-146a-4896-b964-c0a84967eee3.rsem.genes.results.gz	0.39	0.24	15.74	0.07	0.08
+7316-1763	739939	9.7	BS_E60JZ9Z3	GoodRin	Diffuse midline glioma	83.87	7825188f-6d4f-41f7-9725-a32a35003932.rsem.genes.results.gz	0.49	0.22	14.35	0.06	0.19
+7316-1763	739940	9.1	BS_DRY58DTF	GoodRin	Diffuse midline glioma	81.93	d94222a6-880e-441d-945c-dfc44559c0d8.rsem.genes.results.gz	0.47	0.16	15.80	0.07	0.21
+7316-1765	601600	6.1	BS_M7QJ8VF0	GoodRin	Pineoblastoma	78.18	18f0194e-6ce0-4f26-aa74-2617550b52e8.rsem.genes.results.gz	0.93	0.19	18.08	0.12	0.57
+7316-1765	728295	7.8	BS_7ZV3DPGT	GoodRin	Pineoblastoma	79.22	a7f2a95b-53ae-4271-a8e9-7ccf57493a65.rsem.genes.results.gz	0.29	0.20	18.26	0.24	0.19
+7316-1766	717142	3	BS_ZA9XT151	BadRin	Hemangioblastoma	77.15	31dbecb7-889d-4fd6-ac11-25e491493968.rsem.genes.results.gz	0.52	0.19	19.16	0.06	0.26
+7316-1767	654190	7.7	BS_X59HSFGG	GoodRin	Low-grade glioma/astrocytoma	88.86	d17a03db-6df2-402f-b4e2-1e4465b21322.rsem.genes.results.gz	0.30	0.27	10.00	0.06	0.12
+7316-1769	740009	9.7	BS_40MP5BWR	GoodRin	Diffuse midline glioma	86.85	eb75bfa3-0139-495c-b64d-cd80a545a6d6.rsem.genes.results.gz	0.29	0.25	11.61	0.05	0.11
+7316-1771	549560	8.6	BS_MVW01FPB	GoodRin	Atypical Teratoid Rhabdoid Tumor	85.09	9451a64b-1a83-4338-8f75-9ff272448678.rsem.genes.results.gz	0.47	0.25	13.46	0.09	0.11
+7316-1772	717124	5.6	BS_GS1KR5PK	GoodRin	Medulloblastoma	81.54	df226fa0-2fd2-43f3-98c3-3a310547bdf7.rsem.genes.results.gz	0.60	0.23	15.58	0.14	0.33
+7316-1773	717165	5.9	BS_JX7S9MY7	GoodRin	Craniopharyngioma	76.79	2a5f8f2d-ceb3-484e-9214-b10342c6232d.rsem.genes.results.gz	0.51	0.13	20.40	0.03	0.35
+7316-1774	574549	7.1	BS_JS95PE0J	GoodRin	High-grade glioma/astrocytoma	84.63	cb8e6248-04c3-4a0e-995d-97737fed968f.rsem.genes.results.gz	0.62	0.20	13.43	0.07	0.28
+7316-1775	571427	8.2	BS_1HFK0SXV	GoodRin	Craniopharyngioma	80.89	cf2e69a6-c9b8-47d3-92a6-52c41f4cbc2a.rsem.genes.results.gz	0.56	0.15	15.89	0.23	0.25
+7316-1776	731860	0	BS_KQ6ZW085	BadRin	Dysembryoplastic neuroepithelial tumor	83.48	e6923c4c-ad12-45e8-9031-78bd85a61295.rsem.genes.results.gz	0.39	0.18	14.28	0.05	0.20
+7316-1778	549584	6.7	BS_B1HVNV0T	GoodRin	Atypical Teratoid Rhabdoid Tumor	86.44	3e743bc4-ec5c-4a94-8531-f52add6fb762.rsem.genes.results.gz	0.37	0.28	12.13	0.06	0.10
+7316-1779	731884	8.5	BS_FJWZ3M7V	GoodRin	Low-grade glioma/astrocytoma	84.61	d7bc4197-e6c1-44a2-8db2-cc519e22287c.rsem.genes.results.gz	0.46	0.30	13.09	0.04	0.26
+7316-178	608917	8.5	BS_RSRPX3S8	GoodRin	Medulloblastoma	81.29	7342c14a-1b97-4cd5-adca-3caa38c517df.rsem.genes.results.gz	0.77	0.19	16.01	0.09	0.47
+7316-1781	549570	9.4	BS_WVW3W6ZB	GoodRin	Atypical Teratoid Rhabdoid Tumor	88.82	f301a6f4-a10a-452f-96e7-937fac582b1f.rsem.genes.results.gz	0.48	0.28	10.15	0.11	0.10
+7316-1782	549614	8.9	BS_8F9BDWY4	GoodRin	Neurocytoma	87.96	347eafc9-f100-44bc-9940-8628ea618265.rsem.genes.results.gz	0.37	0.33	10.82	0.07	0.09
+7316-1783	728286	5.2	BS_VMMJYN8Z	LowRin	Ganglioglioma	80.40	5ceeb956-8008-4ced-9c10-59929e40d8fe.rsem.genes.results.gz	0.31	0.28	16.29	0.06	0.36
+7316-1784	588345	8.4	BS_53M8PP88	GoodRin	Ependymoma	85.92	ddae82fe-a82d-4794-bcb5-d75da583d2ce.rsem.genes.results.gz	0.43	0.20	12.44	0.03	0.19
+7316-1785	588459	8.7	BS_WSQMAA33	GoodRin	Germinoma	84.69	fe4a765b-735b-409b-987c-9e4c12afd807.rsem.genes.results.gz	0.36	0.21	13.16	0.23	0.27
+7316-1786	588460	8	BS_E4F1D721	GoodRin	Ependymoma	85.13	97e10df4-ceb9-4f3a-a417-d662236df80f.rsem.genes.results.gz	0.39	0.18	13.11	0.06	0.27
+7316-1789	608930	8.4	BS_49FQXT2E	GoodRin	High-grade glioma/astrocytoma	88.64	dae2433d-0b14-4a73-a780-058c96909607.rsem.genes.results.gz	0.45	0.27	9.72	0.04	0.22
+7316-1790	573148	9.3	BS_MV6ASWV9	GoodRin	Atypical Teratoid Rhabdoid Tumor	81.93	c997628f-b695-4dc6-9bee-69dceb8f7e5c.rsem.genes.results.gz	0.74	0.20	15.18	0.16	0.34
+7316-1792	573140	8.4	BS_53CTGDQG	GoodRin	Meningioma	86.35	cf243f28-9086-4926-a9a2-93dee6d596c9.rsem.genes.results.gz	0.51	0.18	11.67	0.19	0.18
+7316-1793	588448	7.8	BS_699TN5RN	GoodRin	Ganglioglioma	87.37	44c8b2e4-e4ff-4f18-b548-7b687537c3e3.rsem.genes.results.gz	0.38	0.23	11.10	0.04	0.21
+7316-1794	731892	7.9	BS_ZV9Z3SY6	GoodRin	Low-grade glioma/astrocytoma	83.98	f853e54e-7147-4b0c-a429-a6708a0d57a9.rsem.genes.results.gz	0.36	0.18	13.43	0.06	0.19
+7316-1797	588326	8.2	BS_7WNSZNE3	GoodRin	Dysembryoplastic neuroepithelial tumor	90.47	c66f6f3a-18ba-4ee8-aaf5-288677e9e7a2.rsem.genes.results.gz	0.45	0.20	8.33	0.05	0.18
+7316-1801	564481	8.3	BS_AHEFXG7W	GoodRin	Medulloblastoma	84.02	ad4be259-9f99-4f46-9a46-bc0c6b5efa68.rsem.genes.results.gz	0.94	0.19	14.16	0.10	0.36
+7316-1802	731929	6.4	BS_TA9WP4TH	GoodRin	Medulloblastoma	81.90	340ab9dc-26b4-4a70-a08d-ea611c0eea98.rsem.genes.results.gz	0.38	0.11	14.94	0.08	0.21
+7316-1803	717139	7.2	BS_2WPQ8YCW	GoodRin	Low-grade glioma/astrocytoma	82.90	aa06eeaa-c0c8-4ae0-bb22-efbf4460435a.rsem.genes.results.gz	0.52	0.11	14.40	0.05	0.39
+7316-1805	731898	8	BS_RWJZFTP9	GoodRin	Low-grade glioma/astrocytoma	86.03	58005dcf-519c-4d76-b8b2-4adc504c5f58.rsem.genes.results.gz	0.36	0.34	11.30	0.07	0.21
+7316-1806	588281	7.1	BS_TXY8QYWA	GoodRin	Ependymoma	82.81	5e6f6015-5f7c-4d2d-988e-c43cd7455e99.rsem.genes.results.gz	0.34	0.42	14.80	0.06	0.26
+7316-1808	571440	7.8	BS_M026T44Q	GoodRin	Meningioma	80.85	116caeb1-a4d4-432f-80e1-1529ed53efca.rsem.genes.results.gz	0.61	0.17	16.39	0.16	0.26
+7316-182	739962	7.2	BS_BA6AZWB3	GoodRin	Medulloblastoma	90.39	6cab7047-761b-4f5d-950c-973afd0d605c.rsem.genes.results.gz	0.38	0.23	7.45	0.13	0.15
+7316-183	717156	5.6	BS_0T17SY47	GoodRin	Low-grade glioma/astrocytoma	85.30	b2863674-76fc-4be6-9f1b-a5e55cf70307.rsem.genes.results.gz	0.49	0.14	12.72	0.05	0.21
+7316-184	717146	2.8	BS_G5QBBHDV	BadRin	Low-grade glioma/astrocytoma	85.91	7d419e7d-e381-40cb-af1f-82def9e48c34.rsem.genes.results.gz	0.53	0.06	11.46	0.11	0.25
+7316-1845	571408	8.2	BS_EBMCTR80	GoodRin	Low-grade glioma/astrocytoma	84.14	3b3c7fa9-beef-42cd-ba04-3b2c962bee31.rsem.genes.results.gz	0.41	0.17	13.76	0.14	0.18
+7316-185	570121	8.3	BS_XZTV0J8W	GoodRin	Ewing sarcoma	90.48	c2490666-3d78-4750-8787-eda2408daa08.rsem.genes.results.gz	0.70	0.32	8.08	0.08	0.19
+7316-1851	711733	8.7	BS_A1VEGWTR	GoodRin	Low-grade glioma/astrocytoma	87.55	ac6fe778-20d3-4aeb-9d97-e0745c3fac35.rsem.genes.results.gz	0.78	0.19	10.31	0.04	0.44
+7316-1854	728253	5.6	BS_2AR3AP0N	GoodRin	Ganglioglioma	77.21	c426ae02-2d86-4d63-be89-b5615b6c419c.rsem.genes.results.gz	0.34	0.20	19.22	0.06	0.35
+7316-1855	711731	6.3	BS_1607397Q	GoodRin	CNS Burkitt's lymphoma	84.92	8e9a8c86-d688-4c11-b5ab-d8437e04cee0.rsem.genes.results.gz	0.79	0.16	12.42	0.08	0.44
+7316-1856	746080	7.6	BS_8S86CM61	GoodRin	Ewing sarcoma	86.46	bfc0276a-a1f4-41e9-9ffd-0cccb7a53c48.rsem.genes.results.gz	0.55	0.21	11.72	0.12	0.13
+7316-186	570122	7.8	BS_BC936YNZ	GoodRin	Low-grade glioma/astrocytoma	79.28	b3792f62-6b0d-4b8d-a6eb-e646bfdd064d.rsem.genes.results.gz	0.69	0.20	16.61	0.11	0.37
+7316-1866	731899	7.2	BS_3G3KWY18	GoodRin	Low-grade glioma/astrocytoma	83.97	a2c4a2a0-60fb-4580-b7d2-e2297066a543.rsem.genes.results.gz	0.34	0.24	13.40	0.07	0.21
+7316-187	717110	4.9	BS_4W1DBAN4	LowRin	NA	87.52	4a5d6fb1-c57d-4896-b63c-d4750d011b9f.rsem.genes.results.gz	0.72	0.30	10.40	0.06	0.38
+7316-188	570099	5.8	BS_T1QMEH1N	GoodRin	Juvenile xanthogranuloma	60.84	8f598b72-6cd3-42a3-a5a9-b7ce9a2e252d.rsem.genes.results.gz	0.67	0.10	32.86	0.10	0.57
+7316-1886	711732	8.1	BS_X67GTEM6	GoodRin	Ependymoma	81.53	7fe7693b-eeef-4bda-99c8-c6e984d480f8.rsem.genes.results.gz	0.80	0.17	15.18	0.03	0.62
+7316-1889	549576	8.8	BS_M1PVEHCM	GoodRin	High-grade glioma/astrocytoma	87.64	2df2b592-0e45-467d-94c0-85ae76ff7316.rsem.genes.results.gz	0.35	0.30	10.81	0.05	0.11
+7316-1890	731921	9	BS_QAG1RDXN	GoodRin	Desmoplastic infantile astrocytoma and ganglioglioma	82.43	ae6a2db2-8f51-4f81-9cea-1fc2bec8ae63.rsem.genes.results.gz	0.34	0.15	15.16	0.07	0.32
+7316-1893	746067	8.3	BS_M85CXHDV	GoodRin	High-grade glioma/astrocytoma	82.04	6fcdcd63-1991-41a9-b624-77d0aa5c3c29.rsem.genes.results.gz	0.43	0.17	16.68	0.15	0.12
+7316-19	717106	5.3	BS_BB0YW800	LowRin	Metastatic secondary tumors	79.56	b95be90d-2881-4249-bac7-e90b5ce71846.rsem.genes.results.gz	0.71	0.14	17.84	0.04	0.47
+7316-1926	571409	8.2	BS_JMHG7GCN	GoodRin	Low-grade glioma/astrocytoma	88.00	0071cbef-6d2d-4328-b95b-f1076b66851a.rsem.genes.results.gz	0.49	0.16	10.22	0.10	0.18
+7316-1927	573139	6.5	BS_1RT76ANT	GoodRin	Metastatic secondary tumors;Neuroblastoma	82.41	23a630d3-145d-46b8-be4e-ada282d5b939.rsem.genes.results.gz	0.57	0.15	14.96	0.29	0.30
+7316-1928	654214	8.2	BS_VR7FR1NE	GoodRin	Low-grade glioma/astrocytoma	80.31	021650e9-698e-4c39-8198-3d7c83ecfcb2.rsem.genes.results.gz	0.31	0.19	17.47	0.05	0.35
+7316-193	601586	7.4	BS_1G3WYEN3	GoodRin	Low-grade glioma/astrocytoma	88.12	8ab30155-1f42-4f22-a36e-1e0cd2537fbf.rsem.genes.results.gz	0.81	0.29	9.87	0.04	0.42
+7316-1936	731922	7.5	BS_ZVWE73JZ	GoodRin	Diffuse midline glioma	84.38	9a398276-df79-40ea-8d83-39006bf9f835.rsem.genes.results.gz	0.37	0.16	13.06	0.06	0.22
+7316-1937	731930	8.5	BS_TM9MH0RP	GoodRin	Diffuse midline glioma	84.24	f204204f-94e5-4625-b1f6-a12ece980d29.rsem.genes.results.gz	0.34	0.20	13.67	0.05	0.18
+7316-1938	731900	7.8	BS_W6AC5J3C	GoodRin	NA	86.83	bebc2837-4fe6-4be3-a53e-3c10c2b0da03.rsem.genes.results.gz	0.34	0.21	11.04	0.05	0.18
+7316-1940	588346	8.6	BS_1NPD7PVG	GoodRin	Ganglioglioma	85.60	d9b2ad35-b03f-46a6-95e0-f8e7308b235d.rsem.genes.results.gz	0.44	0.22	12.92	0.03	0.18
+7316-1941	588347	7.5	BS_ZZPBANDD	GoodRin	Dysembryoplastic neuroepithelial tumor	88.89	3c8aed9a-a16b-47fa-a47a-4947551df984.rsem.genes.results.gz	0.44	0.24	9.80	0.04	0.17
+7316-1942	654211	8.9	BS_X16PENSA	GoodRin	Low-grade glioma/astrocytoma	86.35	0f3e04f9-452d-4617-8976-7c0ea5d44efb.rsem.genes.results.gz	0.31	0.23	12.16	0.03	0.20
+7316-1943	588304	8.1	BS_D3YBV7KB	GoodRin	Low-grade glioma/astrocytoma	86.77	9c9aec9e-4ce7-415a-80eb-38bbbe8d31b9.rsem.genes.results.gz	0.44	0.27	11.63	0.03	0.21
+7316-1944	588348	8.4	BS_4T0HPZDC	GoodRin	Ependymoma	83.30	56d670cc-2a5d-4d21-a2dd-7ffc140c6abb.rsem.genes.results.gz	0.45	0.17	14.87	0.03	0.24
+7316-1945	571428	8.9	BS_YETBN0RQ	GoodRin	Medulloblastoma	85.82	9be02b5b-58d6-4098-ad46-a26d12a1bcac.rsem.genes.results.gz	0.58	0.20	12.39	0.26	0.14
+7316-1946	654216	7.6	BS_8PNA0V6R	GoodRin	High-grade glioma/astrocytoma	86.12	e0bd2021-548c-4271-9800-3604de1116c6.rsem.genes.results.gz	0.36	0.31	12.27	0.05	0.20
+7316-1948	571429	6.9	BS_KM2EX0K6	GoodRin	Dysembryoplastic neuroepithelial tumor	88.89	f1459f32-0c83-4af9-a475-9e6879a8eda8.rsem.genes.results.gz	0.72	0.23	9.31	0.10	0.22
+7316-1949	728287	3	BS_21RE8W46	BadRin	Low-grade glioma/astrocytoma	84.42	4599b420-100e-48c7-a2b1-f819e656d3c6.rsem.genes.results.gz	0.36	0.15	13.16	0.10	0.26
+7316-195	564443	8.4	BS_4QW2S1Q8	GoodRin	Diffuse midline glioma	84.54	9439d643-30db-4dda-bc56-a0484d4902d3.rsem.genes.results.gz	0.33	0.23	14.23	0.09	0.08
+7316-195	739937	8.9	BS_P9JP6JFA	GoodRin	Diffuse midline glioma	78.94	1352e08c-c8a7-4f72-a530-32df4ab394b8.rsem.genes.results.gz	0.43	0.14	18.56	0.05	0.21
+7316-195	739938	9.5	BS_MX23ZY0Y	GoodRin	Diffuse midline glioma	85.22	d2b517d5-6149-4f49-a962-947b3a7187c9.rsem.genes.results.gz	0.47	0.19	12.97	0.09	0.17
+7316-1950	588370	8.4	BS_VNK9XYV9	GoodRin	Craniopharyngioma	84.97	55c5f6d0-f05f-4a61-be5d-00e41bfde647.rsem.genes.results.gz	0.46	0.19	13.54	0.07	0.10
+7316-1952	571447	7.9	BS_RGSMX7QD	GoodRin	Ganglioglioma	86.46	789f9a5a-89d5-41ab-bb4a-bacbfd1aa231.rsem.genes.results.gz	0.60	0.21	11.70	0.11	0.21
+7316-1953	731901	8.9	BS_R244Z0WX	GoodRin	Low-grade glioma/astrocytoma	81.14	e5621997-b75b-4456-a156-3b8bbcb50f43.rsem.genes.results.gz	0.39	0.11	14.06	0.06	0.25
+7316-1954	588371	8.4	BS_196BBNEJ	GoodRin	Ependymoma	81.49	45857e83-391c-4787-9374-ffe3714e910a.rsem.genes.results.gz	0.46	0.15	16.68	0.02	0.21
+7316-1955	588307	8.8	BS_BJDNWMJH	GoodRin	Ependymoma	79.81	0aabf85c-e73b-43e9-817e-bcf8808fa19b.rsem.genes.results.gz	0.46	0.24	17.23	0.04	0.49
+7316-1956	564446	8.5	BS_GW0GKWMS	GoodRin	Diffuse midline glioma	90.63	ecd5cdf0-9014-4310-98d3-30f9bdde7e24.rsem.genes.results.gz	0.32	0.24	8.23	0.07	0.07
+7316-1957	571448	7.6	BS_1TPWFSK6	GoodRin	Low-grade glioma/astrocytoma	80.35	b9ffaecb-133e-4933-80c7-19ea97c26230.rsem.genes.results.gz	0.60	0.18	16.31	0.12	0.31
+7316-1958	588372	8.4	BS_4Y6BCYK5	GoodRin	Low-grade glioma/astrocytoma	83.90	1ed6d201-ebfd-4725-9b33-c718df368a60.rsem.genes.results.gz	0.46	0.29	13.97	0.04	0.23
+7316-1959	731878	7.3	BS_4JWBB28H	GoodRin	Rhabdomyosarcoma	73.14	75c68097-6e46-4a26-86ad-72dd05b29e84.rsem.genes.results.gz	0.49	0.27	22.58	0.10	0.35
+7316-196	588335	8.8	BS_X0F9AYEC	GoodRin	Low-grade glioma/astrocytoma	86.18	b31ba469-7620-4381-8963-e25ace192ba2.rsem.genes.results.gz	0.44	0.27	12.23	0.05	0.21
+7316-1960	728288	7.9	BS_NDN62H0S	GoodRin	Adenoma	82.84	9f289e06-679f-4676-9fa8-610e43d6f05c.rsem.genes.results.gz	0.30	0.26	15.36	0.09	0.13
+7316-1962	588449	6.7	BS_HCP5C912	GoodRin	NA	85.24	3b56d0d8-22f8-4998-83fc-4b650652d1fc.rsem.genes.results.gz	0.36	0.26	12.74	0.04	0.21
+7316-1963	601587	7.9	BS_9SJWWYQ4	GoodRin	Low-grade glioma/astrocytoma	78.65	5740e7f3-6054-453c-8720-cbb7e479e567.rsem.genes.results.gz	0.82	0.18	17.46	0.04	0.64
+7316-1965	728289	7.1	BS_55JW3HFM	GoodRin	Ganglioglioma	81.54	a8a23821-b5ca-4bd9-b6d3-658bcacc96e7.rsem.genes.results.gz	0.33	0.18	16.32	0.06	0.23
+7316-1968	717171	7.7	BS_Q9V7A95C	GoodRin	Rhabdomyosarcoma	83.70	9ed0ec55-568e-4220-a1fc-5d485f3779ae.rsem.genes.results.gz	0.52	0.20	14.23	0.08	0.26
+7316-1969	564448	8.3	BS_VJ2S5DVS	GoodRin	Ependymoma	79.52	b2023a6d-d2a5-4f8c-8c50-6088df5fe644.rsem.genes.results.gz	0.34	0.23	18.57	0.11	0.11
+7316-197	570123	8.3	BS_ZN8136D9	GoodRin	Choroid plexus papilloma	83.18	2a091e85-fbc4-465d-83e0-d0b4c3468fd7.rsem.genes.results.gz	0.66	0.19	13.97	0.15	0.26
+7316-1970	728296	6.5	BS_273HKCT4	GoodRin	Dysembryoplastic neuroepithelial tumor	88.53	8cf45580-591f-4fc7-b745-253a2d49020d.rsem.genes.results.gz	0.30	0.37	9.58	0.08	0.17
+7316-1972	601588	7.7	BS_ARBQDTT5	GoodRin	Low-grade glioma/astrocytoma	84.08	a0cb834d-ec8a-4402-8dae-0c925c48bea5.rsem.genes.results.gz	0.81	0.23	13.16	0.04	0.53
+7316-1975	601601	7.8	BS_8J3B6ZB6	GoodRin	Low-grade glioma/astrocytoma	83.98	6569d945-57c1-4a9d-ab12-5bb51ceee552.rsem.genes.results.gz	0.76	0.23	13.37	0.03	0.51
+7316-1977	601602	8.5	BS_B6M763JS	GoodRin	Low-grade glioma/astrocytoma	84.04	1ebc008f-73e8-4343-a2b8-364c8e0f9fb0.rsem.genes.results.gz	0.77	0.18	13.68	0.04	0.44
+7316-1978	731883	8.7	BS_SXRS2P6T	GoodRin	Low-grade glioma/astrocytoma	88.68	c11135d8-d7f8-4100-b666-90cbc04d7463.rsem.genes.results.gz	0.44	0.21	9.92	0.07	0.17
+7316-198	549592	9.3	BS_3X9WMZGJ	GoodRin	Ependymoma	80.06	4cdbc26c-11f8-445f-bd72-5ea8ed5f25c0.rsem.genes.results.gz	0.38	0.25	17.93	0.09	0.09
+7316-1981	731872	4.4	BS_7BW0YRPY	LowRin	CNS Embryonal tumor	74.38	1e2c236e-4a03-4205-b8f4-da70b4563f4f.rsem.genes.results.gz	0.36	0.08	20.40	0.05	0.24
+7316-1983	573153	8.7	BS_HBJZR69P	GoodRin	Schwannoma	87.33	40221835-5c3e-4a1a-87cb-669615c29ea4.rsem.genes.results.gz	0.85	0.20	11.13	0.11	0.20
+7316-1985	573160	7.3	BS_7N0B2CY1	GoodRin	Ganglioglioma	87.79	eea895d8-3ed7-487c-b50c-8ac2e1a729fe.rsem.genes.results.gz	1.01	0.19	10.30	0.08	0.31
+7316-1986	717155	7.3	BS_THSPSG2Z	GoodRin	Meningioma	87.79	9c517e26-7d2d-46e0-a67e-0156ca7750dc.rsem.genes.results.gz	0.49	0.18	11.03	0.06	0.18
+7316-1987	573161	7.6	BS_M9C4RY4P	GoodRin	Schwannoma	88.47	1f302bf6-1b6f-4daf-9725-381735d958a3.rsem.genes.results.gz	1.06	0.16	9.65	0.11	0.35
+7316-20	564452	7.6	BS_NRFQEQKP	GoodRin	Low-grade glioma/astrocytoma	87.57	e0709810-7773-41ac-aa13-033db8c4e956.rsem.genes.results.gz	0.28	0.22	11.33	0.08	0.05
+7316-2005	573147	7.6	BS_QF5VVZX5	GoodRin	Ganglioglioma	86.80	bc994a1e-89f3-45a0-8865-f4c49bbeb7ba.rsem.genes.results.gz	0.72	0.23	11.43	0.11	0.20
+7316-2006	601590	8.4	BS_CTR5X93B	GoodRin	Low-grade glioma/astrocytoma	88.04	949ce4fc-b1c9-4997-985d-fb7372f9b673.rsem.genes.results.gz	0.77	0.26	10.02	0.04	0.38
+7316-202	564467	6.9	BS_6R7SFVV2	GoodRin	Ganglioneuroma	80.78	475c3df7-5d53-48b8-9d37-ee4375d1176e.rsem.genes.results.gz	0.93	0.15	16.19	0.08	0.50
+7316-205	570124	8.3	BS_D5NQV7N5	GoodRin	Craniopharyngioma	73.49	489525ca-0bb4-417b-9dff-36d8a8355082.rsem.genes.results.gz	0.65	0.14	21.12	0.26	0.38
+7316-206	570125	7.7	BS_3Q0GTSYH	GoodRin	Low-grade glioma/astrocytoma	87.10	ec0c0de6-15a6-49dc-82ee-fc6e06c02d86.rsem.genes.results.gz	0.70	0.24	10.73	0.13	0.20
+7316-2069	573154	8.5	BS_WAXJY4XQ	GoodRin	High-grade glioma/astrocytoma	86.45	8f27d813-81b8-4be4-921a-72816940ac25.rsem.genes.results.gz	0.94	0.19	11.26	0.19	0.27
+7316-207	570126	8.1	BS_RRAEQZ97	GoodRin	Low-grade glioma/astrocytoma	83.12	758be76e-7033-4ce0-95e3-5ae36e4582fe.rsem.genes.results.gz	0.45	0.20	14.68	0.12	0.18
+7316-2071	717176	5.7	BS_Q2T9ZRM0	GoodRin	Meningioma	81.66	e5c855d5-524a-4fc2-bc3e-86ca9a147946.rsem.genes.results.gz	0.51	0.12	15.51	0.07	0.27
+7316-2075	588360	8.3	BS_YCREDZTJ	GoodRin	Low-grade glioma/astrocytoma	81.02	992a475e-69c6-4801-ac44-fe46772e912d.rsem.genes.results.gz	0.49	0.21	16.86	0.02	0.25
+7316-2079	731910	9.3	BS_V4W81SFC	GoodRin	Ependymoma	83.36	d07d1b23-18eb-42cf-819c-ec32d781474f.rsem.genes.results.gz	0.34	0.28	13.65	0.09	0.26
+7316-2084	731882	7.4	BS_1SVVER1H	GoodRin	Schwannoma	80.02	5732ed74-fe0d-4172-92d3-066a5860dcb7.rsem.genes.results.gz	0.42	0.23	16.76	0.06	0.29
+7316-2085	577730	7	BS_G3RJTBZD	GoodRin	High-grade glioma/astrocytoma	82.71	493da02a-a853-4eee-8783-f1f38a599800.rsem.genes.results.gz	0.66	0.18	15.33	0.08	0.25
+7316-209	717114	5.3	BS_69V8P8A0	LowRin	Neurofibroma/Plexiform	80.19	0d1fcf6e-93eb-47d0-8b71-d4527c2da028.rsem.genes.results.gz	0.65	0.17	17.24	0.03	0.46
+7316-2091	577718	7.9	BS_WJ9H4NZZ	GoodRin	High-grade glioma/astrocytoma	83.75	3a3c51d3-6a48-4879-bb9c-bca63c7aac6f.rsem.genes.results.gz	0.52	0.20	14.36	0.10	0.16
+7316-2092	739928	8.7	BS_M7HCF7DW	GoodRin	High-grade glioma/astrocytoma	85.48	3cc805a8-1da1-4213-87c9-533b49e501ee.rsem.genes.results.gz	0.45	0.18	12.67	0.10	0.18
+7316-2099	588369	8.4	BS_CGB2WS2A	GoodRin	Low-grade glioma/astrocytoma	88.27	296dd80e-385c-4264-afdd-5f224a538371.rsem.genes.results.gz	0.50	0.30	10.35	0.04	0.09
+7316-2100	574551	8.1	BS_CXVGG342	GoodRin	High-grade glioma/astrocytoma	83.21	b506be09-5033-41a2-88e4-7423fe3e0432.rsem.genes.results.gz	0.58	0.17	14.87	0.18	0.17
+7316-2106	717162	3.4	BS_TCGEZJ5F	BadRin	Ependymoma	86.12	1da45be9-a540-453f-bacc-72a89dbe4ceb.rsem.genes.results.gz	0.57	0.11	11.70	0.08	0.29
+7316-2107	570102	6.6	BS_TZVFR600	GoodRin	Medulloblastoma	88.22	5d40dd96-7e83-4d83-b1fa-8a933eb83567.rsem.genes.results.gz	0.72	0.26	9.77	0.19	0.23
+7316-2109	731893	4.9	BS_NH7K4CD9	LowRin	Ependymoma	88.51	9ff58dd4-67e4-4d64-ba00-c6ab40443d98.rsem.genes.results.gz	0.40	0.15	9.74	0.09	0.19
+7316-2110	731931	4.6	BS_4E1G7E3G	LowRin	Atypical Teratoid Rhabdoid Tumor	79.04	70d487bf-2c3c-4281-aa9b-746fa163102d.rsem.genes.results.gz	0.51	0.09	17.57	0.19	0.26
+7316-2118	711663	6.7	BS_V96WVE3Z	GoodRin	Medulloblastoma	84.27	1d36c6b7-aba2-4c15-84e9-59c15de2a613.rsem.genes.results.gz	0.38	0.33	13.84	0.07	0.28
+7316-2125	717167	5.6	BS_8ZP3CBQA	GoodRin	Ependymoma	86.98	c1243693-b6ee-4baf-a834-b80caeaa33f6.rsem.genes.results.gz	0.54	0.23	11.21	0.05	0.26
+7316-2130	746069	7.6	BS_25T139TX	GoodRin	Low-grade glioma/astrocytoma	88.87	c011ab43-7a02-4892-981d-5f897de739ac.rsem.genes.results.gz	0.49	0.26	10.08	0.07	0.13
+7316-2133	717125	2.5	BS_77317DY4	BadRin	Medulloblastoma	88.48	2f3e1012-b0f8-4fb1-99c6-73b8d17fce1c.rsem.genes.results.gz	0.58	0.15	9.60	0.13	0.27
+7316-2134	571441	8.6	BS_07ANYSYQ	GoodRin	Ependymoma	81.45	4fedcd84-15ef-4af7-a45e-c8248016f5bd.rsem.genes.results.gz	0.53	0.20	15.52	0.10	0.27
+7316-2135	571442	8.7	BS_YEQVW4ND	GoodRin	Low-grade glioma/astrocytoma	82.74	c9cb5675-e021-4a93-be00-d43f5852cc40.rsem.genes.results.gz	0.54	0.19	15.02	0.12	0.22
+7316-2138	728297	8.6	BS_TNRHHYNC	GoodRin	Ependymoma	74.53	67500ddf-4051-4579-af66-6ed711fedf63.rsem.genes.results.gz	0.24	0.14	22.08	0.13	0.17
+7316-2139	571430	8.2	BS_9XWJ88Q1	GoodRin	NA	87.69	e88fb0df-3c95-4a88-ade6-85be98edb3bd.rsem.genes.results.gz	0.72	0.19	10.28	0.14	0.24
+7316-214	717119	5.4	BS_398KYV92	LowRin	Meningioma	83.64	532d2541-672d-4a79-90ad-4b8d38a4e4d1.rsem.genes.results.gz	0.52	0.20	14.56	0.06	0.25
+7316-2141	571446	9.3	BS_MMNRZ1EQ	GoodRin	Atypical Teratoid Rhabdoid Tumor	82.56	9fb089a1-776b-4f6a-85d6-60147a3040a9.rsem.genes.results.gz	0.60	0.18	14.97	0.33	0.20
+7316-2142	588361	8.3	BS_MM20BVW9	GoodRin	Meningioma	88.80	6805aee5-ff71-4cba-9da2-cf055737e43e.rsem.genes.results.gz	0.45	0.19	9.86	0.06	0.16
+7316-2144	734532	7.8	BS_SAA624A4	GoodRin	Ependymoma	71.00	fc302f13-7370-40cd-ac2c-e5d346e3d7c8.rsem.genes.results.gz	0.24	0.11	24.49	0.07	0.20
+7316-2146	564445	8.1	BS_H0QWRJE2	GoodRin	High-grade glioma/astrocytoma	84.48	a387dba7-b61f-486d-975f-67e6c199dd12.rsem.genes.results.gz	0.32	0.23	13.98	0.11	0.07
+7316-2147	588305	8.6	BS_EN2VK7NY	GoodRin	Low-grade glioma/astrocytoma	88.52	aca81d0c-cf2c-44da-a8d3-5bbebe540d08.rsem.genes.results.gz	0.41	0.22	10.29	0.04	0.17
+7316-2148	571431	8.3	BS_JAEM78XS	GoodRin	Meningioma	86.32	bead4801-09be-444a-8091-7345e967c00a.rsem.genes.results.gz	0.70	0.15	11.79	0.24	0.21
+7316-2149	717161	5.4	BS_VXHWZJDC	LowRin	Germinoma	72.77	8662d508-f4e5-4904-b0ca-e5e67a1d3036.rsem.genes.results.gz	0.58	0.12	24.12	0.34	0.28
+7316-215	571412	6.1	BS_Z2NWPQKF	GoodRin	NA	84.66	d6fe3457-7a76-4b54-8ae7-a6bdf0dd752a.rsem.genes.results.gz	0.49	0.15	12.71	0.15	0.22
+7316-2150	571432	8.9	BS_WJGFDRWK	GoodRin	Ewing sarcoma	76.32	097e5372-eb2c-41b2-82ce-6e0a2c302545.rsem.genes.results.gz	0.72	0.13	19.35	0.22	0.41
+7316-2151	711713	8.2	BS_49BQS7Z6	GoodRin	High-grade glioma/astrocytoma	86.93	0ad46fdb-fae3-4098-aca1-5ad2fd48d4a2.rsem.genes.results.gz	0.34	0.33	11.34	0.04	0.25
+7316-2151	740006	9.7	BS_GXTFW99H	GoodRin	High-grade glioma/astrocytoma	77.61	48645a9d-5f53-4db7-8b66-f0b0e5bbeb52.rsem.genes.results.gz	0.26	0.17	19.97	0.05	0.15
+7316-2152	574550	7.9	BS_4B0BAVTX	GoodRin	Diffuse midline glioma	85.14	503efce1-1e25-412b-bdbd-661aff0e6a1b.rsem.genes.results.gz	0.60	0.22	13.17	0.10	0.17
+7316-2153	571439	9.3	BS_AZN38B7V	GoodRin	Sarcoma	82.85	e04a4673-d95a-47b2-90b4-e3cccb32d395.rsem.genes.results.gz	0.56	0.17	14.83	0.19	0.19
+7316-2154	549612	8.6	BS_6P50QTPP	GoodRin	Low-grade glioma/astrocytoma	87.31	2ca991eb-4c78-4f0b-86db-c4f8c54e685e.rsem.genes.results.gz	0.38	0.26	11.34	0.05	0.13
+7316-2155	564491	7.8	BS_HF3RNN2T	GoodRin	Medulloblastoma	88.94	25665104-5923-4d5a-8f9f-3726d26e7dac.rsem.genes.results.gz	1.03	0.27	9.55	0.12	0.32
+7316-2156	588365	8.9	BS_N5DVEJXT	GoodRin	Ependymoma	85.91	73042e9c-53b5-4096-9021-54ab3337bd53.rsem.genes.results.gz	0.46	0.18	12.73	0.05	0.20
+7316-2157	588366	8.4	BS_A7MC2KR2	GoodRin	Craniopharyngioma	84.16	3c78e840-388d-4632-8717-dae29a8d7a06.rsem.genes.results.gz	0.49	0.21	13.69	0.05	0.28
+7316-2158	588367	7.3	BS_R7HZCZ8B	GoodRin	Craniopharyngioma	84.07	c4e198ca-c499-48b0-8926-fd360eda82de.rsem.genes.results.gz	0.42	0.19	13.67	0.03	0.20
+7316-2159	571443	9.3	BS_JK0VPG1T	GoodRin	Schwannoma	61.87	42e0428a-2830-481a-ac41-1fe4f3850d5b.rsem.genes.results.gz	0.63	0.12	30.53	0.12	0.45
+7316-216	717116	5.5	BS_TAHV8N04	LowRin	Neurofibroma/Plexiform	87.59	70cc0fa7-a904-4bac-9cbd-3ceaa851f0d2.rsem.genes.results.gz	0.49	0.18	10.44	0.07	0.21
+7316-2166	588368	6.4	BS_FQX1PRAJ	GoodRin	Neurofibroma/Plexiform	83.70	405904ef-9db6-484b-8e55-90bac9cf674a.rsem.genes.results.gz	0.50	0.19	14.97	0.05	0.13
+7316-2167	571444	6.4	BS_1ZVXF5FE	GoodRin	Low-grade glioma/astrocytoma	86.62	221c72f8-c779-47e1-a882-1c90b069c913.rsem.genes.results.gz	0.55	0.18	11.28	0.14	0.20
+7316-2169	570101	5.9	BS_W311713R	GoodRin	Medulloblastoma	86.89	2230b353-eafb-4f54-9c11-0288f4523bee.rsem.genes.results.gz	0.69	0.21	10.80	0.20	0.26
+7316-217	734530	7.6	BS_V7BJM89K	GoodRin	Low-grade glioma/astrocytoma	87.47	1e51bece-ea90-4a71-9f97-59a5b2249567.rsem.genes.results.gz	0.38	0.46	10.87	0.08	0.17
+7316-2170	728298	8.1	BS_TBWYAFSM	GoodRin	Ependymoma	87.03	5b32b3e6-ae7f-4780-9018-284cedb9c959.rsem.genes.results.gz	0.27	0.28	11.57	0.10	0.12
+7316-2171	571445	8.1	BS_3EVSN5QD	GoodRin	Subependymal Giant Cell Astrocytoma	79.60	69c6378b-1c4a-44d7-8121-f36015e7018e.rsem.genes.results.gz	0.60	0.16	17.11	0.13	0.31
+7316-2172	571451	7.2	BS_S50KQEXV	GoodRin	Low-grade glioma/astrocytoma	67.95	5a90a2cb-9221-4d54-9a6c-387adaee8ec8.rsem.genes.results.gz	0.63	0.13	26.25	0.09	0.40
+7316-2174	588373	8.1	BS_T2QPMZCM	GoodRin	Low-grade glioma/astrocytoma	85.12	75cdfd07-5b31-4e15-8cdc-581ab8419a8b.rsem.genes.results.gz	0.47	0.53	11.45	0.07	0.28
+7316-2176	588280	7.4	BS_0C7VZC0A	GoodRin	High-grade glioma/astrocytoma	86.52	4b9e4ba7-b802-4852-a1ae-4a64fe8e9b98.rsem.genes.results.gz	0.32	0.29	11.96	0.06	0.14
+7316-2176	739936	8.9	BS_5GNQC2FF	GoodRin	High-grade glioma/astrocytoma	81.27	51d78c9c-a966-4eda-9560-4be31baa152c.rsem.genes.results.gz	0.47	0.16	15.98	0.08	0.22
+7316-2177	571452	8.9	BS_JGPR9SR2	GoodRin	Meningioma	80.56	1145cd1b-3765-4be6-bb7a-163ff8d987b8.rsem.genes.results.gz	0.60	0.17	16.45	0.20	0.24
+7316-2178	564482	9	BS_9NZ2D6AD	GoodRin	Medulloblastoma	84.89	b542d316-4203-4061-a1c3-981fc3eb918c.rsem.genes.results.gz	1.00	0.22	13.14	0.09	0.33
+7316-2180	588374	7.9	BS_1XJ73KBQ	GoodRin	Sarcoma	78.57	d4cf9333-13de-47a7-a2f7-146e4ed4b180.rsem.genes.results.gz	0.48	0.34	18.19	0.09	0.38
+7316-2181	588435	8.4	BS_KXCY5BN5	GoodRin	Atypical Teratoid Rhabdoid Tumor	84.34	7bc5de77-dbd7-49c9-a174-978b1c6c3df5.rsem.genes.results.gz	0.35	0.20	13.92	0.08	0.21
+7316-2182	734542	9	BS_34201DKZ	GoodRin	Ependymoma	82.01	98ef628b-6be9-441e-8559-2555c4e143b7.rsem.genes.results.gz	0.30	0.33	15.74	0.05	0.20
+7316-2183	571455	8.8	BS_FRZ76GEG	GoodRin	Craniopharyngioma	85.98	fe1b7fde-966b-4b0c-8a2d-32d391b83d47.rsem.genes.results.gz	0.59	0.19	12.07	0.16	0.23
+7316-2184	571456	8.3	BS_GHNJ4CYC	GoodRin	Low-grade glioma/astrocytoma	82.23	5cf722c6-bffe-43b2-88bf-e5fe77192634.rsem.genes.results.gz	0.59	0.20	15.06	0.09	0.33
+7316-2186	654180	8.1	BS_6G6C7VPX	GoodRin	Atypical Teratoid Rhabdoid Tumor	87.21	2394a527-d111-48ab-a018-ec9ee6c85caa.rsem.genes.results.gz	0.27	0.24	11.39	0.10	0.15
+7316-2187	608922	8.6	BS_850BAHH9	GoodRin	Atypical Teratoid Rhabdoid Tumor	81.22	43062258-25f8-436d-980f-1cf1c9d44408.rsem.genes.results.gz	0.49	0.22	16.23	0.06	0.35
+7316-2189	734533	6	BS_HJRTC9JQ	GoodRin	High-grade glioma/astrocytoma	87.09	3508ccd4-23bb-4a7b-a3eb-d82e4a4e931a.rsem.genes.results.gz	0.30	0.30	11.25	0.07	0.15
+7316-2189	740008	9.8	BS_PGK832G2	GoodRin	High-grade glioma/astrocytoma	81.24	6f3ee5c7-643e-4cc7-905b-9881a506569d.rsem.genes.results.gz	0.26	0.18	16.60	0.05	0.14
+7316-2191	588450	8.8	BS_KF0ZXDER	GoodRin	Meningioma	84.77	d514a573-c6a8-4b8b-8bf3-464947d403a1.rsem.genes.results.gz	0.37	0.22	13.01	0.09	0.37
+7316-2193	588451	7.8	BS_S4V9E1XJ	GoodRin	Low-grade glioma/astrocytoma	88.28	cde053b9-97d3-4148-8450-d306180af613.rsem.genes.results.gz	0.37	0.27	10.33	0.05	0.18
+7316-2195	573144	7.3	BS_258RRGDM	GoodRin	Low-grade glioma/astrocytoma	85.78	1f8110fe-624a-4619-908e-ec1f95df259e.rsem.genes.results.gz	0.45	0.21	12.39	0.11	0.15
+7316-2197	731873	7.7	BS_V89HGTET	GoodRin	Low-grade glioma/astrocytoma	83.55	e60d7aee-3d59-41e6-b76d-25ca52a9ed1d.rsem.genes.results.gz	0.44	0.27	14.33	0.06	0.28
+7316-22	564485	8.7	BS_4CP4T22V	GoodRin	Medulloblastoma	91.36	4af3e449-5b65-47f2-ada5-11efcb76ee53.rsem.genes.results.gz	0.99	0.26	7.15	0.12	0.30
+7316-220	571413	6.6	BS_PKK3BZRG	GoodRin	Choroid plexus papilloma	84.35	cecf9a86-cfb2-492e-a810-1874c46b05dd.rsem.genes.results.gz	0.62	0.13	12.71	0.34	0.27
+7316-2203	731874	6.2	BS_3H71BH6Q	GoodRin	Ganglioglioma	83.89	09a4fe4a-e000-468c-ae80-9767538f69e9.rsem.genes.results.gz	0.48	0.25	13.71	0.06	0.31
+7316-2204	731912	5.3	BS_X9EGD530	LowRin	Glial-neuronal tumor NOS	80.04	221629c3-e47e-49f5-8377-0fefbda2250a.rsem.genes.results.gz	0.39	0.09	16.42	0.06	0.27
+7316-2208	731894	6.2	BS_1KYGSMA7	GoodRin	Diffuse leptomeningeal glioneuronal tumor	87.38	dbdc7d34-a8b5-4634-8804-6381a7d9c1e8.rsem.genes.results.gz	0.36	0.23	11.10	0.07	0.17
+7316-2215	731923	7.5	BS_EYSS0ZDS	GoodRin	Low-grade glioma/astrocytoma	84.71	bdb2770a-d9e2-4de3-a728-2fcb74507688.rsem.genes.results.gz	0.37	0.10	13.28	0.04	0.19
+7316-2216	731932	6.7	BS_S9929Z8B	GoodRin	Ganglioglioma	81.56	21e412f1-dd6d-4895-aa8b-c48b19225d12.rsem.genes.results.gz	0.37	0.12	15.65	0.05	0.20
+7316-2217	731933	8.4	BS_M0QYNVK8	GoodRin	High-grade glioma/astrocytoma	86.53	5e3b73f2-1197-4e73-aeaf-94db20d497ba.rsem.genes.results.gz	0.40	0.22	11.27	0.11	0.22
+7316-222	571414	7.2	BS_QH82PBMB	GoodRin	Low-grade glioma/astrocytoma	86.37	edeb25d1-499c-43ad-a14f-7deb361feb35.rsem.genes.results.gz	0.61	0.20	11.63	0.16	0.23
+7316-2221	711677	7.5	BS_3NWQXPQV	GoodRin	Medulloblastoma	88.28	2f5d010f-f862-4dbe-8cc4-ceaf2d46693b.rsem.genes.results.gz	0.32	0.26	10.14	0.18	0.16
+7316-2224	571449	8.5	BS_P7EY9DXG	GoodRin	Atypical Teratoid Rhabdoid Tumor	79.27	c910ae79-9f5b-4326-ac23-3289b137a9c5.rsem.genes.results.gz	0.61	0.22	17.50	0.17	0.27
+7316-2227	564492	8.5	BS_HTEPAKCM	GoodRin	Medulloblastoma	88.81	41c97ad0-86e2-4cc2-84c3-6a18c33c082a.rsem.genes.results.gz	0.99	0.24	9.26	0.15	0.36
+7316-223	717172	6.7	BS_ENKG5GF3	GoodRin	Neurofibroma/Plexiform	86.79	df1c7941-34ef-4b0b-8bc3-125bceebd7ed.rsem.genes.results.gz	0.54	0.17	11.16	0.07	0.25
+7316-2230	564493	7.6	BS_HE57E1RP	GoodRin	Medulloblastoma	86.60	87c5e434-1dd7-45aa-babc-1c7b61ba3466.rsem.genes.results.gz	0.95	0.20	11.65	0.14	0.34
+7316-2237	731903	4.4	BS_C7N3J4NW	LowRin	Oligodendroglioma	78.73	431d8247-4865-4f6b-bfe9-4c68960c99a1.rsem.genes.results.gz	0.41	0.14	16.71	0.07	0.33
+7316-224	588336	6.1	BS_DY88N5ZT	GoodRin	Metastatic secondary tumors;Neuroblastoma	84.95	10821127-4977-4e0d-8be9-83e953021163.rsem.genes.results.gz	0.50	0.17	13.56	0.08	0.20
+7316-2240	731904	8.7	BS_E3BAT4C1	GoodRin	Medulloblastoma	85.75	e6430f63-ae98-4d10-9ede-2ffa2daebcc0.rsem.genes.results.gz	0.39	0.33	11.86	0.14	0.27
+7316-2241	549573	8.3	BS_84XCR9GG	GoodRin	High-grade glioma/astrocytoma	89.65	4a6af340-ca3c-4c55-b68b-3407974203cb.rsem.genes.results.gz	0.43	0.33	9.18	0.08	0.08
+7316-2243	746082	7	BS_RGPSEMHC	GoodRin	Ependymoma	82.45	c69b5ac8-2600-46f4-b177-cdec490b57e8.rsem.genes.results.gz	0.75	0.17	15.65	0.04	0.34
+7316-2244	571453	8.1	BS_8Q77HZ4R	GoodRin	Choroid plexus papilloma	81.80	0a422dd3-57be-4e92-b227-6a3e55e3b666.rsem.genes.results.gz	0.50	0.19	14.87	0.32	0.23
+7316-2245	571454	6.9	BS_68BW2163	GoodRin	Low-grade glioma/astrocytoma	80.53	c9cff929-f971-41b1-90b0-bf0a3e40f2fb.rsem.genes.results.gz	0.63	0.21	16.34	0.14	0.30
+7316-2248	588282	6.5	BS_0VRSD9V3	GoodRin	Choroid plexus carcinoma	85.16	0f3b8d3e-7f0c-4526-9f79-76bc28d244ee.rsem.genes.results.gz	0.36	0.19	13.32	0.06	0.17
+7316-2249	573155	7.7	BS_9755PSCS	GoodRin	Low-grade glioma/astrocytoma	85.75	2fc4877f-e2bc-4e9e-a714-65a9a9164c54.rsem.genes.results.gz	0.84	0.21	11.90	0.13	0.28
+7316-2250	564483	7.9	BS_1AYRM596	GoodRin	Medulloblastoma	84.84	7e23e066-3a79-46e2-aea9-16895ca81d7e.rsem.genes.results.gz	0.97	0.21	13.21	0.10	0.35
+7316-2251	573149	6.2	BS_FEYMKEK8	GoodRin	Choroid plexus papilloma	86.64	025100b9-016b-4671-ae4b-b5fdf0bf7fff.rsem.genes.results.gz	0.75	0.22	11.34	0.22	0.24
+7316-2252	564484	9.1	BS_HB03GSHF	GoodRin	Medulloblastoma	84.98	db57a8fd-0f59-44e2-bac8-d4f4a80f2559.rsem.genes.results.gz	0.92	0.18	13.03	0.10	0.31
+7316-2255	717166	2.2	BS_5JM573JC	BadRin	Ganglioglioma	77.77	1be23d78-0b6d-4ddb-ae70-19f33e852261.rsem.genes.results.gz	0.56	0.08	19.20	0.08	0.33
+7316-226	601596	6.4	BS_ABYF92Z9	GoodRin	Craniopharyngioma	85.84	e373a433-69a2-411d-8173-44dd3be95bf5.rsem.genes.results.gz	0.82	0.20	11.84	0.07	0.44
+7316-2266	717104	4.3	BS_VAAHBH60	LowRin	Ependymoma	91.71	f4d5a2ca-d2d2-4818-8aee-09b4c0350ae0.rsem.genes.results.gz	0.74	0.31	6.46	0.06	0.35
+7316-2267	711708	8.6	BS_RHD7XPNP	GoodRin	Ependymoma	82.47	733d1f27-f0c6-4bba-9c4c-5b4a96f175e8.rsem.genes.results.gz	0.33	0.34	15.26	0.03	0.34
+7316-2268	717136	5	BS_29006KEX	LowRin	Teratoma	85.40	38fa9b02-15a6-41da-9890-5fa15aa6c78d.rsem.genes.results.gz	0.58	0.08	12.71	0.05	0.30
+7316-2269	717185	4.1	BS_9FHSNVS0	LowRin	Atypical Teratoid Rhabdoid Tumor	88.24	b96d3ec9-609d-4f9c-bd21-59eab4ef037b.rsem.genes.results.gz	0.77	0.23	9.56	0.13	0.42
+7316-2271	717138	4.6	BS_SFRQXM76	LowRin	Sarcoma	66.42	efba4302-02dd-4a3a-bcb1-f117d7f225a9.rsem.genes.results.gz	0.53	0.05	28.83	0.15	0.38
+7316-2274	728249	6.8	BS_KP735TJ6	GoodRin	High-grade glioma/astrocytoma	84.19	4e9d8e74-4207-4e66-a37a-707408a17375.rsem.genes.results.gz	0.93	0.19	12.63	0.12	0.60
+7316-2275	724090	7.9	BS_NS7GSHB9	GoodRin	Low-grade glioma/astrocytoma	88.35	4e783fda-a75a-4054-986f-4faeccc46e39.rsem.genes.results.gz	0.66	0.26	10.02	0.05	0.28
+7316-2276	711756	8	BS_996ZS2A4	GoodRin	Atypical Teratoid Rhabdoid Tumor	83.55	2ec0ded4-fb7f-4647-a555-7290dd5d8fa4.rsem.genes.results.gz	0.48	0.16	14.52	0.08	0.27
+7316-2278	654197	8.2	BS_M1T1K5WV	GoodRin	Ependymoma	87.34	41713ca9-d80a-4f60-9f75-848e0f7ebf34.rsem.genes.results.gz	0.31	0.26	10.96	0.08	0.21
+7316-2285	717163	2.6	BS_MQCKXD60	BadRin	Glial-neuronal tumor NOS	82.52	789053b1-4523-469e-8d1b-778df1d4a385.rsem.genes.results.gz	0.60	0.08	14.44	0.14	0.30
+7316-2287	711707	8.3	BS_9V633J1X	GoodRin	Medulloblastoma	89.83	7ee7fda0-4a84-4a86-9f9e-38e3aa16c39b.rsem.genes.results.gz	0.31	0.38	8.98	0.08	0.10
+7316-2288	577719	8	BS_VVTHDRBD	GoodRin	High-grade glioma/astrocytoma	85.00	a35df61a-d552-4963-9c27-119076f50c1a.rsem.genes.results.gz	0.54	0.22	13.53	0.08	0.17
+7316-229	746088	8	BS_JXF8A2A6	GoodRin	NO_data	83.69	ba6f060d-582b-46c1-833a-9c0d6e68ccc5.rsem.genes.results.gz	0.44	0.18	14.90	0.12	0.16
+7316-2291	731905	8.2	BS_66HQ3E4Z	GoodRin	Low-grade glioma/astrocytoma	83.19	86ed5b65-c5ba-417d-a246-da07f1bed529.rsem.genes.results.gz	0.37	0.29	14.32	0.05	0.29
+7316-23	717107	5.2	BS_TD1ZEQ7R	LowRin	Neuroblastoma	79.98	a605d31b-8c6a-4543-a7c4-6d20d2e1eef1.rsem.genes.results.gz	0.65	0.11	17.38	0.04	0.44
+7316-230	588314	8.1	BS_478TN841	GoodRin	Ganglioglioma	84.30	db42d296-e4f3-49f9-af6e-b2b5e82cff5f.rsem.genes.results.gz	0.43	0.25	13.64	0.04	0.20
+7316-2300	571450	7	BS_RVSEDNJ4	GoodRin	Ganglioglioma	77.70	900271dd-41e9-45f2-ad0e-0296f7dc9f33.rsem.genes.results.gz	0.58	0.18	18.58	0.12	0.29
+7316-2305	588436	8.5	BS_5PV5N4HQ	GoodRin	Low-grade glioma/astrocytoma	87.67	ad0472c3-9c37-4d79-ad65-af7b37fcb2c4.rsem.genes.results.gz	0.36	0.27	10.81	0.04	0.18
+7316-2306	731881	7.4	BS_AD4JPN9Q	GoodRin	Ganglioglioma	84.92	f489a219-7257-427b-9a48-a91257fef95b.rsem.genes.results.gz	0.41	0.23	12.58	0.06	0.25
+7316-2307	731934	8.6	BS_Z8YZ6QGS	GoodRin	High-grade glioma/astrocytoma	84.08	69bf374c-b410-4513-a83c-adbe98ae0a4e.rsem.genes.results.gz	0.36	0.19	13.68	0.06	0.25
+7316-2308	731861	7.9	BS_7327SDAQ	GoodRin	High-grade glioma/astrocytoma	84.71	8a473e50-48d5-41b8-bcda-f8badf8529af.rsem.genes.results.gz	0.45	0.28	13.55	0.08	0.19
+7316-2309	564494	7	BS_V72H4RQS	GoodRin	Medulloblastoma	85.35	e196fc3f-74a0-42f0-8757-eff6d39de646.rsem.genes.results.gz	0.94	0.22	12.32	0.16	0.39
+7316-231	549571	7	BS_RCCN63K6	GoodRin	High-grade glioma/astrocytoma	87.16	3929e48c-8577-4f20-91bc-b5498e3bde97.rsem.genes.results.gz	0.47	0.24	11.30	0.09	0.15
+7316-2310	588437	7.7	BS_DEHJF4C7	GoodRin	Low-grade glioma/astrocytoma	84.77	113de9f0-caf7-47ac-b563-ae8fa8da1ccf.rsem.genes.results.gz	0.37	0.18	13.64	0.06	0.21
+7316-2311	731913	8	BS_GMDQK06Q	GoodRin	Craniopharyngioma	83.42	f45ab3bb-5fa9-4a13-99f9-51f8ce4c38c8.rsem.genes.results.gz	0.36	0.19	13.46	0.05	0.33
+7316-2313	717126	2	BS_0XEG6SNV	BadRin	Ependymoma	92.04	5fe8030d-2e75-4ac1-80c6-6256bd8d2904.rsem.genes.results.gz	0.54	0.16	6.30	0.14	0.23
+7316-2322	564495	8.2	BS_D144EJRQ	GoodRin	Medulloblastoma	86.17	cc6e0e0d-4802-47d5-8ae1-ecfdb0e0f47e.rsem.genes.results.gz	0.89	0.22	11.95	0.12	0.32
+7316-2324	717147	7.4	BS_B7GEH89C	GoodRin	Low-grade glioma/astrocytoma	88.82	0b8bcbed-6e03-4377-93e4-76b2fd77f9a6.rsem.genes.results.gz	0.52	0.17	9.91	0.06	0.20
+7316-2329	746072	3.9	BS_TQ5QHR17	LowRin	Neurofibroma/Plexiform	79.47	79e70afe-d07f-4ddd-9c91-cbe9bda0c8e0.rsem.genes.results.gz	0.62	0.10	19.10	0.06	0.21
+7316-234	717141	6.8	BS_VXEFKW5P	GoodRin	Neurofibroma/Plexiform	89.19	ee1a6838-b088-49ec-89e1-a07cfb4469a3.rsem.genes.results.gz	0.49	0.22	9.08	0.05	0.20
+7316-235	564458	8.6	BS_2YCJV2VV	GoodRin	Low-grade glioma/astrocytoma	88.44	621a8767-374b-4506-82a1-27e13017a209.rsem.genes.results.gz	0.45	0.19	10.32	0.11	0.07
+7316-240	746085	6.7	BS_NDRDM2A9	GoodRin	Neurofibroma/Plexiform	84.66	7d6472df-228e-4ed6-81f3-dd582584e288.rsem.genes.results.gz	0.47	0.14	13.87	0.07	0.11
+7316-242	750189	8.3	BS_W72364MN	GoodRin	Meningioma	87.11	9339fa5c-a9f5-489d-8885-6be7c7feac7d.rsem.genes.results.gz	0.71	0.20	11.69	0.06	0.20
+7316-245	711727	8.9	BS_KK5C8VCK	GoodRin	Choroid plexus papilloma	82.77	b77130ff-4c59-402e-807f-b604e60711e2.rsem.genes.results.gz	0.27	0.22	15.11	0.07	0.20
+7316-247	588291	8	BS_DSS3S5XD	GoodRin	Low-grade glioma/astrocytoma	86.40	8f03a519-ff5b-4f9c-9b8c-d854d7c89abf.rsem.genes.results.gz	0.33	0.30	12.37	0.04	0.13
+7316-249	577724	8.3	BS_YEW22W35	GoodRin	High-grade glioma/astrocytoma	88.90	12f9c248-f4a8-43e3-9f35-3dac192e03aa.rsem.genes.results.gz	0.53	0.28	9.91	0.09	0.14
+7316-2536	574557	5.8	BS_QB84TBA3	GoodRin	High-grade glioma/astrocytoma	88.32	8a19d667-408b-4494-a7f5-4ece3c176073.rsem.genes.results.gz	0.63	0.27	10.52	0.08	0.16
+7316-2554	564449	7.7	BS_S6S7SK3P	GoodRin	High-grade glioma/astrocytoma	90.16	380b9e29-7e48-49d4-91a6-266a3948ff15.rsem.genes.results.gz	0.40	0.32	8.63	0.11	0.08
+7316-2556	728254	8.1	BS_G63HYD6N	GoodRin	Ependymoma	85.68	044ce6cd-1836-4c1a-b616-5dbe40559535.rsem.genes.results.gz	0.34	0.31	12.48	0.05	0.22
+7316-2557	731862	7.6	BS_5965SFPZ	GoodRin	Diffuse midline glioma	86.34	46277b4a-69c5-473e-a5f6-0347aad1e2b6.rsem.genes.results.gz	0.43	0.31	11.87	0.08	0.21
+7316-2558	654219	8	BS_6H1C1ME9	GoodRin	Ependymoma	85.78	4351a1cc-98c2-4edf-813c-f63a38418091.rsem.genes.results.gz	0.32	0.21	13.00	0.05	0.14
+7316-2561	577720	9.3	BS_1EN5V3XW	GoodRin	High-grade glioma/astrocytoma	86.37	9c357cc9-0c0c-44ac-a28b-a613c7103999.rsem.genes.results.gz	0.50	0.23	12.25	0.07	0.14
+7316-2562	728255	5.5	BS_KN92S7YQ	LowRin	Medulloblastoma	89.98	4de30919-02c6-49b3-87ed-607c1af7102d.rsem.genes.results.gz	0.35	0.31	8.16	0.18	0.15
+7316-2566	717134	5.3	BS_V3REENH9	LowRin	Low-grade glioma/astrocytoma	83.30	13de80a1-d43d-4238-9663-51b24a1da805.rsem.genes.results.gz	0.52	0.16	14.41	0.04	0.33
+7316-2567	570103	6.5	BS_KBT7MQ6H	GoodRin	Ependymoma	86.27	22114474-2744-4ee9-9492-69de69559a15.rsem.genes.results.gz	0.69	0.21	11.70	0.12	0.25
+7316-2569	717168	3.2	BS_QBR4WCQ2	BadRin	Myxoid spindle cell tumor	83.98	ccfc3fd2-102c-495d-aa6b-fb324d633e74.rsem.genes.results.gz	0.51	0.12	14.79	0.07	0.24
+7316-257	711729	8.5	BS_FAVRBEW7	GoodRin	Choroid plexus papilloma	85.73	d864fd7a-4083-4626-b26d-7328b03ecc73.rsem.genes.results.gz	0.30	0.25	12.51	0.05	0.17
+7316-2571	588452	8.4	BS_FAQQ0GCQ	GoodRin	Ganglioglioma	89.35	6a645d71-4e9e-4510-8f4f-396f79ee0879.rsem.genes.results.gz	0.35	0.21	9.52	0.04	0.13
+7316-2572	588453	7.5	BS_MF9X3PKH	GoodRin	Low-grade glioma/astrocytoma	87.19	e8ac439e-5f65-435a-b55c-e106aac22150.rsem.genes.results.gz	0.38	0.22	11.25	0.05	0.18
+7316-2575	654215	8.7	BS_3XY76V8T	GoodRin	Ganglioglioma	84.69	e93876b9-a54a-4144-b1f9-631285655e74.rsem.genes.results.gz	0.30	0.61	12.68	0.04	0.16
+7316-2576	654181	8.7	BS_6JHXXVR7	GoodRin	Malignant peripheral nerve sheath tumor	86.14	09ae959f-c841-4e5b-a002-8749842a4d5f.rsem.genes.results.gz	0.29	0.24	12.45	0.07	0.16
+7316-2577	601591	6.9	BS_FEPRNEXX	GoodRin	Embryonal tumor with multilayer rosettes	89.57	2c98cd42-5c3f-4a7e-8e53-7fce6b317222.rsem.genes.results.gz	0.87	0.57	8.00	0.08	0.43
+7316-2578	588462	8.4	BS_29CPJ040	GoodRin	Subependymal Giant Cell Astrocytoma	83.26	7336d002-f05b-455e-a141-329e657fccaf.rsem.genes.results.gz	0.43	0.14	14.73	0.04	0.25
+7316-258	717112	4.7	BS_C3P5BC92	LowRin	Craniopharyngioma	79.21	06c4bb74-2223-4107-b34b-92478f1422fa.rsem.genes.results.gz	0.69	0.06	18.15	0.04	0.43
+7316-2581	573156	7.8	BS_E3EJHXQV	GoodRin	Low-grade glioma/astrocytoma	84.97	b6b6c922-70d8-4439-951f-f71dae53e281.rsem.genes.results.gz	0.92	0.20	12.64	0.12	0.34
+7316-2582	573157	8.3	BS_GJNCYABP	GoodRin	Atypical Teratoid Rhabdoid Tumor	78.01	49fd1b11-245f-4e76-8572-87ad04b17fa6.rsem.genes.results.gz	0.94	0.16	18.04	0.19	0.50
+7316-2583	573158	8.6	BS_6VF6VPCG	GoodRin	Low-grade glioma/astrocytoma	87.77	710364ad-f293-4ba3-b593-cbc0ae39b551.rsem.genes.results.gz	0.88	0.21	10.39	0.14	0.25
+7316-2588	588463	8.9	BS_X2QTK3QD	GoodRin	Meningioma	84.24	6e5d261b-45b7-44c7-9e5b-eedb42ca542e.rsem.genes.results.gz	0.34	0.17	14.23	0.10	0.19
+7316-2589	739960	8.4	BS_R13X6TMW	GoodRin	Low-grade glioma/astrocytoma	81.24	fe228267-13ef-4fbf-8743-c2a064f11458.rsem.genes.results.gz	0.36	0.12	15.88	0.07	0.18
+7316-259	588315	8.7	BS_77CDMEY4	GoodRin	Ganglioglioma	85.40	6d6e0818-a8cd-4126-9a9c-d743a61e5cb6.rsem.genes.results.gz	0.42	0.25	12.88	0.04	0.23
+7316-2590	717130	6	BS_3Y0QXZQB	GoodRin	Neurofibroma/Plexiform	82.02	5624dcfe-f338-443a-991b-8fc5988735bd.rsem.genes.results.gz	0.46	0.08	15.96	0.04	0.22
+7316-2591	717151	3	BS_PN2CE34A	BadRin	Low-grade glioma/astrocytoma	89.04	96bf70a0-6612-45f0-91ba-75b416b3d28d.rsem.genes.results.gz	0.55	0.11	8.89	0.11	0.26
+7316-2594	574553	7.8	BS_VF5XWFXD	GoodRin	Diffuse midline glioma	84.35	b3a8b89c-d86c-4c07-a924-7c9a17e3bfdd.rsem.genes.results.gz	0.55	0.23	13.78	0.06	0.19
+7316-2599	711766	7.7	BS_S2TA8R29	GoodRin	High-grade glioma/astrocytoma	80.41	00245bb9-b207-4648-b26e-bf16ec38103a.rsem.genes.results.gz	0.46	0.18	16.71	0.05	0.47
+7316-2608	717177	2	BS_742RHK1M	BadRin	Germinoma	80.94	e211b421-5e8b-434e-881c-359561e661cc.rsem.genes.results.gz	0.61	0.11	15.50	0.26	0.31
+7316-2609	573159	8.1	BS_PRAEF32W	GoodRin	Ependymoma	78.74	f411f39a-adbd-4fee-9d96-d2fb9a0b4ef8.rsem.genes.results.gz	1.08	0.17	17.56	0.10	0.42
+7316-261	750191	7.8	BS_593HEWBF	GoodRin	Ganglioglioma	86.87	b6a82ab2-fa0b-45e6-bf18-49805e3e544a.rsem.genes.results.gz	0.67	0.19	11.79	0.05	0.16
+7316-2610	577721	8.3	BS_45J79YTF	GoodRin	High-grade glioma/astrocytoma	86.16	32483535-0f50-4a8a-8145-1940429be691.rsem.genes.results.gz	0.55	0.26	12.54	0.12	0.12
+7316-2614	717175	3.4	BS_NDFDQBCZ	BadRin	Myofibroblastoma	76.46	d0dc622f-59d2-410a-8257-91475d06260d.rsem.genes.results.gz	0.58	0.09	20.20	0.04	0.32
+7316-262	750190	6.1	BS_XKKB4MZV	GoodRin	Low-grade glioma/astrocytoma	86.28	fbdf06b0-92cc-401d-838b-588499ed94d3.rsem.genes.results.gz	0.67	0.18	11.96	0.07	0.22
+7316-2622	717178	3.3	BS_EXYHZ6D4	BadRin	Low-grade glioma/astrocytoma	68.87	033cab0d-d799-4382-a8de-24306b138b5e.rsem.genes.results.gz	0.64	0.05	25.91	0.05	0.49
+7316-2626	728290	3.3	BS_J71N7D09	BadRin	Medulloblastoma	79.97	5399dc1b-e0d2-482b-bb98-302220ec3be1.rsem.genes.results.gz	0.60	0.23	16.21	0.20	0.76
+7316-263	711706	6.8	BS_RB2S0KDF	GoodRin	Meningioma	89.58	0cc579b3-7dac-4d50-bed6-c80280c4189f.rsem.genes.results.gz	0.34	0.21	9.14	0.09	0.16
+7316-2632	711748	7.5	BS_8RCR7Y4B	GoodRin	Low-grade glioma/astrocytoma	86.57	62607c50-058c-41dc-a0ef-41ba82811f00.rsem.genes.results.gz	0.46	0.21	11.37	0.06	0.26
+7316-264	549616	6.7	BS_5CMGN56B	GoodRin	Low-grade glioma/astrocytoma	85.36	78f06b93-7733-40da-bb57-3bdb27832e2f.rsem.genes.results.gz	0.38	0.20	13.04	0.06	0.12
+7316-2640	573150	6.3	BS_FX2P2WEG	GoodRin	High-grade glioma/astrocytoma	88.93	3339fece-bed1-473c-8239-c1cc3f8c9533.rsem.genes.results.gz	0.74	0.20	9.51	0.16	0.19
+7316-2641	717129	2.8	BS_8WPNFT03	BadRin	Juvenile xanthogranuloma	66.45	55d429b9-7985-45d8-bf74-b0b340256d44.rsem.genes.results.gz	0.65	0.05	27.91	0.06	0.39
+7316-2647	717152	4.4	BS_3KHXMAJF	LowRin	Teratoma	80.75	e60da4ab-b452-47e0-bc6d-43f334d643bc.rsem.genes.results.gz	0.49	0.11	17.52	0.05	0.22
+7316-2648	573151	8.8	BS_SDCNP7MW	GoodRin	Ependymoma	87.18	48331334-cc87-4fa2-9671-69da5f053d23.rsem.genes.results.gz	0.85	0.21	11.20	0.11	0.22
+7316-265	549621	7.4	BS_CS170P7T	GoodRin	Pilocytic astrocytoma	90.31	a446aaa0-1147-4800-ac60-2cd8ef73c1c6.rsem.genes.results.gz	0.52	0.37	7.89	0.07	0.13
+7316-2653	717131	4.9	BS_MGAMKKBD	LowRin	Langerhans Cell histiocytosis	82.07	c8480ab4-21d6-4368-9efb-193b682d366d.rsem.genes.results.gz	0.59	0.12	15.69	0.07	0.42
+7316-2658	654182	8.7	BS_0HW7W7SD	GoodRin	Embryonal tumor with multilayer rosettes	84.70	51483e57-4a91-4c14-84b3-1dd074056f2c.rsem.genes.results.gz	0.29	0.23	13.95	0.07	0.14
+7316-2659	717140	2.9	BS_1BWP5MCT	BadRin	Medulloblastoma	92.72	f53b656d-33ad-4f1a-9f27-ac6a74c93878.rsem.genes.results.gz	0.53	0.21	5.72	0.09	0.21
+7316-2660	577722	8.3	BS_91VYM11A	GoodRin	High-grade glioma/astrocytoma	83.16	2e5ac60a-f829-443a-9554-ef160c6a8b83.rsem.genes.results.gz	0.51	0.21	15.07	0.07	0.15
+7316-2661	731863	7	BS_HZ707C55	GoodRin	Ependymoma	79.98	181df9ed-6202-4bb1-a083-b7b3f63b6d36.rsem.genes.results.gz	0.46	0.20	17.16	0.08	0.33
+7316-2662	717100	1.8	BS_6HTK4YJP	BadRin	Germinoma	86.81	2094d389-1aa9-42e0-a83f-4ccc7c321441.rsem.genes.results.gz	0.72	0.14	10.86	0.08	0.37
+7316-2663	601603	8.2	BS_A13BMEF5	GoodRin	Low-grade glioma/astrocytoma	87.91	64032020-a486-4b80-adb1-e35f91003c73.rsem.genes.results.gz	0.77	0.23	10.21	0.04	0.40
+7316-2664	711710	8.7	BS_ZVZDDW2G	GoodRin	Low-grade glioma/astrocytoma	79.98	70b44c0d-b636-48d0-8c12-6a19ec85bd7e.rsem.genes.results.gz	0.35	0.28	17.22	0.03	0.38
+7316-2665	717135	6.7	BS_893A91ZM	GoodRin	Neurofibroma/Plexiform	81.42	d86439e6-b994-48f1-9fc3-1322b609dedb.rsem.genes.results.gz	0.47	0.08	15.95	0.03	0.26
+7316-2666	711711	8.6	BS_C05FKR8X	GoodRin	Ependymoma	78.47	b0c41d58-e507-42e0-af52-c4b9c186268e.rsem.genes.results.gz	0.40	0.15	18.91	0.06	0.35
+7316-2667	549620	7.6	BS_HA20Y4XY	GoodRin	Low-grade glioma/astrocytoma	77.70	effcc2ae-1328-4162-bd45-5b171b411575.rsem.genes.results.gz	0.75	0.25	19.29	0.08	0.33
+7316-2668	573162	9	BS_F9WKPDFG	GoodRin	Choroid plexus cyst	74.85	6b9afb4e-fc83-43c0-b121-b324e5e525e4.rsem.genes.results.gz	1.09	0.14	20.67	0.21	0.46
+7316-2669	601604	8.6	BS_Q3TBCK4V	GoodRin	Low-grade glioma/astrocytoma	88.97	01a81e81-dc1b-4387-997b-c9f956d9ac8f.rsem.genes.results.gz	0.79	0.20	9.60	0.04	0.34
+7316-267	564455	7.8	BS_2KJ2YAZR	GoodRin	Low-grade glioma/astrocytoma	88.17	72a2d34d-46d9-4071-aaec-a7d21e0bbf4d.rsem.genes.results.gz	0.36	0.25	10.76	0.06	0.08
+7316-2671	573164	8.3	BS_ZF34SJGN	GoodRin	Craniopharyngioma	87.27	aea724ba-9003-486e-8b02-fc0a3221510a.rsem.genes.results.gz	0.46	0.23	11.06	0.25	0.11
+7316-2672	601592	7.7	BS_JX449BF5	GoodRin	Choroid plexus papilloma	84.94	68d64bdd-c8ee-4a73-b0d3-f86a842a755b.rsem.genes.results.gz	0.80	0.20	12.57	0.08	0.44
+7316-2673	711749	7.5	BS_6YMJ621P	GoodRin	Meningioma	87.78	12c11310-575b-42de-98b0-20c55d09dc0c.rsem.genes.results.gz	0.49	0.21	10.50	0.12	0.26
+7316-2680	573163	7.9	BS_P277RYX5	GoodRin	Ganglioglioma	83.80	564a5c1c-c7b0-4090-ab0d-a95ac7533385.rsem.genes.results.gz	0.42	0.20	13.61	0.15	0.14
+7316-2686	717179	2.4	BS_DBEX7AG2	BadRin	Ewing sarcoma	75.26	07541a62-7d9d-4959-a404-96cdddb0cb24.rsem.genes.results.gz	0.64	0.06	21.00	0.14	0.31
+7316-2688	731924	8	BS_WV0S8N4M	GoodRin	Atypical Teratoid Rhabdoid Tumor	84.96	78d8fb4e-5f82-4076-81fb-449d7cb50934.rsem.genes.results.gz	0.36	0.17	12.92	0.12	0.22
+7316-2689	728291	7.1	BS_49852ZBH	GoodRin	Low-grade glioma/astrocytoma	80.23	145805ef-672e-4f55-bbfc-85093a1d5b2a.rsem.genes.results.gz	0.30	0.32	16.53	0.08	0.32
+7316-2699	728275	6.9	BS_M15PW2N0	GoodRin	Medulloblastoma	88.06	6f11faa3-3ca7-479d-978d-93c652be15fd.rsem.genes.results.gz	0.31	0.32	10.48	0.12	0.13
+7316-2703	739972	5.3	BS_52MPKTJH	LowRin	High-grade glioma/astrocytoma	89.40	e15a60af-d1f9-465a-b5cd-711fc748b113.rsem.genes.results.gz	0.43	0.22	9.10	0.11	0.19
+7316-2707	588356	8.4	BS_WMEHNDSK	GoodRin	Pineoblastoma	85.05	a7f29c14-4949-4f17-b3d0-a3ece079e429.rsem.genes.results.gz	0.44	0.25	13.04	0.07	0.20
+7316-2708	711753	9	BS_NKEAAFMW	GoodRin	Medulloblastoma	90.16	89136e63-bcdf-493e-9f73-a2077be93677.rsem.genes.results.gz	0.50	0.24	8.37	0.07	0.25
+7316-2719	717132	6.4	BS_2W3NC4K1	GoodRin	Neurofibroma/Plexiform	80.07	cd4d32e5-93d1-46f3-9684-f2a0cb17e84b.rsem.genes.results.gz	0.48	0.07	18.03	0.05	0.22
+7316-272	588287	8.4	BS_QWNBZ9RJ	GoodRin	Embryonal tumor with multilayer rosettes	83.94	0eeec89d-fe06-4f11-a673-f923068bb9e3.rsem.genes.results.gz	0.33	0.39	14.27	0.04	0.16
+7316-2720	717133	5	BS_AA164D3A	LowRin	NA	83.28	1bdc96cf-7bb5-428e-bce8-4861ba11fb04.rsem.genes.results.gz	0.53	0.09	14.12	0.05	0.26
+7316-2723	601605	7.5	BS_Y7F9E2E9	GoodRin	Low-grade glioma/astrocytoma	83.88	f8bd4458-28e9-4109-a125-65830a0bbc95.rsem.genes.results.gz	0.34	0.32	13.92	0.05	0.32
+7316-2724	717144	3.5	BS_92MT680S	LowRin	Fibromyxoid lesion	76.35	93c1cb1d-9e29-4abc-bd8e-ae5e0407ed4d.rsem.genes.results.gz	0.40	0.05	21.90	0.03	0.22
+7316-2725	601594	8.9	BS_SQX5E15Z	GoodRin	Low-grade glioma/astrocytoma	85.95	4ee7b54c-9da3-4769-8de1-676c64619a42.rsem.genes.results.gz	0.85	0.23	11.62	0.04	0.49
+7316-2729	728276	6.5	BS_JWSR581E	GoodRin	Low-grade glioma/astrocytoma	81.94	8c37dea3-c240-4069-942c-442ba7cd4ae9.rsem.genes.results.gz	0.33	0.22	15.75	0.06	0.30
+7316-2732	654204	7.6	BS_K2FHZGTK	GoodRin	Meningioma	87.08	f9c7dce4-a35d-4033-ba92-b301811243f0.rsem.genes.results.gz	0.30	0.20	11.16	0.12	0.19
+7316-2737	711767	6	BS_P0QF87WC	GoodRin	High-grade glioma/astrocytoma	83.80	5acb14e9-5fd7-4555-8514-ce4aff9e9380.rsem.genes.results.gz	0.55	0.18	13.97	0.06	0.39
+7316-2743	654205	8.7	BS_F5BZSF3Q	GoodRin	NA	87.51	c588105f-7231-44ff-8ed1-9356304f96de.rsem.genes.results.gz	0.28	0.24	10.93	0.10	0.13
+7316-2744	654202	8.7	BS_NRPG5K4K	GoodRin	Low-grade glioma/astrocytoma	86.46	fe71d5a6-388c-4ebe-8830-db400147505c.rsem.genes.results.gz	0.28	0.28	11.55	0.03	0.17
+7316-275	731866	7.6	BS_401R3KV0	GoodRin	Low-grade glioma/astrocytoma	83.73	ed9600c0-96ec-40a5-879f-cb211203f256.rsem.genes.results.gz	0.46	0.33	13.42	0.05	0.24
+7316-2751	711698	6	BS_TK84K675	GoodRin	High-grade glioma/astrocytoma	78.36	42169a4a-e3e8-4f48-8f0f-22ba99110427.rsem.genes.results.gz	0.50	0.19	18.95	0.05	0.41
+7316-2753	728292	5.1	BS_YMAJC22S	LowRin	Low-grade glioma/astrocytoma	87.86	e84583fd-5dce-488a-be22-9505585e898e.rsem.genes.results.gz	0.29	0.35	10.33	0.09	0.12
+7316-2755	654207	7.6	BS_PEP9NZXN	GoodRin	Low-grade glioma/astrocytoma	90.45	f24bfa9b-4b1d-448e-98a7-8d4dd94f729f.rsem.genes.results.gz	0.29	0.29	8.38	0.06	0.11
+7316-2756	731915	8.1	BS_MWWZBQ60	GoodRin	Diffuse midline glioma	85.57	8ee06982-a696-4c4e-9402-1b0846a51e79.rsem.genes.results.gz	0.35	0.23	12.11	0.05	0.18
+7316-2757	654206	7.5	BS_7BTZQKYY	GoodRin	Ependymoma	86.43	1184e07a-6f15-4504-bfd0-6d3aad480365.rsem.genes.results.gz	0.67	0.30	11.02	0.08	0.35
+7316-2758	717153	5.8	BS_7B89YR6K	GoodRin	Ependymoma	85.37	fa1889ac-2dc6-4301-9a11-aa0473b9fdc8.rsem.genes.results.gz	0.55	0.18	11.05	0.05	0.28
+7316-2760	717164	5.5	BS_92VDQ0NE	LowRin	Ganglioglioma	86.70	a04f3365-a4fc-4799-a18e-e61067a0af28.rsem.genes.results.gz	0.52	0.22	11.09	0.06	0.24
+7316-2777	739968	3.1	BS_SD8YBRBR	BadRin	High-grade glioma/astrocytoma	82.93	f6a86348-9e12-420b-9600-caef58708fab.rsem.genes.results.gz	0.45	0.15	14.90	0.14	0.27
+7316-2780	608928	8.6	BS_7C40TRCY	GoodRin	Medulloblastoma	84.26	06b00e06-b954-4277-85b8-3cf452da9fa3.rsem.genes.results.gz	0.47	0.20	13.88	0.08	0.28
+7316-2782	711735	8.7	BS_3DCBDJAT	GoodRin	Meningioma	85.15	24c7f8de-9007-46d9-aa24-d2fa407db935.rsem.genes.results.gz	0.79	0.17	12.02	0.05	0.52
+7316-279	711726	8.6	BS_J60G8DMK	GoodRin	Meningioma	86.39	2d28bdb3-e225-4028-ab9f-0c0b01e4ddf6.rsem.genes.results.gz	0.28	0.20	12.20	0.06	0.18
+7316-280	549615	9.3	BS_TGW6HC4X	GoodRin	Neurocytoma	86.63	ca3a11d0-41ff-4607-94b7-2c6088707cf2.rsem.genes.results.gz	0.39	0.25	12.12	0.07	0.11
+7316-2809	717170	4.7	BS_ERJAJ0KA	LowRin	Ganglioglioma	85.97	3c21a87f-58c9-48a3-adb0-9a06578ee7d7.rsem.genes.results.gz	0.52	0.16	12.06	0.04	0.26
+7316-2810	739977	4.8	BS_NNPEC7W1	LowRin	High-grade glioma/astrocytoma	83.89	7ba9b64d-3720-40ea-b692-e41d19f1785f.rsem.genes.results.gz	0.51	0.14	13.69	0.12	0.28
+7316-2811	711666	7.7	BS_4PH1MBGR	GoodRin	Medulloblastoma	89.00	ebbc76ca-7d22-4f83-8a8b-5680658064ae.rsem.genes.results.gz	0.35	0.52	9.24	0.11	0.16
+7316-2856	717157	4.4	BS_2XD3MNKD	LowRin	Dysplasia/Gliosis;Glial-neuronal tumor NOS	87.13	5abb0a26-4544-4a2b-8184-563d61431d10.rsem.genes.results.gz	0.52	0.21	11.08	0.06	0.23
+7316-2857	654195	8	BS_DS438CXE	GoodRin	High-grade glioma/astrocytoma	89.43	5bf9b43b-2165-4eb2-a7dd-b3443e4d0c59.rsem.genes.results.gz	0.30	0.26	8.46	0.08	0.13
+7316-2858	654196	6.3	BS_JHGW42S6	GoodRin	Ependymoma	87.38	7d55b742-f14d-4c16-8c76-68b963cfbf2c.rsem.genes.results.gz	0.32	0.17	11.52	0.06	0.14
+7316-286	746103	5.8	BS_0RF0EZTV	GoodRin	Neurofibroma/Plexiform	81.02	72e86b9f-b6ba-4f20-b3e4-75cdeebfc390.rsem.genes.results.gz	0.46	0.10	16.59	0.09	0.14
+7316-2860	711754	8.1	BS_B741RZY9	GoodRin	Choroid plexus papilloma	82.76	044f8039-c74f-45d3-8c0c-1a53c0da7ee5.rsem.genes.results.gz	0.43	0.20	14.93	0.06	0.28
+7316-2862	746097	7.2	BS_KZPR01BD	GoodRin	Dysembryoplastic neuroepithelial tumor	84.23	3a358a3b-5655-4553-b869-9258f648ae60.rsem.genes.results.gz	0.61	0.22	14.15	0.05	0.19
+7316-2864	739952	5.6	BS_F6V1Y4QS	GoodRin	Glial-neuronal tumor NOS	88.74	853d1230-3333-4cf9-b474-c50fb7abbf12.rsem.genes.results.gz	0.43	0.22	9.90	0.08	0.16
+7316-2865	608924	7.8	BS_R6WNEEE4	GoodRin	Medulloblastoma	87.76	9995c821-712a-479b-8229-54d564d0da8e.rsem.genes.results.gz	0.78	0.25	9.85	0.09	0.38
+7316-2893	711702	6.2	BS_S1M423AB	GoodRin	Medulloblastoma	89.13	0429e852-213c-444f-9cb2-11f6b3e48d9b.rsem.genes.results.gz	0.37	0.34	9.21	0.09	0.21
+7316-2897	717105	3.2	BS_YG0A13JH	BadRin	Low-grade glioma/astrocytoma	66.39	18dadf31-6658-4ef5-809f-ef940c862201.rsem.genes.results.gz	0.77	0.04	27.83	0.10	0.48
+7316-2899	711700	8	BS_GR46VD0Q	GoodRin	Low-grade glioma/astrocytoma	83.90	93367722-4e63-4335-a2c2-ee26ec8c624f.rsem.genes.results.gz	0.43	0.21	14.00	0.09	0.28
+7316-29	564461	8.2	BS_J4GQPZS0	GoodRin	Schwannoma	89.42	7a841ff6-8f55-48c7-bc82-2ab0ba1d4980.rsem.genes.results.gz	0.49	0.24	9.42	0.05	0.11
+7316-290	711705	9.2	BS_3TQSE8HF	GoodRin	Subependymal Giant Cell Astrocytoma	81.25	a173c3ab-4b1d-4698-8700-13378e1fe116.rsem.genes.results.gz	0.30	0.21	16.58	0.03	0.31
+7316-2901	711701	8.6	BS_ZZWMD6FA	GoodRin	Ganglioglioma	85.26	cd30d2c4-a7c6-4ec6-80d8-0dca495e5cf1.rsem.genes.results.gz	0.32	0.29	12.92	0.04	0.26
+7316-291	739981	8.3	BS_BXXJ9P8C	GoodRin	Schwannoma	85.35	76184885-cc59-48bb-a2a6-4c2263a52c81.rsem.genes.results.gz	0.30	0.17	13.08	0.07	0.11
+7316-2933	654194	8.1	BS_74FS6GMW	GoodRin	Atypical Teratoid Rhabdoid Tumor	88.19	bd6c8c3b-e80f-4685-8194-15fea442a240.rsem.genes.results.gz	0.29	0.22	10.65	0.12	0.12
+7316-2934	711703	7.9	BS_2Z1MKS84	GoodRin	Medulloblastoma	84.84	af26d32d-57cd-4e46-860f-dab481480b5e.rsem.genes.results.gz	0.32	0.30	13.22	0.10	0.27
+7316-2935	654210	6.4	BS_YB07VF1X	GoodRin	Chordoma	78.24	5d827b44-7416-4614-bbf9-c323440285d7.rsem.genes.results.gz	0.32	0.15	19.62	0.11	0.22
+7316-2939	711667	8.3	BS_Z72QAZC7	GoodRin	NA	80.75	8774c845-9fea-4de7-affa-656fd4d7c2d5.rsem.genes.results.gz	0.30	0.24	16.89	0.07	0.24
+7316-294	746104	6.3	BS_11WY983P	GoodRin	Sarcoma	89.07	d6bc1d0d-706f-4822-967c-5b2287a9e965.rsem.genes.results.gz	0.50	0.18	9.93	0.11	0.12
+7316-2959	711699	7.2	BS_T1DVKKJB	GoodRin	Ependymoma	86.76	f7112b53-f968-4342-b0a8-bfd32af036f4.rsem.genes.results.gz	0.41	0.23	11.81	0.04	0.19
+7316-2962	654187	8.2	BS_VW85Q4XJ	GoodRin	Low-grade glioma/astrocytoma	83.55	ef296a5e-4970-4b74-abad-408539088b04.rsem.genes.results.gz	0.30	0.26	14.39	0.05	0.26
+7316-2966	739996	5.4	BS_EMYET8F4	LowRin	Ependymoma	90.81	a6cd7524-24be-450d-b0fd-07d8591feb0e.rsem.genes.results.gz	0.31	0.18	7.99	0.05	0.12
+7316-297	564469	8.5	BS_T1W4JA94	GoodRin	Low-grade glioma/astrocytoma	83.16	d3d967ef-94c1-47ae-82aa-45b11eeb8fd9.rsem.genes.results.gz	0.92	0.16	14.47	0.05	0.42
+7316-2970	740003	7.6	BS_MN5XVP5A	GoodRin	High-grade glioma/astrocytoma	89.05	107b595c-421f-491f-ba6f-1275b29f8570.rsem.genes.results.gz	0.29	0.20	9.28	0.12	0.12
+7316-2971	711720	6.6	BS_G00FHF3Q	GoodRin	Medulloblastoma	88.78	bec91fb8-fb0b-45f6-8ed3-f23f4ef24629.rsem.genes.results.gz	0.29	0.23	9.99	0.12	0.12
+7316-2972	654186	7.2	BS_Q5WZYWCT	GoodRin	Ependymoma	83.99	a5cc6390-f1aa-447c-a2a1-7bcb577df142.rsem.genes.results.gz	0.30	0.22	14.35	0.06	0.16
+7316-2980	731864	0	BS_29X4ZX6Q	BadRin	High-grade glioma/astrocytoma	83.30	f77d9fa0-f4da-47c4-bc45-98c3293743a1.rsem.genes.results.gz	0.48	0.26	14.49	0.10	0.30
+7316-2984	728277	3.8	BS_N5B2CZMH	LowRin	Low-grade glioma/astrocytoma	74.94	37bfa8dc-82bf-4c72-b2c4-a24c4109358b.rsem.genes.results.gz	0.40	0.09	18.49	0.06	0.28
+7316-2986	711762	6.1	BS_1TWCV047	GoodRin	Medulloblastoma	89.33	3f113285-c902-4fb0-9aae-63d9de02074e.rsem.genes.results.gz	0.51	0.24	9.06	0.10	0.24
+7316-2987	731906	2.5	BS_D0RDN4K5	BadRin	CNS Embryonal tumor	72.88	86bfbab0-4922-46ad-8e42-49ba307ce31f.rsem.genes.results.gz	0.48	0.08	20.92	0.14	0.28
+7316-2988	731876	6.4	BS_2R9TCR03	GoodRin	Low-grade glioma/astrocytoma	81.51	fbf7705e-9898-470c-9c27-c28db1fe2e6c.rsem.genes.results.gz	0.41	0.15	15.98	0.08	0.23
+7316-2989	731916	8	BS_M8WP5T16	GoodRin	Low-grade glioma/astrocytoma	83.66	1abf952f-698f-4b68-bd41-a4c8e13f2ab6.rsem.genes.results.gz	0.37	0.18	13.86	0.07	0.22
+7316-2990	731925	7.4	BS_E0N3PTPN	GoodRin	Low-grade glioma/astrocytoma	85.22	41d1a96e-047d-4315-b91f-8c8e80e6b682.rsem.genes.results.gz	0.38	0.18	12.52	0.07	0.28
+7316-30	564453	8	BS_TYKJ8G2G	GoodRin	Schwannoma	85.31	2ed84fa0-a457-48f8-b0de-930ce5e8b19e.rsem.genes.results.gz	0.33	0.23	13.23	0.05	0.13
+7316-3000	746068	4.8	BS_JRYJGYC4	LowRin	High-grade glioma/astrocytoma	77.13	e9522a71-6e96-4dfd-a168-249130360698.rsem.genes.results.gz	0.52	0.14	20.72	0.13	0.30
+7316-3010	711679	8.6	BS_1QXEC43H	GoodRin	Medulloblastoma	82.33	cd6c106c-1922-4e10-9dae-fbf4000ac244.rsem.genes.results.gz	0.34	0.35	15.69	0.06	0.17
+7316-3019	731877	8.6	BS_3BVVWHP5	GoodRin	Subependymal Giant Cell Astrocytoma	82.14	900e6a00-371f-479d-ba1c-d4d9f92a52b7.rsem.genes.results.gz	0.42	0.26	15.06	0.04	0.24
+7316-3020	654198	8.3	BS_XHCYEE2S	GoodRin	Craniopharyngioma	88.24	70382ae9-f586-464a-8b1c-7e85d0a14a67.rsem.genes.results.gz	0.29	0.25	10.45	0.11	0.13
+7316-3022	734535	8.3	BS_QWTE1CWR	GoodRin	High-grade glioma/astrocytoma	82.96	372c7de1-23e6-491a-90c1-1ca4e4687692.rsem.genes.results.gz	0.37	0.22	14.49	0.06	0.18
+7316-3023	654199	8.5	BS_W644VEVE	GoodRin	Medulloblastoma	89.50	37196d8e-5acb-4481-8e73-21c6a612e3ab.rsem.genes.results.gz	0.29	0.35	9.32	0.10	0.11
+7316-3025	711716	8	BS_K3ER45RV	GoodRin	Medulloblastoma	80.72	733d9f45-6432-4d1d-b216-4c91c0fe95a6.rsem.genes.results.gz	0.30	0.26	16.88	0.09	0.33
+7316-3028	717101	4.3	BS_Z28VKGNS	LowRin	Neurofibroma/Plexiform	70.48	47fa3108-0121-44f8-99de-ed3bdd48b403.rsem.genes.results.gz	0.73	0.07	23.87	0.06	0.64
+7316-3029	654183	8.5	BS_VJAC9H58	GoodRin	Schwannoma	87.98	4fc6038c-1670-4b4e-bd73-3b1d1353940d.rsem.genes.results.gz	0.30	0.21	10.74	0.09	0.12
+7316-3030	731895	6.1	BS_399RPKC9	GoodRin	High-grade glioma/astrocytoma	84.12	d8ff7dfb-735a-409f-b5cc-89de56ffacf4.rsem.genes.results.gz	0.38	0.13	13.91	0.07	0.23
+7316-304	549598	9.1	BS_KVNGNETA	GoodRin	Medulloblastoma	87.28	a9cf6c78-2ec7-4dba-bf1f-e0bc4c315da0.rsem.genes.results.gz	0.32	0.34	11.26	0.11	0.07
+7316-3040	654200	7.9	BS_W4HGV6E7	GoodRin	Low-grade glioma/astrocytoma	88.99	5a61202c-50a3-4a62-9019-2149520f4301.rsem.genes.results.gz	0.28	0.30	9.59	0.10	0.12
+7316-3045	717158	2.5	BS_983Z6CA6	BadRin	Atypical Teratoid Rhabdoid Tumor	67.34	5d9f1b03-f375-4363-bfaf-304fadb3ee6f.rsem.genes.results.gz	0.70	0.06	27.36	0.11	0.54
+7316-3048	739978	5.4	BS_YNEQJ6AH	LowRin	Dysembryoplastic neuroepithelial tumor	89.10	ee2219f9-1c27-4d64-9636-5b28137b4c2f.rsem.genes.results.gz	0.39	0.18	7.97	0.10	0.18
+7316-305	711664	7.8	BS_JR5ATB7G	GoodRin	Medulloblastoma	84.79	0695ed7c-e385-41e4-a563-7b91fe9c3db8.rsem.genes.results.gz	0.35	0.80	12.21	0.26	0.22
+7316-3052	711652	6.8	BS_QB7YGKN1	GoodRin	Glial-neuronal tumor NOS	82.85	fd06e377-8f31-4a92-b11f-55cec2d1b982.rsem.genes.results.gz	0.38	0.34	14.73	0.06	0.28
+7316-3054	739925	5.8	BS_ZTWGFWTX	GoodRin	Low-grade glioma/astrocytoma	79.45	2585674b-4681-4f0d-a5d1-38e6ff4367c0.rsem.genes.results.gz	0.41	0.08	18.62	0.07	0.23
+7316-3055	711655	7.9	BS_YVMEEBKC	GoodRin	Low-grade glioma/astrocytoma	78.21	669afb6c-2a97-4833-951d-23f31c28cb5e.rsem.genes.results.gz	0.37	0.29	18.65	0.05	0.41
+7316-3057	711656	8.3	BS_WYG77VVP	GoodRin	Teratoma	83.54	601b0e42-a65e-4d25-957c-4f92d31d32a8.rsem.genes.results.gz	0.38	0.26	14.57	0.04	0.22
+7316-3058	739933	8.8	BS_2A162JH9	GoodRin	Diffuse midline glioma	81.75	6f0a0f26-88f0-46e4-99ac-c7147669a1cc.rsem.genes.results.gz	0.48	0.18	16.11	0.06	0.19
+7316-3058	739934	9.8	BS_BWBDH9GM	GoodRin	Diffuse midline glioma	82.10	12bfe6d9-190b-48e2-9177-23192499ddbe.rsem.genes.results.gz	0.49	0.23	15.74	0.09	0.20
+7316-3058	746065	6.2	BS_D29RPBSZ	GoodRin	Diffuse midline glioma	81.16	98380d20-f9b6-4a35-8961-4775b9ef2742.rsem.genes.results.gz	0.64	0.15	16.93	0.10	0.26
+7316-306	734529	5.7	BS_JT82QGXF	GoodRin	Medulloblastoma	80.85	1319c84f-c437-45bb-a201-908c35b4b653.rsem.genes.results.gz	0.38	0.25	17.02	0.19	0.18
+7316-3060	734511	2.1	BS_GTZCFGRZ	BadRin	Ganglioglioma	86.08	8c6f1bde-b0f6-4f28-b78b-241514ba3319.rsem.genes.results.gz	0.41	0.16	11.90	0.09	0.19
+7316-3061	739956	7.4	BS_9DZ253JY	GoodRin	Low-grade glioma/astrocytoma	70.14	6271191f-b149-4a14-b056-953433c7e496.rsem.genes.results.gz	0.31	0.11	22.02	0.08	0.29
+7316-3062	711697	7.8	BS_XGSA3GQE	GoodRin	Low-grade glioma/astrocytoma	77.56	0b59b9c3-4341-4b18-bb17-fe7821fcbf18.rsem.genes.results.gz	0.43	0.20	19.29	0.04	0.45
+7316-3064	654220	8.3	BS_Z1A875MW	GoodRin	Glial-neuronal tumor NOS	86.67	29d6781c-4fa3-4ce0-81ad-e27c25722ebe.rsem.genes.results.gz	0.32	0.33	11.43	0.04	0.15
+7316-3065	654221	8.9	BS_BKQZ550R	GoodRin	Low-grade glioma/astrocytoma	81.83	29067846-2ac1-483d-a357-3f1a55125aa3.rsem.genes.results.gz	0.33	0.21	16.08	0.04	0.30
+7316-3066	654222	9.7	BS_RQSKD7PN	GoodRin	Malignant peripheral nerve sheath tumor	85.18	e6b13490-7a2d-4a36-9f3b-4e722fa1afdb.rsem.genes.results.gz	0.31	0.20	13.55	0.05	0.13
+7316-3067	654176	8.1	BS_680K119G	GoodRin	Ganglioglioma	74.65	e19557dc-bfc5-41da-9233-74593c0a1c17.rsem.genes.results.gz	0.70	0.21	20.48	0.04	0.71
+7316-3068	734528	4.3	BS_YZ2Z1Q6Y	LowRin	Low-grade glioma/astrocytoma	83.30	61882a92-bd0d-4a05-b8ba-d067000f9d94.rsem.genes.results.gz	0.36	0.25	14.90	0.13	0.17
+7316-3069	654177	8.1	BS_67Z63A2K	GoodRin	Ependymoma	86.37	55cd0772-dc96-4e33-9388-f96388771122.rsem.genes.results.gz	0.68	0.24	11.49	0.05	0.40
+7316-307	549607	7.9	BS_NKRYMHEP	GoodRin	Medulloblastoma	89.52	455fca3c-baf4-42bf-ade6-fe81c94eb1ef.rsem.genes.results.gz	0.46	0.34	9.40	0.12	0.11
+7316-3070	734513	7.6	BS_YH05F9DB	GoodRin	Craniopharyngioma	82.32	ec2333f5-b855-45ab-8472-6771768f7837.rsem.genes.results.gz	0.34	0.12	15.39	0.10	0.26
+7316-3071	711723	8.1	BS_RFMQ7T0T	GoodRin	Craniopharyngioma	86.18	0f334ccd-f344-4cf5-be19-49062fb09028.rsem.genes.results.gz	0.29	0.20	12.26	0.08	0.20
+7316-3072	711725	8.5	BS_CYEY58NY	GoodRin	Pineoblastoma	84.90	ae374c7f-5c7b-40dc-a721-dfeb05ff2da1.rsem.genes.results.gz	0.29	0.24	13.34	0.05	0.24
+7316-3073	711736	6.3	BS_DVCQ8XDZ	GoodRin	NA	88.13	15d5c2b4-46d7-43cd-829f-7a34ccdd1d83.rsem.genes.results.gz	0.32	0.38	10.49	0.04	0.13
+7316-3074	711758	7.4	BS_YB2RXRHT	GoodRin	Low-grade glioma/astrocytoma	84.92	cca59162-507a-4321-a15c-a17dbd57d491.rsem.genes.results.gz	0.47	0.20	13.27	0.04	0.28
+7316-3075	717186	7.6	BS_52C576HH	GoodRin	High-grade glioma/astrocytoma	89.26	0f142e31-f1f9-40d2-bd2f-1417489438dd.rsem.genes.results.gz	0.68	0.24	9.21	0.06	0.32
+7316-3076	731865	7.4	BS_2ADZNNV4	GoodRin	Low-grade glioma/astrocytoma	83.31	eefb6ae7-1ba3-4ab9-aa63-99dacafd76df.rsem.genes.results.gz	0.44	0.35	14.15	0.04	0.26
+7316-309	549595	8.4	BS_VMEX27TN	GoodRin	Medulloblastoma	88.84	6172dc4f-ec50-4b33-a9be-19fd9e8f92b4.rsem.genes.results.gz	0.40	0.26	9.70	0.19	0.07
+7316-310	549588	8.2	BS_VA5T4KAA	GoodRin	Medulloblastoma	88.45	93328e3c-025d-47c0-8051-07f50fe12100.rsem.genes.results.gz	0.38	0.27	10.53	0.06	0.06
+7316-312	711657	8.2	BS_M86ECPHK	GoodRin	Medulloblastoma	89.31	0a06f310-81e3-4a9d-aba5-72b739085c5b.rsem.genes.results.gz	0.35	0.41	9.26	0.07	0.14
+7316-3122	739929	6.3	BS_XG0DBWVT	GoodRin	Diffuse midline glioma	87.70	bc79b117-49c6-43a7-bbfc-f4436744762e.rsem.genes.results.gz	0.49	0.22	10.58	0.12	0.18
+7316-313	549600	7.8	BS_HHPA8NJ2	GoodRin	Medulloblastoma	87.80	47c3f364-6495-4842-9ecc-f472f6e1228c.rsem.genes.results.gz	0.58	0.31	10.75	0.17	0.11
+7316-3132	654188	6	BS_CZ82ANWP	GoodRin	Dysembryoplastic neuroepithelial tumor	83.63	18dd5902-1741-45be-ab14-9b8072070a62.rsem.genes.results.gz	0.33	0.21	14.51	0.04	0.22
+7316-3138	711761	8	BS_RCC8BXVE	GoodRin	Medulloblastoma	85.91	dddbd338-1767-4c1d-ba35-34b6ce6fa866.rsem.genes.results.gz	0.50	0.29	12.09	0.09	0.29
+7316-3139	739980	5.7	BS_4EN8D8Y4	GoodRin	Low-grade glioma/astrocytoma	88.29	9fbd4b22-d4c0-4b3d-a8cf-a2cf5c347d1f.rsem.genes.results.gz	0.39	0.16	10.30	0.08	0.17
+7316-314	549608	8.7	BS_GNV89A5P	GoodRin	Medulloblastoma	90.42	efd72641-c02c-4543-9ce9-f13d398189e1.rsem.genes.results.gz	0.42	0.29	8.53	0.16	0.09
+7316-3140	711719	6.3	BS_4BWB0FA0	GoodRin	Low-grade glioma/astrocytoma	84.58	4d02a32e-1c80-405c-b68c-23e90cca8c1b.rsem.genes.results.gz	0.32	0.17	13.69	0.05	0.26
+7316-3147	724091	6.8	BS_NFRXNAFE	GoodRin	Ganglioneuroblastoma	89.27	33a46250-b5c3-441a-a77d-328bc87526d4.rsem.genes.results.gz	0.69	0.28	9.12	0.07	0.31
+7316-3148	724075	8.1	BS_B61168DE	GoodRin	Melanocytic tumor	65.79	c20c5b77-72c4-442e-9125-4cd66ca7a0f6.rsem.genes.results.gz	0.73	0.15	24.82	0.19	0.75
+7316-3149	724076	7.1	BS_W18SF91A	GoodRin	NA	87.81	4bcda77c-1f36-4717-b694-dcf1c24a50aa.rsem.genes.results.gz	0.68	0.27	10.12	0.05	0.33
+7316-315	549610	8.1	BS_7FWZ518S	GoodRin	Medulloblastoma	89.28	15a66ebd-eb5d-4623-b237-8b8db1385933.rsem.genes.results.gz	0.47	0.34	9.38	0.12	0.12
+7316-3150	724078	8	BS_7H4RFCW9	GoodRin	Low-grade glioma/astrocytoma	79.88	bba5cd7c-ff61-4b73-a981-ba7671a3591a.rsem.genes.results.gz	0.73	0.20	16.78	0.07	0.52
+7316-3151	724079	6	BS_60K3EQ9S	GoodRin	NA	87.28	a24c9630-739d-4b84-9846-8cb3bae2f87f.rsem.genes.results.gz	0.59	0.26	10.72	0.06	0.27
+7316-3152	724080	7.8	BS_AG4H9S3J	GoodRin	NA	83.67	b476c3b0-b342-4d2d-8da4-e6a510545a6d.rsem.genes.results.gz	0.66	0.17	13.90	0.06	0.38
+7316-3153	724074	6	BS_1T19NFJ8	GoodRin	Epilepsy	89.65	4180d712-73fb-4a17-b7e1-d16fbd355fa7.rsem.genes.results.gz	0.72	0.34	8.44	0.08	0.33
+7316-3154	724077	7.7	BS_F8N6CFQE	GoodRin	Low-grade glioma/astrocytoma	80.65	ca88c50b-99cd-48f2-9687-ef5dad25fada.rsem.genes.results.gz	0.68	0.20	17.14	0.07	0.35
+7316-3169	728256	7.8	BS_4HQ3T2NC	GoodRin	Low-grade glioma/astrocytoma	81.09	9c0e42d9-6c0e-4e74-98ee-090d0a84ddac.rsem.genes.results.gz	0.34	0.23	16.15	0.06	0.31
+7316-319	711734	6	BS_4GTESTSE	GoodRin	Ganglioglioma	90.82	42900def-851e-4fbe-99aa-a60994d1505f.rsem.genes.results.gz	0.78	0.29	7.40	0.06	0.36
+7316-3192	608929	7.8	BS_TYAYZ9ZW	GoodRin	Medulloblastoma	86.68	caab497c-25bd-4ccf-afda-bfe48e8107fd.rsem.genes.results.gz	0.47	0.23	11.54	0.07	0.30
+7316-32	734517	5.4	BS_5NWDARXG	LowRin	Low-grade glioma/astrocytoma	84.11	b120b384-ee61-455f-9bce-8cd056f923db.rsem.genes.results.gz	0.36	0.16	13.98	0.06	0.19
+7316-3202	711746	8.1	BS_K81DR8XG	GoodRin	Medulloblastoma	82.01	dc50aa31-696a-4275-9f8f-ad5767d06d53.rsem.genes.results.gz	0.31	0.14	15.98	0.08	0.30
+7316-3203	711747	7.5	BS_H3FE3TH9	GoodRin	Low-grade glioma/astrocytoma	87.18	907c400a-3c6f-4d06-bdbe-bc1fd567b4e5.rsem.genes.results.gz	0.48	0.25	10.63	0.04	0.28
+7316-3204	728278	7.6	BS_Z85M2R3N	GoodRin	Choroid plexus papilloma	81.21	1d6ca00e-30d3-49a8-ac6f-301599e4ee03.rsem.genes.results.gz	0.31	0.26	16.47	0.07	0.29
+7316-3206	728248	3.5	BS_WH8G4VFB	LowRin	Diffuse midline glioma	87.51	8d7d54a8-ede0-4f9a-bd1e-4bd1e27eac97.rsem.genes.results.gz	1.07	0.20	9.23	0.07	0.66
+7316-3208	728247	5.4	BS_97M1E2DW	LowRin	Diffuse midline glioma	82.97	5a64517d-c1ce-4f85-adb3-03c15bbbe1d0.rsem.genes.results.gz	1.04	0.16	13.29	0.07	0.73
+7316-321	711728	6.5	BS_TG93XC55	GoodRin	Ganglioglioma	87.30	396a2c75-45ed-45e7-8e73-56f6e318ace7.rsem.genes.results.gz	0.32	0.33	11.16	0.04	0.16
+7316-322	564470	8.3	BS_HC44ZA0V	GoodRin	Ependymoma	88.75	547f75d8-3137-405d-8d17-42186555ceaf.rsem.genes.results.gz	0.93	0.22	9.72	0.07	0.32
+7316-324	588292	8.3	BS_KVV7001W	GoodRin	Ganglioglioma	85.64	14048e45-37b1-402e-a3fc-bdf08dad0683.rsem.genes.results.gz	0.33	0.34	12.82	0.05	0.15
+7316-325	577729	8.5	BS_PKW05VZV	GoodRin	High-grade glioma/astrocytoma	86.42	b984376e-c2a1-4e95-9039-a4d48b70eec9.rsem.genes.results.gz	0.61	0.21	12.05	0.05	0.19
+7316-329	588308	8.3	BS_1JDG6JV5	GoodRin	Low-grade glioma/astrocytoma	89.32	98d7ea64-95ec-4447-bbcb-44dde8daf0b3.rsem.genes.results.gz	0.46	0.24	9.32	0.04	0.20
+7316-3292	734527	6.9	BS_QP6MSKRE	GoodRin	Ependymoma	84.10	79536618-eacd-49ba-b866-9ab118a7c93c.rsem.genes.results.gz	0.27	0.27	14.44	0.05	0.12
+7316-3295	654175	6.4	BS_EJ9JKM1C	GoodRin	Chordoma	80.22	f8a4875f-f7b8-4074-b544-9d964efaf47e.rsem.genes.results.gz	0.68	0.20	17.11	0.07	0.40
+7316-3299	654178	7.8	BS_CXVJK2FY	GoodRin	Ependymoma	83.00	6d8d33cc-4dc6-4e4c-a3e4-9e1a5433b5ea.rsem.genes.results.gz	0.77	0.27	13.75	0.08	0.55
+7316-330	728279	7.4	BS_GV3NZ9QD	GoodRin	Ependymoma	81.78	1f454f4f-9f84-47cd-a22d-bee7bb054ab3.rsem.genes.results.gz	0.34	0.24	15.92	0.05	0.29
+7316-3300	711715	6.9	BS_1J2WQ08M	GoodRin	Ependymoma	84.21	17814dd5-69b7-4bdc-bf66-680366caab57.rsem.genes.results.gz	0.28	0.17	14.08	0.06	0.17
+7316-3303	734524	4.5	BS_WKESC3XN	LowRin	High-grade glioma/astrocytoma	87.53	1f1a79e4-c4e5-4649-92a5-49bc0a823d0c.rsem.genes.results.gz	0.36	0.32	11.10	0.06	0.16
+7316-3306	711670	7.1	BS_0SPCTBZY	GoodRin	Langerhans Cell histiocytosis	79.69	1db1219d-9663-4a01-b16e-5123cb4b17ae.rsem.genes.results.gz	0.78	0.16	17.02	0.06	0.56
+7316-3308	711671	8.1	BS_BPSTSCBJ	GoodRin	Low-grade glioma/astrocytoma	88.61	8aa990f4-d10d-4878-9ff4-9b1f1a1d9e19.rsem.genes.results.gz	0.79	0.19	9.58	0.05	0.39
+7316-331	711724	8.3	BS_QW60M0FE	GoodRin	Meningioma	79.14	08982bcd-9518-4e74-a2d9-7f2b41dd0623.rsem.genes.results.gz	0.34	0.17	18.02	0.07	0.43
+7316-3311	711752	8.4	BS_VNWKNRY4	GoodRin	Metastatic secondary tumors;Neuroblastoma	87.13	71c81be6-9536-4cc9-a8e4-092e79c965c9.rsem.genes.results.gz	0.46	0.26	11.32	0.07	0.20
+7316-3312	711712	8.1	BS_Y3G1X98S	GoodRin	Meningioma	87.82	77566c28-91ca-454b-b0f2-2c6a113584ca.rsem.genes.results.gz	0.35	0.22	10.56	0.08	0.18
+7316-3316	711737	6.7	BS_DRD9QXR5	GoodRin	Craniopharyngioma	82.48	ecf840cb-2dad-4142-b946-8360c8fc189c.rsem.genes.results.gz	0.31	0.21	15.61	0.06	0.27
+7316-3317	711738	7.1	BS_XJTW0P8P	GoodRin	NA	89.40	4168c006-e94e-4d56-982b-08ec48ecc95e.rsem.genes.results.gz	0.32	0.41	9.20	0.04	0.14
+7316-3319	711675	7.9	BS_YE1MAQYJ	GoodRin	Ependymoma	85.61	efec3416-297f-471a-b5cc-b44c0641ea4f.rsem.genes.results.gz	0.34	0.19	12.61	0.06	0.18
+7316-332	571415	7.5	BS_17WYVEEC	GoodRin	Low-grade glioma/astrocytoma	79.74	172fd4db-42e2-4435-9526-d566c5e7d6f7.rsem.genes.results.gz	0.61	0.20	17.02	0.12	0.33
+7316-3323	711672	8.4	BS_QTSXW7DA	GoodRin	Low-grade glioma/astrocytoma	85.38	555abff0-d0f4-4acc-8eef-9e4f04f97e99.rsem.genes.results.gz	0.75	0.16	12.19	0.04	0.46
+7316-3326	711704	8.6	BS_37GTVG4N	GoodRin	Embryonal tumor with multilayer rosettes	87.26	717e5eed-85f7-4d01-be7d-ca67d467dc08.rsem.genes.results.gz	0.29	0.35	10.23	0.06	0.15
+7316-3336	739926	4	BS_MD3DT41J	LowRin	Hemangioblastoma	81.23	d0abf023-aa7e-4d59-b498-3ff25f623c0f.rsem.genes.results.gz	0.52	0.12	15.51	0.18	0.28
+7316-3345	739993	4.7	BS_23W9EPFE	LowRin	Ganglioglioma	79.03	6f18bc5b-b657-462b-a8bd-36b4eec3afa5.rsem.genes.results.gz	0.41	0.10	17.63	0.08	0.21
+7316-340	549613	9.3	BS_DGTPWJ59	GoodRin	Neurocytoma	88.06	2fab227f-4a5c-48cc-ab9a-0652716ff12b.rsem.genes.results.gz	0.37	0.32	10.37	0.06	0.10
+7316-341	571435	8.8	BS_7T1J3KET	GoodRin	Craniopharyngioma	86.70	7a98e85e-db52-4f78-a4a4-f790b50ee2db.rsem.genes.results.gz	0.69	0.19	11.40	0.18	0.22
+7316-344	734525	7.4	BS_JFR750KD	GoodRin	Low-grade glioma/astrocytoma	88.28	1da6cfad-19c7-4066-9053-bbd16033938a.rsem.genes.results.gz	0.31	0.58	10.33	0.05	0.12
+7316-345	571434	8.3	BS_52DAPP1Y	GoodRin	Low-grade glioma/astrocytoma	85.74	0a362058-8a32-4524-85ba-5954b7d95e9a.rsem.genes.results.gz	0.75	0.19	12.10	0.17	0.26
+7316-346	588362	8.1	BS_NB5XWMJT	GoodRin	Low-grade glioma/astrocytoma	83.07	72d01b10-31bd-47fc-a57d-18f40c6628ef.rsem.genes.results.gz	0.43	0.19	15.03	0.03	0.23
+7316-347	549567	8	BS_VVFBW0YH	GoodRin	Medulloblastoma	90.01	b5d19dec-2c91-4433-9f4b-7b6aaa6a38db.rsem.genes.results.gz	0.42	0.28	8.85	0.14	0.08
+7316-3485	724092	8.5	BS_SES41DAX	GoodRin	Choroid plexus papilloma	83.97	13dc3d44-29cc-4905-a83d-659c028ef2ad.rsem.genes.results.gz	0.61	0.18	14.01	0.07	0.31
+7316-3488	724084	8.2	BS_Z45HD492	GoodRin	Medulloblastoma	86.01	d5038063-767c-41b4-93d7-445d2c139cc8.rsem.genes.results.gz	0.68	0.26	11.65	0.10	0.38
+7316-349	731867	4.8	BS_NJ4WPQVK	LowRin	Metastatic secondary tumors	76.24	4f542f62-5fad-487c-ad17-58f3e6ab2369.rsem.genes.results.gz	0.48	0.11	19.64	0.10	0.29
+7316-3491	728257	7.9	BS_470DYRJQ	GoodRin	Low-grade glioma/astrocytoma	77.90	db48dd15-5e11-4703-964d-e612f1cde6b8.rsem.genes.results.gz	0.32	0.41	18.73	0.07	0.33
+7316-350	588290	9.3	BS_T3H5AY8A	GoodRin	Low-grade glioma/astrocytoma	74.93	6e8e264b-a4d1-4e9f-9875-e3ab568a580d.rsem.genes.results.gz	0.37	0.20	20.98	0.04	0.31
+7316-3504	711759	8.4	BS_42DY6WS7	GoodRin	Low-grade glioma/astrocytoma	88.17	439e4554-0232-40de-bd65-4b936c6b16c4.rsem.genes.results.gz	0.47	0.62	9.38	0.05	0.24
+7316-3510	724101	9	BS_9NJHQE9F	GoodRin	Medulloblastoma	85.18	d9d15cf7-6a10-485b-9493-11be74e60641.rsem.genes.results.gz	0.69	0.37	12.15	0.11	0.37
+7316-3511	717188	7	BS_A87NPZAP	GoodRin	Medulloblastoma	89.13	3134685d-598f-4389-a7fd-d1d0ba0b1084.rsem.genes.results.gz	0.69	0.23	8.63	0.18	0.35
+7316-3513	739989	6.8	BS_S6NJRR5W	GoodRin	Craniopharyngioma	82.06	c6a8fd0c-c8fd-4ddb-9363-2833267731c0.rsem.genes.results.gz	0.27	0.10	15.18	0.05	0.17
+7316-3515	717189	7.4	BS_DV86M0Y7	GoodRin	Low-grade glioma/astrocytoma	90.37	ae640454-8c80-4c93-beec-ab4e03886c8a.rsem.genes.results.gz	0.70	0.43	7.71	0.08	0.33
+7316-3516	728280	8	BS_MA2T7ET1	GoodRin	Ependymoma	65.85	e7767188-9b59-4b81-abe3-cfb03c55d857.rsem.genes.results.gz	0.37	0.10	29.50	0.06	0.51
+7316-3519	717190	7.4	BS_VNE0ZPBS	GoodRin	NA	85.24	163a97e3-75dc-4eb7-bdaf-f48e1ed97e2b.rsem.genes.results.gz	0.71	0.26	12.49	0.06	0.42
+7316-3520	739991	7	BS_W7FP2G3F	GoodRin	Dysembryoplastic neuroepithelial tumor	84.74	c5db74cf-a632-419f-8571-f5b3c6920841.rsem.genes.results.gz	0.28	0.15	13.37	0.07	0.13
+7316-3521	739979	7.4	BS_VMQMGSJY	GoodRin	Diffuse midline glioma	85.75	2b6f6c3d-f88b-4eb2-b25a-1a212f453583.rsem.genes.results.gz	0.36	0.09	12.79	0.06	0.15
+7316-3522	724102	8.5	BS_VARR255N	GoodRin	Low-grade glioma/astrocytoma	82.69	54057601-0623-4a17-bfd0-ee59dc25aba1.rsem.genes.results.gz	0.63	0.35	14.45	0.07	0.39
+7316-355	739954	8.5	BS_QZFEB94Q	GoodRin	NA	87.15	298500e0-0cf6-4f17-b77e-96348f44da05.rsem.genes.results.gz	0.38	0.10	11.13	0.04	0.16
+7316-3554	711739	7.9	BS_3W07B2TG	GoodRin	Low-grade glioma/astrocytoma	86.21	9fda674e-a51a-4b0b-b402-cc186b872ecb.rsem.genes.results.gz	0.26	0.23	12.05	0.05	0.12
+7316-3555	711740	7.5	BS_MBSTWZA6	GoodRin	Low-grade glioma/astrocytoma	85.26	42dd1879-1a97-45f4-b789-5ccfb2f34c24.rsem.genes.results.gz	0.28	0.21	13.16	0.04	0.19
+7316-3556	711741	7.1	BS_GYA4V1RD	GoodRin	Low-grade glioma/astrocytoma	87.71	238566ed-8cbf-4c82-94bf-8c15e6ecf6f0.rsem.genes.results.gz	0.29	0.35	10.92	0.05	0.14
+7316-3557	739984	4	BS_B8T7M0WV	LowRin	Arteriovenous malformation	83.14	15eebfe3-3512-461a-8f8c-f8dd001374d0.rsem.genes.results.gz	0.39	0.16	14.38	0.10	0.28
+7316-3558	739985	5	BS_5P3CZQV8	LowRin	Neurofibroma/Plexiform	75.54	da63df67-62a4-487b-aa68-d7f139809160.rsem.genes.results.gz	0.34	0.08	21.20	0.06	0.30
+7316-356	570112	6.7	BS_Z9ZS6ZS2	GoodRin	Malignant peripheral nerve sheath tumor	75.87	2c603e2d-8257-4aa4-95d1-cf46ca17f4e4.rsem.genes.results.gz	0.47	0.09	18.39	0.21	0.42
+7316-3566	711743	8.2	BS_JVA2NQFF	GoodRin	Low-grade glioma/astrocytoma	85.55	401cae2c-2490-47d0-93d9-7ac24d16b720.rsem.genes.results.gz	0.28	0.26	12.73	0.04	0.19
+7316-3567	728251	4.7	BS_JSPR854S	LowRin	NA	78.34	7c9e835c-f54c-41d8-b6be-603ee96d62c8.rsem.genes.results.gz	0.96	0.10	16.80	0.07	0.69
+7316-3570	711744	6.8	BS_044XZ8ST	GoodRin	Low-grade glioma/astrocytoma	87.82	4e7d8089-c09f-47e7-94e7-3e5e5459b6fe.rsem.genes.results.gz	0.30	0.24	11.03	0.05	0.14
+7316-3571	711745	7.8	BS_GC3CH9TY	GoodRin	Craniopharyngioma	83.27	245672ef-195c-4487-b227-6c2ef69717e1.rsem.genes.results.gz	0.30	0.22	14.71	0.06	0.25
+7316-3572	734531	5.8	BS_NT9NZYFD	GoodRin	Ganglioglioma	85.21	1310ff24-a11c-48eb-9cb9-047d32ad193a.rsem.genes.results.gz	0.32	0.47	12.74	0.06	0.16
+7316-3574	711750	7.2	BS_CREQ97QC	GoodRin	Dysembryoplastic neuroepithelial tumor	87.93	f66bc39d-504c-46ad-b11c-e545b4e5cee3.rsem.genes.results.gz	0.45	0.24	9.71	0.04	0.25
+7316-3575	711751	7.7	BS_G9XE3N9T	GoodRin	Low-grade glioma/astrocytoma	84.26	f29014ad-2a4b-4cea-9b28-711bc080c5ed.rsem.genes.results.gz	0.48	0.27	13.20	0.05	0.40
+7316-3576	739959	9	BS_R439VVPK	GoodRin	Medulloblastoma	85.31	3c7c4e4e-d9e3-47d1-8855-03b1837fec38.rsem.genes.results.gz	0.35	0.16	13.02	0.12	0.13
+7316-358	549577	9.2	BS_SKGJ5SY9	GoodRin	Medulloblastoma	89.15	302d2b07-9dad-4df6-b6fe-40eed964c0b9.rsem.genes.results.gz	0.37	0.32	9.74	0.14	0.08
+7316-359	588324	7.1	BS_KPT2WPHW	GoodRin	Ganglioglioma	86.49	3e661679-54ab-4b46-9e9a-d144130bc9ef.rsem.genes.results.gz	0.47	0.25	11.87	0.04	0.27
+7316-361	588328	8	BS_24AHZ9ZW	GoodRin	Low-grade glioma/astrocytoma	84.37	e0b0231d-11a6-4319-85f2-50c6915f10f4.rsem.genes.results.gz	0.45	0.17	13.58	0.04	0.28
+7316-362	570113	8.4	BS_014EVM2D	GoodRin	Low-grade glioma/astrocytoma	76.36	2ab74061-cf0b-4411-b42b-6732755f2dcd.rsem.genes.results.gz	0.64	0.17	19.37	0.11	0.41
+7316-3621	711718	8.1	BS_FWMJPKCV	GoodRin	Dysembryoplastic neuroepithelial tumor	90.46	c00cf75e-4546-46b8-953e-a983b25e4efc.rsem.genes.results.gz	0.28	0.29	8.45	0.06	0.11
+7316-3622	711760	8.7	BS_7Z93ZYMS	GoodRin	Low-grade glioma/astrocytoma	86.23	20869a98-b288-43f5-9d65-8bffa88febf9.rsem.genes.results.gz	0.45	0.21	12.02	0.04	0.27
+7316-3623	724103	5.7	BS_70FFPA51	GoodRin	Meningioma	89.84	2df8c052-f2c9-4e0a-8670-0ceaebb985a6.rsem.genes.results.gz	0.71	0.19	8.20	0.10	0.34
+7316-3624	724104	8.8	BS_KDSTG5YY	GoodRin	Ependymoma	88.61	9e5f6519-cb2b-41dd-8891-c4ffc86a5e4f.rsem.genes.results.gz	0.65	0.23	9.72	0.05	0.29
+7316-3625	728243	6.5	BS_9XVACXP0	GoodRin	High-grade glioma/astrocytoma	87.28	8ad7bfbe-37a3-489a-90cc-288398a13844.rsem.genes.results.gz	1.05	0.22	10.05	0.11	0.58
+7316-3626	728242	5.7	BS_2SFTWNVE	GoodRin	Medulloblastoma	90.58	78924fd6-0779-4b24-904c-aae8189b09b6.rsem.genes.results.gz	0.34	0.40	8.07	0.10	0.12
+7316-3627	724093	2.6	BS_47SJZ3PH	BadRin	Low-grade glioma/astrocytoma	84.78	254ca234-b7f2-4305-ab93-d7e15f4a530d.rsem.genes.results.gz	0.67	0.21	13.28	0.07	0.33
+7316-3628	724094	5.9	BS_ZHHAM3AN	GoodRin	Sarcoma	84.11	6e65105c-2e6e-46cd-b37c-3aa70ff87177.rsem.genes.results.gz	0.70	0.16	13.86	0.10	0.38
+7316-3629	724095	8.7	BS_E94QRJDW	GoodRin	Glial-neuronal tumor NOS	88.78	d63936b7-5553-4017-9f1b-8fa2f7faa16f.rsem.genes.results.gz	0.71	0.21	9.35	0.04	0.37
+7316-3630	724096	8.8	BS_ARFQ1WG3	GoodRin	Glial-neuronal tumor NOS	81.86	f10a4044-f7d9-4896-acc4-ef0bf7c7c40b.rsem.genes.results.gz	0.64	0.13	14.93	0.05	0.32
+7316-3631	724097	8.4	BS_NGHK9RZP	GoodRin	Ependymoma	81.63	8c492246-8819-4d3d-bb69-c566a3ddab4b.rsem.genes.results.gz	0.68	0.20	15.31	0.06	0.42
+7316-3632	724098	4.9	BS_67PX06P3	LowRin	Chordoma	77.25	010d6dff-c341-4d11-aa68-433e06bda14c.rsem.genes.results.gz	0.70	0.09	19.27	0.06	0.43
+7316-364	570114	7.6	BS_0448A413	GoodRin	Ewing sarcoma	81.23	7c5bccff-3698-4ef9-8065-0416bb19622b.rsem.genes.results.gz	0.61	0.17	15.67	0.29	0.27
+7316-365	739957	5.3	BS_NB42PWZN	LowRin	Ependymoma	90.67	bd59ebc7-d359-4536-8107-57f4956f4510.rsem.genes.results.gz	0.41	0.20	8.10	0.05	0.16
+7316-367	564487	8.4	BS_3MYEMXPQ	GoodRin	Medulloblastoma	90.55	94d1fea6-e663-423e-b964-18352f96dbc1.rsem.genes.results.gz	1.01	0.27	7.90	0.11	0.32
+7316-368	734536	7.2	BS_BN986DF6	GoodRin	Low-grade glioma/astrocytoma	88.56	a5b8c95f-ce8c-45f0-ac58-65a9e133c0d5.rsem.genes.results.gz	0.42	0.45	9.28	0.07	0.17
+7316-3680	739987	5.4	BS_WWKNJSJ5	LowRin	Atypical Teratoid Rhabdoid Tumor	82.17	e3ebc0d4-06c3-4b12-8515-74811f85e72d.rsem.genes.results.gz	0.40	0.18	15.41	0.13	0.27
+7316-3689	728244	6.9	BS_QT3NZ2YZ	GoodRin	CNS neuroblastoma	87.74	293c04a6-708b-48fa-99cc-36e307786ea7.rsem.genes.results.gz	0.98	0.20	9.88	0.10	0.50
+7316-370	588329	7.2	BS_0WVJYM9R	GoodRin	Low-grade glioma/astrocytoma	86.40	e430de77-e681-4995-bf26-138fc488f9d7.rsem.genes.results.gz	0.47	0.25	11.62	0.05	0.23
+7316-371	734516	4.2	BS_W60RQAKK	LowRin	High-grade glioma/astrocytoma	87.99	71a9c2f5-cf6c-41e5-a7eb-818e849e9c7d.rsem.genes.results.gz	0.53	0.29	10.11	0.10	0.31
+7316-373	734518	5.8	BS_27QE6BV7	GoodRin	Ganglioglioma	83.42	ed45981c-83e8-4057-b9a2-6ddd9902fc14.rsem.genes.results.gz	0.41	0.14	14.74	0.05	0.20
+7316-375	588330	7	BS_7XRN3CFX	GoodRin	Low-grade glioma/astrocytoma	86.53	eb688828-66df-4e48-905e-abf5f6fbbb2f.rsem.genes.results.gz	0.46	0.23	11.66	0.03	0.28
+7316-3751	728259	4.9	BS_C6SKJG3N	LowRin	Low-grade glioma/astrocytoma	80.80	a587c234-6f5c-45a1-8876-e66e5af17a21.rsem.genes.results.gz	0.34	0.23	16.65	0.07	0.30
+7316-3755	728260	6.6	BS_TZ5D0A7R	GoodRin	Ependymoma	85.00	0494f59f-f160-4eea-97f8-c5d162a146ed.rsem.genes.results.gz	0.37	0.22	12.92	0.14	0.20
+7316-3756	728261	6.8	BS_ZV68CES9	GoodRin	Medulloblastoma	89.28	82d70385-1a2f-4b62-92b7-363488552d36.rsem.genes.results.gz	0.33	0.35	9.25	0.11	0.13
+7316-376	549569	9.7	BS_M4923M40	GoodRin	Atypical Teratoid Rhabdoid Tumor	75.75	fc03976b-deab-41c5-88c4-863cd090a85a.rsem.genes.results.gz	0.52	0.20	22.03	0.11	0.14
+7316-3762	728272	6.7	BS_KX6J8TRK	GoodRin	Low-grade glioma/astrocytoma	84.54	bdff2d02-5a0b-482b-bbe1-2c2ec6ee68ad.rsem.genes.results.gz	0.30	0.22	13.76	0.07	0.17
+7316-3765	728273	6.7	BS_V3Z3DB4N	GoodRin	High-grade glioma/astrocytoma	87.27	44b03925-c904-4efd-a00a-5e6e75ac98dd.rsem.genes.results.gz	0.32	0.32	11.24	0.08	0.13
+7316-3768	728250	5.5	BS_6MY8W3H0	LowRin	Dysembryoplastic neuroepithelial tumor	79.22	41a91e04-01d9-475a-9e8f-dcd66dbea42d.rsem.genes.results.gz	1.01	0.19	16.05	0.05	0.76
+7316-3769	728271	5.5	BS_AWH9757B	LowRin	High-grade glioma/astrocytoma	89.46	b4828cca-3a2a-4d83-a643-2e086dd03230.rsem.genes.results.gz	0.32	0.26	9.11	0.07	0.13
+7316-377	588293	7.3	BS_28CDASF7	GoodRin	Schwannoma	85.91	354c3144-0fce-4649-ad8c-6c1c0a4d7012.rsem.genes.results.gz	0.44	0.28	12.46	0.04	0.22
+7316-3771	728245	6.9	BS_MDBT7S5Z	GoodRin	Diffuse midline glioma	84.85	83fef58e-767d-4cf1-b0eb-ae274473b638.rsem.genes.results.gz	0.99	0.19	12.25	0.08	0.56
+7316-3773	717191	7.4	BS_78QX3XDF	GoodRin	Craniopharyngioma	78.05	33dbb01b-a5f2-4f43-aea7-8f49ca2d266b.rsem.genes.results.gz	0.68	0.19	18.79	0.08	0.54
+7316-3774	728246	7.9	BS_K74PZET7	GoodRin	Medulloblastoma	89.91	d38ae6e6-3a33-4e94-b1fb-05428546a1d8.rsem.genes.results.gz	0.99	0.22	7.85	0.08	0.51
+7316-3775	711757	8.7	BS_1021ZGQT	GoodRin	Ewing sarcoma	91.66	480a6cd5-ef58-4152-bf66-a3c805f75bde.rsem.genes.results.gz	0.48	0.29	7.05	0.07	0.18
+7316-3776	739992	6.4	BS_ZJZXDPTP	GoodRin	Neurofibroma/Plexiform	88.61	e358f49a-c1ea-4050-91b0-33de6e6c451a.rsem.genes.results.gz	0.33	0.28	9.98	0.06	0.13
+7316-38	564486	8.2	BS_HZE3KYZ1	GoodRin	Medulloblastoma	86.68	40a52e45-1e85-4f3f-8ef5-934835d31bea.rsem.genes.results.gz	0.95	0.25	11.57	0.12	0.29
+7316-380	573168	8.3	BS_NGY0TE6S	GoodRin	Craniopharyngioma	87.77	6405bd7a-1d31-44c3-acdc-daee4ac95e22.rsem.genes.results.gz	0.59	0.28	10.51	0.21	0.11
+7316-3809	724081	8	BS_7XQRH69M	GoodRin	Medulloblastoma	89.28	1c685ec2-afeb-4c4a-aaab-8c6a53bb8237.rsem.genes.results.gz	0.66	0.21	9.03	0.15	0.28
+7316-381	746070	6.7	BS_S7CZY2CH	GoodRin	Low-grade glioma/astrocytoma	81.83	ce9df7ff-9c5b-40d2-88dc-3745f522a670.rsem.genes.results.gz	0.47	0.15	16.67	0.09	0.17
+7316-3817	724088	8.9	BS_GG9W3J9Y	GoodRin	High-grade glioma/astrocytoma	87.35	71376596-92ca-451d-881e-fbbff35c4e5e.rsem.genes.results.gz	0.66	0.23	10.81	0.08	0.30
+7316-382	588337	8.2	BS_7S6GNG04	GoodRin	Meningioma	87.84	8bfc1d6b-6b78-473d-885a-5ac00486ca86.rsem.genes.results.gz	0.44	0.17	10.67	0.05	0.17
+7316-384	549606	8.8	BS_8RHPJ740	GoodRin	Ependymoma	82.54	45e27df2-0844-4d1b-ad72-275d35eb9ccf.rsem.genes.results.gz	0.42	0.20	15.73	0.07	0.18
+7316-3844	728262	4.2	BS_QHS3V0GP	LowRin	CNS neuroblastoma	89.88	559055f7-ca68-4ac4-9c79-b51329aa238c.rsem.genes.results.gz	0.35	0.28	8.89	0.08	0.12
+7316-3846	728263	6.6	BS_NZ71XCG3	GoodRin	Medulloblastoma	86.18	5dadf767-d5f8-489e-b1d5-3774144865d6.rsem.genes.results.gz	0.38	0.36	11.78	0.19	0.20
+7316-3856	724082	6.7	BS_3NNQ6PSB	GoodRin	Pineoblastoma	90.07	59102deb-e7a3-4bfb-9493-3e9a5acd35fb.rsem.genes.results.gz	0.73	0.24	8.10	0.10	0.33
+7316-3857	724083	6.5	BS_YEB88D32	GoodRin	Medulloblastoma	89.99	ba7aafea-aefb-4453-818f-f64fa3862f40.rsem.genes.results.gz	0.72	0.29	8.28	0.11	0.30
+7316-386	549563	9.7	BS_K25F4J3V	GoodRin	Atypical Teratoid Rhabdoid Tumor	84.49	0bc9579e-7b4a-4ecc-9841-f245f9afcff6.rsem.genes.results.gz	0.43	0.26	14.21	0.12	0.07
+7316-387	711730	7.9	BS_8D0NYM46	GoodRin	Craniopharyngioma	89.07	49008a50-7556-4fb2-9031-6bbd1787f779.rsem.genes.results.gz	0.30	0.24	9.67	0.09	0.13
+7316-389	588295	8.1	BS_WRQHPSXQ	GoodRin	Ganglioglioma	84.90	1ca30fbf-cd00-496d-b6d6-bf9ec6ac2c5c.rsem.genes.results.gz	0.40	0.22	13.41	0.05	0.21
+7316-3890	724085	7.6	BS_S71RJ8DH	GoodRin	Atypical Teratoid Rhabdoid Tumor	80.88	2a60a751-5ca8-4984-9b38-3af913dd5d91.rsem.genes.results.gz	0.71	0.20	15.88	0.16	0.49
+7316-3891	724086	7.2	BS_VPMKHW9X	GoodRin	Craniopharyngioma	83.00	d33c050b-9214-43e8-aeb6-e7e9b0ad6da5.rsem.genes.results.gz	0.70	0.21	14.37	0.05	0.43
+7316-3892	724087	6.3	BS_VPNXJE2S	GoodRin	Germinoma;Teratoma	70.23	412efeed-abe0-4754-9751-f8151d84b251.rsem.genes.results.gz	0.75	0.08	24.87	0.09	0.46
+7316-3893	728258	8	BS_6MZ7FRZH	GoodRin	Ependymoma	79.38	858c0a7e-a80d-4849-a5a6-9277fa0da242.rsem.genes.results.gz	0.35	0.24	17.77	0.08	0.43
+7316-39	739964	5.8	BS_VTJ9ESSV	GoodRin	Dysembryoplastic neuroepithelial tumor	87.84	2fec3a23-e93d-494a-af82-cc46104faec7.rsem.genes.results.gz	0.40	0.20	10.37	0.07	0.17
+7316-390	588438	8.5	BS_GYXSDZ56	GoodRin	Low-grade glioma/astrocytoma	87.73	edf0f394-791e-4f27-a96c-11036ed5bd59.rsem.genes.results.gz	0.35	0.18	10.97	0.04	0.18
+7316-391	549604	8.8	BS_VP3C8WZT	GoodRin	Low-grade glioma/astrocytoma	83.26	4395217b-afda-4663-bb22-ae4d91200d58.rsem.genes.results.gz	0.39	0.18	15.37	0.05	0.14
+7316-3917	728265	4.3	BS_912NX4Y0	LowRin	Ganglioglioma	85.53	105f21d1-3b13-4840-80c3-3b063ba39b01.rsem.genes.results.gz	0.31	0.18	12.09	0.08	0.14
+7316-3919	728266	7.1	BS_775HDFNY	GoodRin	Low-grade glioma/astrocytoma	83.18	c4fb4c69-c713-4ba0-b4e9-e1f2db07e8f7.rsem.genes.results.gz	0.34	0.24	14.53	0.07	0.26
+7316-3922	728268	7.9	BS_KEA474HN	GoodRin	Low-grade glioma/astrocytoma	81.34	f06987bc-aca3-4f7e-8e77-6e2cf9ce28a0.rsem.genes.results.gz	0.33	0.25	16.34	0.06	0.31
+7316-3923	728269	5	BS_FJZPQZ2C	LowRin	Low-grade glioma/astrocytoma	73.71	1163e159-0893-4f51-abb5-62811d2d0137.rsem.genes.results.gz	0.33	0.22	22.22	0.06	0.54
+7316-393	588332	8.3	BS_M8M56Z4Y	GoodRin	Low-grade glioma/astrocytoma	83.63	adceef0a-d3f3-43d3-8916-917fb8ba21e1.rsem.genes.results.gz	0.44	0.26	12.94	0.05	0.26
+7316-3935	724105	7.9	BS_NR3P3GN2	GoodRin	Diffuse midline glioma	86.14	24cb1316-f87b-4f57-92a1-9ed99b6009f7.rsem.genes.results.gz	0.70	0.22	11.72	0.08	0.34
+7316-3936	724106	4.8	BS_SM8VQFPD	LowRin	Dysembryoplastic neuroepithelial tumor	85.76	00d8fca5-287f-40bb-a2bc-56bfd41fdccc.rsem.genes.results.gz	0.35	0.13	11.27	0.09	0.23
+7316-3937	724107	9	BS_QX12J6W1	GoodRin	Atypical Teratoid Rhabdoid Tumor	84.37	6c784ea2-5102-4792-9a90-5b518a63aab0.rsem.genes.results.gz	0.30	0.28	13.61	0.13	0.17
+7316-394	549591	8.9	BS_AGTPCRR4	GoodRin	Ependymoma	82.58	42ea7847-418a-4c2d-9b08-5a8cf6446cd5.rsem.genes.results.gz	0.36	0.25	16.06	0.05	0.08
+7316-395	739961	7.7	BS_6NTXGQAC	GoodRin	Ganglioglioma	82.44	fe2fd1e6-1985-4fd7-8230-2a87e270a721.rsem.genes.results.gz	0.35	0.08	15.19	0.07	0.16
+7316-3963	734537	7.9	BS_CS66RYDA	GoodRin	Schwannoma	79.60	ffac1123-cba2-4511-973f-8838882fa0a8.rsem.genes.results.gz	0.40	0.13	17.18	0.05	0.21
+7316-397	588320	7.3	BS_NYS8TRCB	GoodRin	Low-grade glioma/astrocytoma	87.36	6b347c20-62fc-4684-9628-ef6e0dd28b7c.rsem.genes.results.gz	0.43	0.21	11.14	0.05	0.23
+7316-398	570104	6.2	BS_49VCQD19	GoodRin	Neurofibroma/Plexiform	79.50	fb7c6ef6-cfbb-4512-a6f2-4d9c8fdc62b0.rsem.genes.results.gz	0.72	0.14	17.29	0.23	0.33
+7316-399	588294	7.4	BS_PK18H7E7	GoodRin	Low-grade glioma/astrocytoma	87.33	57ff581f-aea3-4e11-a14a-86a0e8d53b57.rsem.genes.results.gz	0.48	0.35	10.65	0.05	0.23
+7316-400	588331	8.4	BS_SHMC4902	GoodRin	Low-grade glioma/astrocytoma	88.91	fb0b224b-4029-4c73-a28f-85b6a405e548.rsem.genes.results.gz	0.43	0.24	9.82	0.03	0.19
+7316-4028	724089	8.4	BS_W9AT0MR7	GoodRin	Medulloblastoma	87.33	86d6b500-4d59-4b46-89fa-3f3b037878a2.rsem.genes.results.gz	0.72	0.29	10.34	0.09	0.37
+7316-4033	724099	5.5	BS_JBGZ7HHZ	LowRin	Ganglioneuroblastoma	71.36	7e51280d-0d64-43a0-8b98-bbd70a816926.rsem.genes.results.gz	0.70	0.09	21.82	0.13	0.40
+7316-4034	724100	2.6	BS_2SHWPB5P	BadRin	Ganglioneuroblastoma	64.42	eb0df04e-039f-4fcf-a1ae-effbd1212ae5.rsem.genes.results.gz	0.87	0.03	29.66	0.05	0.75
+7316-4035	724108	8.7	BS_WGK8ZMVA	GoodRin	Ependymoma	84.61	1d078070-f25d-4d73-a9f8-9cf90621eb81.rsem.genes.results.gz	0.29	0.22	13.34	0.06	0.21
+7316-405	728293	7.6	BS_WRHDP7WF	GoodRin	Ependymoma	77.49	a333cbb2-dee6-4b5d-84ea-05e89bf7c2d8.rsem.genes.results.gz	0.35	0.23	19.32	0.04	0.38
+7316-406	571403	8.5	BS_64HCD9K3	GoodRin	Choroid plexus carcinoma	83.39	779d7422-d67a-4711-9c2c-53077a966cf4.rsem.genes.results.gz	0.40	0.15	13.71	0.19	0.20
+7316-4062	728270	3.5	BS_DBDXCXT5	LowRin	Chordoma	71.55	35e1b145-e574-4527-93f0-1d2426423b18.rsem.genes.results.gz	0.48	0.13	22.72	0.10	0.50
+7316-407	588283	8.5	BS_GE2RVZE6	GoodRin	Medulloblastoma	89.30	87f3632c-17af-4bfc-b628-1e103fc838c2.rsem.genes.results.gz	0.31	0.36	9.52	0.10	0.10
+7316-408	739947	4.1	BS_P0W5VJH4	LowRin	Teratoma	70.65	7831d242-dc67-4f4e-b681-177a33f0b19a.rsem.genes.results.gz	0.35	0.05	23.06	0.06	0.25
+7316-41	549586	7.3	BS_15ETQ0E4	GoodRin	Atypical Teratoid Rhabdoid Tumor	72.81	5096590b-5923-40a7-a8cd-cfc5c39171b9.rsem.genes.results.gz	0.41	0.12	24.78	0.12	0.11
+7316-429	570127	7.2	BS_C80S5N37	GoodRin	Ependymoma	78.31	542af6ec-cac6-4df4-b3e6-fe7adbdfb204.rsem.genes.results.gz	0.50	0.16	18.18	0.12	0.32
+7316-431	570128	9	BS_W36RZSFA	GoodRin	Choroid plexus carcinoma	80.50	9266ed0a-718e-4ef2-82c3-48588e849b6c.rsem.genes.results.gz	0.47	0.18	16.88	0.17	0.23
+7316-4341	734538	8.5	BS_B7QS4DHK	GoodRin	Schwannoma	85.46	844f676f-683b-4a03-b0b5-c7cfa3508e92.rsem.genes.results.gz	0.39	0.20	12.86	0.06	0.17
+7316-435	549589	8.5	BS_QPPPGYP4	GoodRin	Medulloblastoma	85.42	55985b25-c591-4a50-862e-c80f300df728.rsem.genes.results.gz	0.40	0.35	13.05	0.18	0.10
+7316-436	564451	8	BS_ZZMYDZJW	GoodRin	Low-grade glioma/astrocytoma	86.54	b27206b3-610a-4283-ae60-5c5494d820f1.rsem.genes.results.gz	0.33	0.21	12.36	0.07	0.06
+7316-437	731868	2.6	BS_94MT16N2	BadRin	Low-grade glioma/astrocytoma	90.11	97a2b6e5-f5f9-41c6-a470-3ac39af50fdc.rsem.genes.results.gz	0.47	0.16	8.09	0.11	0.20
+7316-438	588284	8.5	BS_V9HVBBDW	GoodRin	Medulloblastoma	90.55	9176b98b-5999-49c1-a9a2-dd60c69adbc7.rsem.genes.results.gz	0.32	0.36	8.33	0.05	0.10
+7316-440	746066	8.4	BS_K17VQECG	GoodRin	High-grade glioma/astrocytoma	78.68	2d5e80f1-0ced-46f3-951b-78599ac10728.rsem.genes.results.gz	0.44	0.15	19.07	0.16	0.19
+7316-441	588439	8.2	BS_M4TTKPNR	GoodRin	Low-grade glioma/astrocytoma	86.56	464d0a64-e568-4495-89de-dfb9bae5d22e.rsem.genes.results.gz	0.38	0.19	11.66	0.04	0.19
+7316-442	549597	8.6	BS_S458NMKH	GoodRin	Low-grade glioma/astrocytoma	87.46	f37dedd1-cfba-4bed-b66d-002e913a732d.rsem.genes.results.gz	0.36	0.29	11.60	0.04	0.07
+7316-443	571398	7	BS_XQYHPBFS	GoodRin	Ependymoma	79.85	e13a6f41-af1a-49ed-aaab-c68c135050b8.rsem.genes.results.gz	0.46	0.18	17.45	0.12	0.24
+7316-447	588300	7.4	BS_P39SQPTS	GoodRin	Embryonal tumor with multilayer rosettes	81.63	336a9162-8a2a-4d59-8936-0e61452c19c6.rsem.genes.results.gz	0.44	0.34	16.22	0.05	0.21
+7316-448	571402	8.3	BS_8J09S6MZ	GoodRin	Schwannoma	77.43	a5b97148-4e9b-4d89-a621-b048841f329c.rsem.genes.results.gz	0.43	0.14	18.91	0.20	0.30
+7316-449	564468	8.4	BS_TMTV769C	GoodRin	Low-grade glioma/astrocytoma	87.71	c69d245a-e3a3-4f03-8c99-02621908bd29.rsem.genes.results.gz	0.92	0.21	10.54	0.06	0.35
+7316-451	571397	8	BS_Z7890YNR	GoodRin	Ependymoma	86.25	97f365b9-e4dc-4300-92c3-edd6699f2259.rsem.genes.results.gz	0.42	0.18	11.81	0.24	0.15
+7316-452	571401	7.7	BS_5K3R0F5D	GoodRin	Ganglioglioma	83.75	0d1b8135-04ea-4675-be72-6a8ca8861311.rsem.genes.results.gz	0.41	0.20	13.91	0.11	0.20
+7316-455	588317	7.3	BS_0QYS36NR	GoodRin	Ependymoma	83.39	91fea4ee-bd47-49d8-b657-1f2804e79b1f.rsem.genes.results.gz	0.42	0.12	14.69	0.04	0.24
+7316-456	570107	7.9	BS_D5P6EZ1M	GoodRin	Schwannoma	83.19	9a97cc15-6035-4226-8e39-1cc4004d2c07.rsem.genes.results.gz	0.62	0.16	13.66	0.13	0.32
+7316-458	571399	8.5	BS_JFEZA9KE	GoodRin	Ewing sarcoma	81.13	beacda6c-5607-471f-83b3-792fae140add.rsem.genes.results.gz	0.41	0.20	16.48	0.23	0.15
+7316-459	549601	8.1	BS_8VAZSJEN	GoodRin	Low-grade glioma/astrocytoma	84.13	2fc171f7-f307-4ed6-b417-b6e8d36da94d.rsem.genes.results.gz	0.55	0.22	14.34	0.07	0.15
+7316-460	574548	8.4	BS_YY5B2XDD	GoodRin	Low-grade glioma/astrocytoma	74.67	4c60a52a-9ae2-40d5-b424-05ce27ca08d2.rsem.genes.results.gz	0.63	0.15	22.09	0.10	0.32
+7316-461	739958	7.3	BS_TRKH2SPE	GoodRin	Diffuse midline glioma	83.81	f0e687c7-9f2b-4ec5-a825-ced3af1a0e36.rsem.genes.results.gz	0.37	0.17	13.89	0.08	0.16
+7316-462	588301	7.7	BS_K2VYFVKZ	GoodRin	Low-grade glioma/astrocytoma	86.43	c68fb2c5-2744-47a9-94c9-8a89deb5d3d2.rsem.genes.results.gz	0.43	0.21	11.54	0.04	0.21
+7316-464	746062	6.2	BS_6NRTJSYK	GoodRin	CNS Embryonal tumor	87.59	6a4252a7-a736-4057-82ff-050cc060a274.rsem.genes.results.gz	0.64	0.17	11.37	0.18	0.12
+7316-47	549602	8.7	BS_4SCWT0FX	GoodRin	Ependymoma	84.76	9f8edab7-2e26-470c-9afa-5c4b1ae57c33.rsem.genes.results.gz	0.55	0.21	13.95	0.07	0.13
+7316-470	549594	7.6	BS_ZRM0W01M	GoodRin	Low-grade glioma/astrocytoma	88.08	add83a5d-37e5-40d9-b320-967d7e28ae40.rsem.genes.results.gz	0.39	0.41	10.54	0.10	0.07
+7316-471	564471	8.4	BS_0GDJQANN	GoodRin	Choroid plexus papilloma	88.13	1c7d818f-c845-4730-9d64-e1f7e7758be1.rsem.genes.results.gz	0.94	0.19	10.22	0.09	0.32
+7316-472	571400	8.2	BS_V72GX2AZ	GoodRin	Low-grade glioma/astrocytoma	73.60	417f9f56-3322-4870-b002-836f6471defd.rsem.genes.results.gz	0.47	0.18	21.76	0.12	0.29
+7316-474	564472	8.3	BS_MA1A3GY0	GoodRin	NA	85.47	99e679c6-ee76-4f00-af39-89ee650f7f36.rsem.genes.results.gz	0.98	0.16	12.86	0.06	0.37
+7316-475	588339	8.2	BS_9Q6Z6VJC	GoodRin	Low-grade glioma/astrocytoma	86.60	d366bebf-47e2-46c5-887f-7ff1a56adf6e.rsem.genes.results.gz	0.44	0.21	12.00	0.02	0.19
+7316-476	588340	8.6	BS_4C4MZ4NT	GoodRin	Low-grade glioma/astrocytoma	84.12	7a899ef1-2f5f-44e1-a828-61e289a54a66.rsem.genes.results.gz	0.47	0.24	13.97	0.04	0.22
+7316-477	739950	4.1	BS_GM9Y3AZ5	LowRin	Meningioma	69.96	d4392db8-251b-40bb-adf0-8e7112981c5b.rsem.genes.results.gz	0.37	0.05	24.80	0.12	0.23
+7316-479	734514	1.3	BS_90B22NGP	BadRin	Atypical Teratoid Rhabdoid Tumor	87.21	94ae7744-d737-4fa1-88bb-73ce3882d4ee.rsem.genes.results.gz	0.46	0.18	11.07	0.20	0.27
+7316-480	588319	6.2	BS_JXNZYGCR	GoodRin	Dysembryoplastic neuroepithelial tumor	86.99	9cafc966-0e73-4fa9-8e6d-b02b094a385c.rsem.genes.results.gz	0.45	0.26	11.24	0.06	0.21
+7316-485	570106	7.4	BS_V0Q1G94N	GoodRin	Low-grade glioma/astrocytoma	82.35	1d6507bd-baa6-4ba9-9882-4e42876056f2.rsem.genes.results.gz	0.61	0.20	14.65	0.11	0.29
+7316-487	588341	8.4	BS_53GQKVEX	GoodRin	Low-grade glioma/astrocytoma	83.92	69428a4a-e551-41b7-9f3f-f6d557d3914e.rsem.genes.results.gz	0.44	0.19	14.25	0.04	0.21
+7316-488	571426	7.7	BS_QRNSKFMS	GoodRin	Low-grade glioma/astrocytoma	86.60	962fe28f-3462-470e-9d2c-68bcc782bafe.rsem.genes.results.gz	0.60	0.20	11.49	0.15	0.19
+7316-489	549579	9.7	BS_BVSW4GTG	GoodRin	Medulloblastoma	84.03	0080e250-aef6-4501-8f0e-42b483252440.rsem.genes.results.gz	0.34	0.29	14.76	0.10	0.07
+7316-490	570108	6.4	BS_99B1XRZQ	GoodRin	Ependymoma	87.46	476d29c6-6e13-4b4b-89c6-14b38248c6f8.rsem.genes.results.gz	0.60	0.20	10.62	0.19	0.21
+7316-493	570105	7.3	BS_JWCX8R17	GoodRin	Langerhans Cell histiocytosis	69.00	7a32e21e-80e9-4411-b7fb-9ed2daa78e86.rsem.genes.results.gz	0.66	0.11	25.21	0.12	0.56
+7316-495	564473	8.1	BS_H8A9PSYA	GoodRin	Low-grade glioma/astrocytoma	86.70	9d6a966e-d19c-4913-8492-2ea778f6f913.rsem.genes.results.gz	0.96	0.22	11.52	0.06	0.36
+7316-496	734515	2.3	BS_PJPGVD62	BadRin	Ependymoma	72.00	ae94578d-c2ff-48ca-bec0-7f23fdf0177a.rsem.genes.results.gz	0.48	0.10	23.33	0.05	0.51
+7316-497	570100	6.2	BS_9HA238XS	GoodRin	Neurofibroma/Plexiform	76.73	e504a1f9-57cb-4d96-b95d-25764e2af392.rsem.genes.results.gz	0.58	0.13	19.05	0.16	0.35
+7316-498	588342	6.8	BS_B24PKKQB	GoodRin	NA	88.65	4d92c81e-f519-430e-a5f2-d1a58178833a.rsem.genes.results.gz	0.45	0.19	9.60	0.04	0.21
+7316-499	571425	8.7	BS_9P9MB8X8	GoodRin	Low-grade glioma/astrocytoma	86.14	478d0e7c-490e-4844-a074-61c396a14ee5.rsem.genes.results.gz	0.59	0.19	11.95	0.14	0.20
+7316-5	549581	9.3	BS_5VQP0E6K	GoodRin	Medulloblastoma	89.91	502c5401-dd19-4b20-9854-1f2f24d1d0b4.rsem.genes.results.gz	0.43	0.32	9.09	0.13	0.07
+7316-50	601585	8.7	BS_JKXA3FQC	GoodRin	Low-grade glioma/astrocytoma	87.59	87a19715-7d92-4797-bd34-2de2729d190f.rsem.genes.results.gz	0.82	0.23	10.22	0.04	0.42
+7316-502	588359	8.4	BS_D8N31T39	GoodRin	Desmoplastic infantile astrocytoma and ganglioglioma	85.53	8e165bcb-82f8-4265-af62-2032d78f9997.rsem.genes.results.gz	0.45	0.22	12.85	0.05	0.21
+7316-505	731887	8.8	BS_SXCZ3CXN	GoodRin	CNS Embryonal tumor	86.34	a82cf3c1-4f3a-45f2-8faf-1db7d418bb44.rsem.genes.results.gz	0.39	0.31	11.62	0.10	0.22
+7316-506	588299	7.9	BS_J8VX4D17	GoodRin	Ependymoma	85.12	a2fa5ca0-96fe-45f7-a179-11bd4f094287.rsem.genes.results.gz	0.49	0.31	12.88	0.04	0.25
+7316-51	601599	8	BS_P4NX9MPA	GoodRin	Dysembryoplastic neuroepithelial tumor	88.04	52c54770-d66c-4c1c-9d91-8bf82a756856.rsem.genes.results.gz	0.81	0.23	10.17	0.04	0.39
+7316-515	711651	8	BS_W9N9844Q	GoodRin	High-grade glioma/astrocytoma	80.84	1f6d22c3-9ba3-4413-997b-ca2076d39352.rsem.genes.results.gz	0.37	0.34	16.63	0.08	0.25
+7316-516	571424	8.2	BS_6N3AFF66	GoodRin	Low-grade glioma/astrocytoma	72.59	d8e7db2f-1445-4b47-8cf7-8bf8539eff94.rsem.genes.results.gz	0.77	0.15	22.45	0.10	0.44
+7316-519	711764	7	BS_3MS8WVNR	GoodRin	High-grade glioma/astrocytoma	88.44	1ed9b612-524a-41de-b155-ec99f0ed54dd.rsem.genes.results.gz	0.47	0.31	9.76	0.07	0.22
+7316-521	731926	6.8	BS_N4B1SZZH	GoodRin	Medulloblastoma	83.48	5c32a3e8-b590-430c-a57e-e5d59bc1d99c.rsem.genes.results.gz	0.40	0.17	13.78	0.14	0.25
+7316-523	588343	8	BS_23M72ABG	GoodRin	Meningioma	87.34	0afb3e6a-900c-40ef-a5bb-9ee55d096863.rsem.genes.results.gz	0.44	0.15	10.87	0.05	0.18
+7316-525	549578	9.1	BS_1QNTEZPS	GoodRin	Atypical Teratoid Rhabdoid Tumor	86.53	fc558fb7-1015-4ef8-8a2c-54d907fde745.rsem.genes.results.gz	0.33	0.25	12.42	0.11	0.06
+7316-535	577717	8.5	BS_FEV5A0HN	GoodRin	High-grade glioma/astrocytoma	89.29	897665d3-8bd6-4812-a54f-47459c1280fa.rsem.genes.results.gz	0.54	0.27	9.63	0.08	0.13
+7316-544	577731	6.9	BS_7GJT4A6A	GoodRin	Diffuse intrinsic pontine glioma	85.87	c12e592c-dca9-42cb-b2c7-9a3a6b1b9d1a.rsem.genes.results.gz	0.68	0.24	12.34	0.08	0.23
+7316-545	739973	1.9	BS_9CA93S6D	BadRin	Diffuse intrinsic pontine glioma	83.83	b9ecebc7-bb60-4887-adff-72ed7decc27c.rsem.genes.results.gz	0.52	0.14	14.12	0.08	0.24
+7316-548	549596	7.6	BS_MKM0EEN1	GoodRin	Diffuse intrinsic pontine glioma	90.44	1d6f9501-915c-4777-a17c-671c99ef68ca.rsem.genes.results.gz	0.41	0.30	8.40	0.06	0.12
+7316-549	549609	6.7	BS_PZVHMSYN	GoodRin	Diffuse intrinsic pontine glioma	83.58	a27af54c-786f-4580-a32f-e5e3332a08bf.rsem.genes.results.gz	0.55	0.25	14.71	0.06	0.28
+7316-550	739943	3.1	BS_W4DB5RP1	BadRin	Diffuse intrinsic pontine glioma	86.55	5afc2e41-c238-4cfe-8f31-840b5ecd49e8.rsem.genes.results.gz	0.52	0.16	11.70	0.10	0.23
+7316-553	564489	8.7	BS_JFB984RG	GoodRin	Medulloblastoma	91.37	24140c1f-70e0-4144-a9ae-3beb7a56b4ad.rsem.genes.results.gz	1.06	0.26	7.33	0.08	0.31
+7316-554	746089	7.7	BS_MY9D8XZ1	GoodRin	Low-grade glioma/astrocytoma	85.19	94bbb5b8-cf4c-4130-b40a-80c29311a070.rsem.genes.results.gz	0.43	0.20	13.45	0.04	0.12
+7316-556	564478	8	BS_DFWFBYSN	GoodRin	Medulloblastoma	89.49	24929045-495d-4e51-8840-d8c816a51356.rsem.genes.results.gz	0.95	0.24	9.00	0.17	0.30
+7316-561	739967	5.4	BS_EMMF4PZX	LowRin	Craniopharyngioma	86.15	e9faaa5c-097f-41bc-ab89-a65537214b60.rsem.genes.results.gz	0.40	0.14	11.82	0.08	0.19
+7316-562	746090	7.8	BS_4A45GGSW	GoodRin	Low-grade glioma/astrocytoma	86.62	f80d777a-c0c9-4c2a-9fb9-e3d2712ab656.rsem.genes.results.gz	0.44	0.23	12.03	0.05	0.13
+7316-6	573165	8.6	BS_3F5PR9GS	GoodRin	Medulloblastoma	89.14	0f04461c-45a1-4fa5-99f9-575445ff2760.rsem.genes.results.gz	0.48	0.41	9.35	0.17	0.11
+7316-612	746105	7.5	BS_T0RKFEKR	GoodRin	Low-grade glioma/astrocytoma	77.74	b94c607e-b529-4d4a-996d-ff5d08d75af3.rsem.genes.results.gz	0.51	0.19	19.43	0.06	0.23
+7316-639	711763	7.8	BS_30VC3R2Q	GoodRin	Diffuse intrinsic pontine glioma	88.74	6ed9efc1-b589-4258-947d-2e35a77f9539.rsem.genes.results.gz	0.44	0.47	9.36	0.05	0.21
+7316-641	588309	7.4	BS_479S95Q6	GoodRin	Schwannoma	88.98	903a5edb-c7a4-42c9-86c1-c9d3839c10b2.rsem.genes.results.gz	0.42	0.20	9.75	0.04	0.18
+7316-642	731935	6.2	BS_0Y66ZBWE	GoodRin	Low-grade glioma/astrocytoma	88.33	46bbe1c1-9583-4cf5-b52a-ca189fc4a4c7.rsem.genes.results.gz	0.39	0.30	9.68	0.09	0.18
+7316-643	731896	8.5	BS_Y0PCBNJV	GoodRin	Low-grade glioma/astrocytoma	85.05	5c2a74df-86f2-4f1e-a5ef-1de26fb5ef00.rsem.genes.results.gz	0.35	0.21	13.33	0.07	0.21
+7316-644	739975	5.8	BS_51RA1PGE	GoodRin	Diffuse midline glioma	85.63	6f544a4d-fe06-462a-9163-71d392cfa3ce.rsem.genes.results.gz	0.35	0.16	12.41	0.09	0.16
+7316-658	573146	7.9	BS_VP5Y45Z7	GoodRin	Low-grade glioma/astrocytoma	84.59	2b0d2c01-b21d-41aa-8133-04b47b1a5267.rsem.genes.results.gz	0.51	0.24	13.56	0.10	0.23
+7316-663	728294	6.5	BS_JG9JZTA9	GoodRin	Low-grade glioma/astrocytoma	79.82	58ee72cf-ef58-4d14-a2e4-fead6f212b58.rsem.genes.results.gz	0.30	0.15	18.01	0.07	0.26
+7316-666	588457	7.4	BS_7P83Z28P	GoodRin	Low-grade glioma/astrocytoma	89.73	ed3aadad-07dc-4426-a37f-ca2eb1787558.rsem.genes.results.gz	0.47	0.29	8.82	0.05	0.20
+7316-670	588289	9.2	BS_HZRM07TW	GoodRin	Medulloblastoma	79.38	f31213d8-43c9-4b44-b1e6-79a78a89fdc7.rsem.genes.results.gz	0.32	0.31	18.32	0.05	0.18
+7316-676	731927	7.9	BS_HD4EJYE3	GoodRin	Medulloblastoma	88.26	0e83dcec-af77-4964-8a15-b838d0ed4842.rsem.genes.results.gz	0.36	0.43	9.99	0.13	0.14
+7316-677	728281	7.6	BS_AVYNZHSB	GoodRin	Low-grade glioma/astrocytoma	83.90	c23b3216-c4d8-435c-9dba-30558dd3005d.rsem.genes.results.gz	0.29	0.23	14.65	0.06	0.16
+7316-681	728252	5.6	BS_EXGBH3TD	GoodRin	Desmoplastic infantile astrocytoma and ganglioglioma	89.70	38dc46de-d5e1-4486-aafe-1f6818fb59b3.rsem.genes.results.gz	0.96	0.21	7.96	0.08	0.50
+7316-692	549617	8.5	BS_9HSGV9TJ	GoodRin	Pleomorphic xanthoastrocytoma	84.82	0714d14d-2a8f-434a-807b-297812bc8f96.rsem.genes.results.gz	0.45	0.22	14.03	0.05	0.11
+7316-70	601597	7.8	BS_ME3HKN2C	GoodRin	Low-grade glioma/astrocytoma	87.47	7211e20d-f156-4dc2-821b-93ac186ef97d.rsem.genes.results.gz	0.82	0.28	10.39	0.07	0.44
+7316-715	549599	8.2	BS_B1C6GZ84	GoodRin	Diffuse intrinsic pontine glioma	88.53	e8d7b567-6dae-44e2-8ccd-ce3960da7ddb.rsem.genes.results.gz	0.35	0.35	10.42	0.10	0.07
+7316-719	739976	3	BS_6DCSD5Y6	BadRin	Diffuse intrinsic pontine glioma	87.85	81033462-f258-4525-a984-957e93b65912.rsem.genes.results.gz	0.59	0.18	10.11	0.11	0.41
+7316-723	731869	4.3	BS_GSVCN2XC	LowRin	Choroid plexus carcinoma	85.76	8c05c589-fed8-41e0-aa3d-0bcd95407824.rsem.genes.results.gz	0.49	0.16	12.25	0.11	0.24
+7316-725	739965	5.8	BS_CW9QV8AG	GoodRin	Atypical choroid plexus papilloma	86.88	96fe5c2a-81ff-41bd-8da7-5d6658ea0c0c.rsem.genes.results.gz	0.39	0.21	11.15	0.06	0.19
+7316-726	588311	7.9	BS_JH29M4KG	GoodRin	Low-grade glioma/astrocytoma	84.94	14ae26a1-14b6-41e0-b55a-65cd38e5e35f.rsem.genes.results.gz	0.45	0.23	12.99	0.04	0.29
+7316-729	711678	8.5	BS_BPWEFR89	GoodRin	Medulloblastoma	84.51	82017f58-ca23-4024-888d-476fd91e0d94.rsem.genes.results.gz	0.32	0.28	13.82	0.10	0.17
+7316-73	739948	5.5	BS_9E7YVFJM	LowRin	Langerhans Cell histiocytosis	76.36	35097337-ce83-411f-9950-a65ca0b4fbd8.rsem.genes.results.gz	0.50	0.10	20.05	0.11	0.27
+7316-733	564457	7.9	BS_Q79NP5YY	GoodRin	Low-grade glioma/astrocytoma	87.42	207a4d2a-abe0-41bc-86c0-ca9ddde46874.rsem.genes.results.gz	0.34	0.26	11.38	0.08	0.08
+7316-735	728282	8.2	BS_9M5XJ10G	GoodRin	Medulloblastoma	88.28	c6ff12eb-1a13-404e-ac50-e4d90a5ea908.rsem.genes.results.gz	0.33	0.39	10.17	0.09	0.12
+7316-737	711665	8.8	BS_WH5HDE0A	GoodRin	Medulloblastoma	88.14	db03f148-fa2b-4568-a49f-0c33e90e8ee9.rsem.genes.results.gz	0.33	0.41	10.28	0.05	0.20
+7316-739	731886	9.4	BS_ZXYDSBM9	GoodRin	Medulloblastoma	84.02	2be12eae-9118-458b-a7fd-221c8f3ae197.rsem.genes.results.gz	0.42	0.35	13.64	0.09	0.21
+7316-741	588458	7.3	BS_EHVYJAVA	GoodRin	Low-grade glioma/astrocytoma	82.94	114fe543-95c3-465a-96c9-6b2e47ba1464.rsem.genes.results.gz	0.46	0.22	12.42	0.04	0.35
+7316-746	588285	8.3	BS_9PB3XH5D	GoodRin	Medulloblastoma	87.54	fa63ae9b-8060-48f3-8729-2a8011ee508c.rsem.genes.results.gz	0.35	0.34	11.01	0.10	0.14
+7316-747	588286	7.2	BS_4W68NV3M	GoodRin	Medulloblastoma	89.86	742a67c6-e197-420a-8600-10e2a10b6bfb.rsem.genes.results.gz	0.36	0.41	8.60	0.13	0.18
+7316-749	588461	8	BS_T4P3J13C	GoodRin	Ependymoma	83.43	b7f12bed-3144-4fc5-bdf0-fabf7082ef97.rsem.genes.results.gz	0.38	0.19	14.37	0.04	0.31
+7316-76	588349	7.5	BS_XBQZYS8G	GoodRin	Metastatic secondary tumors	82.97	d690d7c0-5e7a-4e31-94a1-168b71bb22bc.rsem.genes.results.gz	0.45	0.20	15.35	0.08	0.19
+7316-77	601595	7.8	BS_G7AGNB5G	GoodRin	Low-grade glioma/astrocytoma	88.23	28c11c20-d3a3-4073-af55-abc957dea294.rsem.genes.results.gz	0.80	0.28	9.50	0.05	0.43
+7316-78	564476	8.6	BS_P44PE00R	GoodRin	NA	88.13	024f3e50-3770-44ac-82d6-3c7cb37552dd.rsem.genes.results.gz	0.93	0.20	10.37	0.04	0.31
+7316-80	739946	5.5	BS_264RCK7G	LowRin	Dysembryoplastic neuroepithelial tumor	89.18	5d263084-2dd6-426c-8d23-24ae4acf7b8b.rsem.genes.results.gz	0.48	0.18	9.42	0.08	0.18
+7316-820	570097	5.9	BS_N0877CX1	GoodRin	Atypical Teratoid Rhabdoid Tumor	83.99	dca81bfb-43ab-4a2e-a234-453a4f1816e8.rsem.genes.results.gz	0.56	0.17	13.82	0.23	0.18
+7316-839	711660	8.3	BS_S69QZAJR	GoodRin	Medulloblastoma	79.84	e1927047-8823-49ce-ae0e-680d7a15a1d5.rsem.genes.results.gz	0.34	0.32	17.63	0.07	0.33
+7316-84	549593	7.1	BS_SFKZSJN1	GoodRin	Low-grade glioma/astrocytoma	87.55	2c5bdcea-957d-4325-bc5a-b6c8f861e7b3.rsem.genes.results.gz	0.41	0.36	10.74	0.08	0.08
+7316-842	711659	7.3	BS_Y8D1F5WW	GoodRin	Medulloblastoma	88.86	1ab1c25d-5127-4f2a-a8fb-8830731391c8.rsem.genes.results.gz	0.32	0.40	9.71	0.12	0.14
+7316-843	711658	8.3	BS_GCQFGDTX	GoodRin	Medulloblastoma	89.66	82642271-b391-4673-858d-277f6f457116.rsem.genes.results.gz	0.34	0.36	9.08	0.04	0.14
+7316-85	740007	9.6	BS_59ZJWJTF	GoodRin	High-grade glioma/astrocytoma	82.12	80d82297-951b-4e88-8c24-3015a18b67b1.rsem.genes.results.gz	0.26	0.20	16.03	0.06	0.12
+7316-85	740010	7.8	BS_QYPHA40N	GoodRin	High-grade glioma/astrocytoma	87.39	81c65923-7375-44c4-be00-753bfa192ed9.rsem.genes.results.gz	0.36	0.19	11.17	0.09	0.13
+7316-851	739971	5.6	BS_9RT63JD9	GoodRin	Low-grade glioma/astrocytoma	86.52	67efc824-197c-4560-bf8e-c96920c33bc2.rsem.genes.results.gz	0.38	0.21	11.71	0.08	0.17
+7316-853	746106	8.1	BS_NQFH3GZH	GoodRin	Choroid plexus papilloma	86.97	18a5c38c-d3c7-4e9e-8429-74e4bd913f58.rsem.genes.results.gz	0.52	0.30	11.62	0.10	0.12
+7316-869	564474	8.4	BS_N210XMKR	GoodRin	Low-grade glioma/astrocytoma	88.06	926be4d1-5737-4eb3-8b0b-c4518584dbf3.rsem.genes.results.gz	0.90	0.19	10.32	0.07	0.31
+7316-873	570111	8.3	BS_RCFQ31XF	GoodRin	Ependymoma	84.63	01a28736-f93b-4e46-be14-dc604b48bf23.rsem.genes.results.gz	0.75	0.21	12.73	0.13	0.34
+7316-874	588321	8.3	BS_C7A2TYAC	GoodRin	Low-grade glioma/astrocytoma	88.58	9f65f6d4-331e-41c6-a911-dede958655f3.rsem.genes.results.gz	0.42	0.29	9.54	0.03	0.18
+7316-875	734520	5.3	BS_9F09XV62	LowRin	Low-grade glioma/astrocytoma	84.14	8422f0d2-e1f1-4b63-95ab-be85504e4102.rsem.genes.results.gz	0.37	0.16	13.38	0.06	0.24
+7316-876	731907	9	BS_1N9XZXGE	GoodRin	Ewing sarcoma	83.51	5c18aa1e-6662-4657-a9dc-3789e6e23000.rsem.genes.results.gz	0.34	0.13	14.69	0.16	0.17
+7316-877	570110	8.3	BS_10APZRVT	GoodRin	Meningioma	83.69	432470ba-1c7a-460c-a16d-0fdc6e12a4a7.rsem.genes.results.gz	0.78	0.21	13.44	0.18	0.32
+7316-878	549572	9.4	BS_J483EMFP	GoodRin	Atypical Teratoid Rhabdoid Tumor	78.23	11377a36-98d2-4dd3-ada7-add5e06b4828.rsem.genes.results.gz	0.40	0.22	19.76	0.09	0.18
+7316-879	570115	8.6	BS_06XH7EVF	GoodRin	NA	75.04	90520afe-23e8-408e-a6d1-7a4307bff6cb.rsem.genes.results.gz	0.64	0.14	20.80	0.13	0.37
+7316-88	734540	7.4	BS_KXMYBQ6N	GoodRin	Ependymoma	80.33	2d0e94aa-e31f-49a1-b004-e4d2bd77eb54.rsem.genes.results.gz	0.39	0.12	16.70	0.05	0.20
+7316-882	588322	8.2	BS_GWCRMKE6	GoodRin	Low-grade glioma/astrocytoma	87.74	6af130ca-7764-457c-aceb-c1de394b0c9b.rsem.genes.results.gz	0.43	0.21	10.83	0.03	0.20
+7316-884	588323	8	BS_9BJARSX3	GoodRin	Low-grade glioma/astrocytoma	87.98	fd01e9eb-e340-4f8e-961f-8985ca83b2e4.rsem.genes.results.gz	0.42	0.19	10.83	0.03	0.17
+7316-889	571421	8.5	BS_PSW27ZTE	GoodRin	Ependymoma	86.65	a442e582-873c-4e90-8efc-9afca2670948.rsem.genes.results.gz	0.76	0.21	11.06	0.10	0.26
+7316-89	577715	7.2	BS_XQ5SFW35	GoodRin	High-grade glioma/astrocytoma	82.98	a52f3222-ad04-42eb-aa12-8ce76ff37f14.rsem.genes.results.gz	0.55	0.17	15.12	0.10	0.21
+7316-891	734522	5.5	BS_N1E0H8YQ	LowRin	Low-grade glioma/astrocytoma	82.12	fbf256cd-35d3-41d2-98c3-163b12919ee2.rsem.genes.results.gz	0.40	0.30	15.23	0.04	0.22
+7316-892	588357	6.6	BS_MKP2Y41Z	GoodRin	Ependymoma	81.44	8ba5a2e7-0d30-43ee-828a-c14c63e48987.rsem.genes.results.gz	0.49	0.20	15.92	0.04	0.33
+7316-893	588358	8	BS_E4GC9EXR	GoodRin	Ganglioglioma	88.26	d455dcdd-644e-47e6-ad06-fcdf4e650d49.rsem.genes.results.gz	0.41	0.26	10.54	0.04	0.14
+7316-894	571437	8	BS_A89VAPVV	GoodRin	Teratoma	77.11	f89e7ec8-1307-4184-8ebf-0b74d42f6f77.rsem.genes.results.gz	0.62	0.18	18.56	0.13	0.37
+7316-896	588363	8.7	BS_WG203ECV	GoodRin	Low-grade glioma/astrocytoma	84.03	87077061-ad80-43ff-9ddc-83c199010c90.rsem.genes.results.gz	0.46	1.20	12.13	0.03	0.24
+7316-897	549568	9.4	BS_5PJCHF6V	GoodRin	Medulloblastoma	90.86	83299a08-6164-4d68-9dc8-6612182a9094.rsem.genes.results.gz	0.53	0.40	8.08	0.10	0.08
+7316-898	734539	7.6	BS_1RXZ3BP7	GoodRin	Low-grade glioma/astrocytoma	86.37	2a348fff-8d28-4484-9f66-d3ae1626c9f0.rsem.genes.results.gz	0.40	0.28	11.92	0.06	0.17
+7316-9	570098	6.3	BS_ZVX2GRD6	GoodRin	Low-grade glioma/astrocytoma	84.68	7ebb395b-9477-49f1-a8b5-fd8360d107ad.rsem.genes.results.gz	0.56	0.15	12.81	0.16	0.26
+7316-901	588364	8.9	BS_A3QZB9Y2	GoodRin	Meningioma	86.17	d7ba8708-ab9c-48e7-8cd7-52f49226378b.rsem.genes.results.gz	0.46	0.23	11.78	0.08	0.29
+7316-903	577716	8.6	BS_S5P8VTN5	GoodRin	Diffuse midline glioma	87.14	5302adc4-63c7-4ad5-b08e-3fe96ec62c06.rsem.genes.results.gz	0.53	0.28	11.39	0.06	0.15
+7316-905	734521	2.5	BS_PQ7CQFYR	BadRin	Ganglioglioma	76.52	c093a12d-5b68-486b-8f0b-f03cc3aec51f.rsem.genes.results.gz	0.50	0.11	19.77	0.09	0.34
+7316-906	588279	9.2	BS_4D9DD103	GoodRin	Medulloblastoma	82.79	d297a19c-a442-42e9-8f27-c24bf53bb328.rsem.genes.results.gz	0.29	0.27	15.28	0.05	0.15
+7316-908	549564	9.1	BS_61E80SD6	GoodRin	Medulloblastoma	90.70	f7a65076-4939-4d17-95e9-db3995b13242.rsem.genes.results.gz	0.45	0.33	8.14	0.11	0.08
+7316-91	570119	6.7	BS_3PYESPHA	GoodRin	Ganglioglioma	85.31	73dfdc67-68f4-4b26-a28e-f43f974c36b8.rsem.genes.results.gz	0.59	0.19	12.20	0.07	0.24
+7316-913	564444	8.7	BS_1EBQ3T20	GoodRin	High-grade glioma/astrocytoma	87.48	077f11ab-5b6c-4cab-a63c-9de3357ff176.rsem.genes.results.gz	0.33	0.28	11.36	0.14	0.06
+7316-913	739931	9.6	BS_M8EA6R2A	GoodRin	High-grade glioma/astrocytoma	79.00	04cafca8-3505-4d4e-b954-8625cd9fd206.rsem.genes.results.gz	0.48	0.16	18.17	0.09	0.24
+7316-913	739932	9.4	BS_8ZD6J47V	GoodRin	High-grade glioma/astrocytoma	81.37	312bdfa9-a312-47d4-a99e-351bb0477c26.rsem.genes.results.gz	0.48	0.19	16.36	0.08	0.21
+7316-914	571422	8.2	BS_F4E8R9VY	GoodRin	Ganglioglioma	83.88	b7cd6b9f-5f2c-4af3-bc73-574d884fa3a6.rsem.genes.results.gz	0.73	0.18	13.83	0.13	0.28
+7316-915	571423	7.5	BS_AJ6X83G5	GoodRin	Dysembryoplastic neuroepithelial tumor	82.50	c974b137-84b6-4159-a0c4-a2b8a84cba1a.rsem.genes.results.gz	0.77	0.18	14.53	0.08	0.34
+7316-917	739955	6	BS_769BDPDB	GoodRin	Low-grade glioma/astrocytoma	83.85	1b30da84-3a0b-40ec-98f1-494f0ba4fdbb.rsem.genes.results.gz	0.37	0.12	14.10	0.04	0.19
+7316-918	549562	6.8	BS_31TF0P1N	GoodRin	Atypical Teratoid Rhabdoid Tumor	74.59	05983e05-8c70-4b7c-b57e-2189751db9f9.rsem.genes.results.gz	0.50	0.14	23.31	0.07	0.18
+7316-92	570118	6.8	BS_EF775B3K	GoodRin	Cavernoma	84.93	7aaabeb1-0b31-4f76-9660-fadef41c3503.rsem.genes.results.gz	0.66	0.23	12.54	0.11	0.24
+7316-921	571436	6.5	BS_GFM6EA61	GoodRin	Chordoma	78.85	06c95152-b407-4017-ba76-0683076464fe.rsem.genes.results.gz	0.77	0.12	17.41	0.38	0.34
+7316-922	549582	8.8	BS_J1AB8PMA	GoodRin	Medulloblastoma	86.58	9ff93a52-5ca4-45b8-8766-468efa65160d.rsem.genes.results.gz	0.40	0.27	12.31	0.10	0.07
+7316-923	728283	4.3	BS_K5802F84	LowRin	Low-grade glioma/astrocytoma	81.02	7ee97016-2ca0-4726-89bb-2eb6d251e67f.rsem.genes.results.gz	0.32	0.24	16.54	0.07	0.28
+7316-924	739951	8.4	BS_EFEZB0ZH	GoodRin	Low-grade glioma/astrocytoma	85.49	deb6c8ce-5053-4aff-8632-8479efdc47e0.rsem.genes.results.gz	0.43	0.12	12.51	0.04	0.19
+7316-925	564450	8	BS_52426AMF	GoodRin	Low-grade glioma/astrocytoma	89.50	2ccd1598-2b64-4af5-b4e3-1400f5a148c6.rsem.genes.results.gz	0.32	0.27	9.34	0.11	0.06
+7316-929	588327	8.5	BS_QSTAVWGE	GoodRin	Ependymoma	87.23	b017e3c8-4ac8-4e08-b489-f516da5a1b5a.rsem.genes.results.gz	0.41	0.24	11.52	0.03	0.17
+7316-93	588325	8.6	BS_8SKZ7BRN	GoodRin	Low-grade glioma/astrocytoma	86.93	50fcacd8-0370-49c8-965d-809e159ec13b.rsem.genes.results.gz	0.46	0.31	11.09	0.05	0.23
+7316-931	608925	8.7	BS_81SP2HX4	GoodRin	Medulloblastoma	87.32	db5701d4-bdef-4c3c-8130-cc80435c483c.rsem.genes.results.gz	0.79	0.22	10.38	0.06	0.39
+7316-932	571438	8.4	BS_2EMW8ZG3	GoodRin	Low-grade glioma/astrocytoma	78.89	91c97712-a9b7-417c-80f8-106f451da6fc.rsem.genes.results.gz	0.57	0.15	17.67	0.09	0.32
+7316-934	654217	8.4	BS_GPEGRCCT	GoodRin	Low-grade glioma/astrocytoma	87.11	b58f2071-4961-42f8-b614-6d984cd29ec2.rsem.genes.results.gz	0.32	0.27	11.43	0.06	0.18
+7316-935	573137	8.4	BS_KE56MMY0	GoodRin	Neurofibroma/Plexiform	83.94	250672aa-019a-4ee5-be75-ec1921a1143d.rsem.genes.results.gz	0.56	0.22	14.24	0.12	0.16
+7316-936	588442	8.4	BS_8Z3SCKB5	GoodRin	Low-grade glioma/astrocytoma	79.79	45047adc-1f63-49dd-a3f3-77dab6072934.rsem.genes.results.gz	0.34	0.51	17.10	0.04	0.31
+7316-937	549585	7	BS_J8G4SH4Z	GoodRin	Medulloblastoma	91.95	f44b5dcd-f8f3-43c8-9cef-24a1850f7db5.rsem.genes.results.gz	0.41	0.39	7.01	0.12	0.05
+7316-938	588443	8.6	BS_S1KK7XRH	GoodRin	Low-grade glioma/astrocytoma	87.18	790dd13c-c5d6-4680-860a-15a85887e8f1.rsem.genes.results.gz	0.37	0.21	11.25	0.05	0.21
+7316-944	549611	8.9	BS_9DFBHHB5	GoodRin	Low-grade glioma/astrocytoma	83.96	5ec4e38d-e7ca-4428-bad7-e1fcbd775a27.rsem.genes.results.gz	0.43	0.25	12.66	0.06	0.14
+7316-946	588444	7.8	BS_AP0SZ364	GoodRin	Low-grade glioma/astrocytoma	86.25	8352f394-0ab9-44a1-8bb7-834e1fa80200.rsem.genes.results.gz	0.37	0.18	12.05	0.04	0.24
+7316-948	588445	8.9	BS_CQEETJ66	GoodRin	Schwannoma	84.72	f97b2a02-744a-4f54-8e4b-5e990d5a11b7.rsem.genes.results.gz	0.35	0.16	13.84	0.04	0.21
+7316-949	734543	8.7	BS_86Q14TZG	GoodRin	Craniopharyngioma	87.69	beac97b2-d11d-4613-b40e-86e8ef29ea01.rsem.genes.results.gz	0.40	0.37	10.50	0.08	0.19
+7316-95	608916	7.8	BS_FCAKKZ20	GoodRin	Medulloblastoma	87.53	b225db60-3ee7-4771-8ff5-56e6b5f0e4f4.rsem.genes.results.gz	0.87	0.31	9.67	0.09	0.47
+7316-950	731928	9.2	BS_FBJ5Q54N	GoodRin	CNS Embryonal tumor	85.69	39baf53f-3420-4801-bc5b-6e3ec5a14dab.rsem.genes.results.gz	0.35	0.29	12.25	0.11	0.17
+7316-952	734519	5.5	BS_ZR96A4FH	LowRin	Dysembryoplastic neuroepithelial tumor	83.42	79f7b95e-9049-46dd-ad9f-385884d626ed.rsem.genes.results.gz	0.46	0.32	14.07	0.07	0.23
+7316-954	549590	8.4	BS_5YJEPPTP	GoodRin	Low-grade glioma/astrocytoma	83.62	f1639e27-6fda-4807-b643-37b8060aa5c8.rsem.genes.results.gz	0.39	0.24	14.80	0.06	0.09
+7316-956	573138	8.5	BS_B9V8RGTA	GoodRin	Ewing sarcoma	83.11	735d7670-fd4e-4099-8b5b-36e117c3b314.rsem.genes.results.gz	0.56	0.23	14.80	0.26	0.15
+7316-957	571420	7.8	BS_T4JFN54G	GoodRin	Low-grade glioma/astrocytoma	76.25	9b43b011-afec-445e-bfc5-bc9404dea9ec.rsem.genes.results.gz	1.03	0.18	19.78	0.11	0.50
+7316-96	564488	8.3	BS_VJVDJABP	GoodRin	Medulloblastoma	89.21	feea1a6f-2938-4268-9ded-ecbb867819bd.rsem.genes.results.gz	0.99	0.25	9.38	0.10	0.32
+7316-965	564475	7.9	BS_3KASVCSQ	GoodRin	Teratoma	86.19	4fb7cf0b-db00-444e-90cd-b63b55ded6b8.rsem.genes.results.gz	0.99	0.22	11.91	0.07	0.39
+7316-966	731918	9.1	BS_P78SMRBS	GoodRin	Ependymoma	81.73	61efa544-3e52-4f9c-a9a9-ac78e3dcdb59.rsem.genes.results.gz	0.34	0.16	15.23	0.09	0.22
+7316-97	588350	6.8	BS_CVGFNCBJ	GoodRin	Low-grade glioma/astrocytoma	81.34	8bf359b5-0142-4daa-be08-c7ade902cadd.rsem.genes.results.gz	0.45	0.21	16.28	0.05	0.26
+7316-974	549622	7	BS_J6VKB1VE	GoodRin	Low-grade glioma/astrocytoma	91.95	fd097ae7-b128-475a-af29-951852c9d48a.rsem.genes.results.gz	0.47	0.42	6.98	0.06	0.08
